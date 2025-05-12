@@ -8,7 +8,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/تكلم.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تكلم.mp3"
   },
   {
     "arabic_full": "يتكلم",
@@ -19,7 +19,7 @@
     "type": "Present (He)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/يتكلم.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/يتكلم.mp3"
   },
   {
     "arabic_full": "تتكلم",
@@ -30,7 +30,7 @@
     "type": "Present (You)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تتكلم.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تتكلم.mp3"
   },
   {
     "arabic_full": "لا تتكلم",
@@ -41,7 +41,7 @@
     "type": "Imperative Negative (You)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/لا_تتكلم.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/لا_تتكلم.mp3"
   },
   {
     "arabic_full": "نتكلم",
@@ -52,7 +52,7 @@
     "type": "Present (We)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/نتكلم.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نتكلم.mp3"
   },
   {
     "arabic_full": "يتكلموا",
@@ -63,7 +63,7 @@
     "type": "Present (They - used in Past Continuous)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/يتكلموا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/يتكلموا.mp3"
   },
   {
     "arabic_full": "اتكلمت",
@@ -74,7 +74,7 @@
     "type": "Past (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/اتكلمت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/اتكلمت.mp3"
   },
   {
     "arabic_full": "أتكلم",
@@ -85,7 +85,7 @@
     "type": "Present (I) / Infinitive",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أتكلم.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أتكلم.mp3"
   },
   {
     "arabic_full": "كلم (كلّم)",
@@ -96,7 +96,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كلم.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كلم.mp3"
   },
   {
     "arabic_full": "كلم",
@@ -107,7 +107,7 @@
     "type": "Imperative (You)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كلم.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كلم.mp3"
   },
   {
     "arabic_full": "كلمت",
@@ -118,7 +118,7 @@
     "type": "Past (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كلمت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كلمت.mp3"
   },
   {
     "arabic_full": "كلمها",
@@ -129,7 +129,7 @@
     "type": "Imperative (You + her object pronoun)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كلمها.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كلمها.mp3"
   },
   {
     "arabic_full": "قال (قال)",
@@ -140,7 +140,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/قال.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قال.mp3"
   },
   {
     "arabic_full": "قال",
@@ -151,7 +151,7 @@
     "type": "Past (He)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/قال.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قال.mp3"
   },
   {
     "arabic_full": "قالت",
@@ -162,7 +162,7 @@
     "type": "Past (She)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/قالت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قالت.mp3"
   },
   {
     "arabic_full": "يقول",
@@ -173,7 +173,7 @@
     "type": "Present (He)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/يقول.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/يقول.mp3"
   },
   {
     "arabic_full": "تقول",
@@ -184,7 +184,7 @@
     "type": "Present (You) / Infinitive (used after Tabi/Tibgha)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تقول.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تقول.mp3"
   },
   {
     "arabic_full": "قلت",
@@ -195,7 +195,7 @@
     "type": "Past (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/قلت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قلت.mp3"
   },
   {
     "arabic_full": "قال لك",
@@ -206,7 +206,7 @@
     "type": "Past (He + you object pronoun)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/قال_لك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قال_لك.mp3"
   },
   {
     "arabic_full": "لا تقول",
@@ -217,7 +217,7 @@
     "type": "Imperative Negative (You)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/لا_تقول.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/لا_تقول.mp3"
   },
   {
     "arabic_full": "تدري",
@@ -228,7 +228,7 @@
     "type": "Present (She - used with Maa)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تدري.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تدري.mp3"
   },
   {
     "arabic_full": "أدري",
@@ -239,7 +239,7 @@
     "type": "Present (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أدري.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أدري.mp3"
   },
   {
     "arabic_full": "ما أدري / مدري",
@@ -250,7 +250,7 @@
     "type": "Present Negative (I) / Casual Short Form",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ما_أدري___مدري.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما_أدري___مدري.mp3"
   },
   {
     "arabic_full": "طلع (طلع)",
@@ -261,7 +261,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/طلع.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/طلع.mp3"
   },
   {
     "arabic_full": "طلع",
@@ -272,7 +272,7 @@
     "type": "Past (He/It)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/طلع.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/طلع.mp3"
   },
   {
     "arabic_full": "كان (كان)",
@@ -283,7 +283,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كان.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كان.mp3"
   },
   {
     "arabic_full": "كانوا",
@@ -294,7 +294,7 @@
     "type": "Past (They)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كانوا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كانوا.mp3"
   },
   {
     "arabic_full": "كنت",
@@ -305,7 +305,7 @@
     "type": "Past (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كنت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كنت.mp3"
   },
   {
     "arabic_full": "كانت",
@@ -316,7 +316,7 @@
     "type": "Past (She/It)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كانت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كانت.mp3"
   },
   {
     "arabic_full": "كنا",
@@ -327,7 +327,7 @@
     "type": "Past (We)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كنا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كنا.mp3"
   },
   {
     "arabic_full": "ما كان",
@@ -338,7 +338,7 @@
     "type": "Past Negative (He/It)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ما_كان.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما_كان.mp3"
   },
   {
     "arabic_full": "أبغى (بغى)",
@@ -349,7 +349,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أبغى.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أبغى.mp3"
   },
   {
     "arabic_full": "أبغى",
@@ -360,7 +360,7 @@
     "type": "Present (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أبغى.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أبغى.mp3"
   },
   {
     "arabic_full": "تبغى",
@@ -371,7 +371,7 @@
     "type": "Present (You)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تبغى.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تبغى.mp3"
   },
   {
     "arabic_full": "تبغاه",
@@ -382,7 +382,7 @@
     "type": "Present (You + it object pronoun)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تبغاه.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تبغاه.mp3"
   },
   {
     "arabic_full": "تبي (بغي/بغى)",
@@ -393,7 +393,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تبي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تبي.mp3"
   },
   {
     "arabic_full": "تبي",
@@ -404,7 +404,7 @@
     "type": "Present (You - shorter variant)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تبي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تبي.mp3"
   },
   {
     "arabic_full": "ما أبي / ما أبغى",
@@ -415,7 +415,7 @@
     "type": "Present Negative (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ما_أبي___ما_أبغى.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما_أبي___ما_أبغى.mp3"
   },
   {
     "arabic_full": "نبغى",
@@ -426,7 +426,7 @@
     "type": "Present (We)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/نبغى.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نبغى.mp3"
   },
   {
     "arabic_full": "صدق (صدّق)",
@@ -437,7 +437,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/صدق.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/صدق.mp3"
   },
   {
     "arabic_full": "ما صدق",
@@ -448,7 +448,7 @@
     "type": "Past Negative (He)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/ما_صدق.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما_صدق.mp3"
   },
   {
     "arabic_full": "أصدق",
@@ -459,7 +459,7 @@
     "type": "Present (I)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أصدق.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أصدق.mp3"
   },
   {
     "arabic_full": "ما أصدق",
@@ -470,7 +470,7 @@
     "type": "Present Negative (I)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/ما_أصدق.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما_أصدق.mp3"
   },
   {
     "arabic_full": "أروح (راح)",
@@ -481,7 +481,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أروح.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أروح.mp3"
   },
   {
     "arabic_full": "أروح",
@@ -492,7 +492,7 @@
     "type": "Present (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أروح.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أروح.mp3"
   },
   {
     "arabic_full": "تروح",
@@ -503,7 +503,7 @@
     "type": "Present (You)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تروح.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تروح.mp3"
   },
   {
     "arabic_full": "نروح",
@@ -514,7 +514,7 @@
     "type": "Present (We)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/نروح.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نروح.mp3"
   },
   {
     "arabic_full": "بنروح",
@@ -525,7 +525,7 @@
     "type": "Future (We)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/بنروح.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/بنروح.mp3"
   },
   {
     "arabic_full": "ذهب (ذهب)",
@@ -536,7 +536,7 @@
     "type": "-",
     "notes": "",
     "dialect": "MSA",
-    "audio_path": "assets/audio/ذهب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ذهب.mp3"
   },
   {
     "arabic_full": "ذهبت",
@@ -547,7 +547,7 @@
     "type": "Past (I)",
     "notes": "",
     "dialect": "MSA",
-    "audio_path": "assets/audio/ذهبت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ذهبت.mp3"
   },
   {
     "arabic_full": "أتعلم (تعلّم)",
@@ -558,7 +558,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أتعلم.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أتعلم.mp3"
   },
   {
     "arabic_full": "أتعلم",
@@ -569,7 +569,7 @@
     "type": "Present (I) / Infinitive",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أتعلم.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أتعلم.mp3"
   },
   {
     "arabic_full": "نسافر (سافر)",
@@ -580,7 +580,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/نسافر.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نسافر.mp3"
   },
   {
     "arabic_full": "حنسافر",
@@ -591,7 +591,7 @@
     "type": "Future (We)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/حنسافر.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/حنسافر.mp3"
   },
   {
     "arabic_full": "أسافر",
@@ -602,7 +602,7 @@
     "type": "Present (I) / Infinitive",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أسافر.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أسافر.mp3"
   },
   {
     "arabic_full": "أجي (جاء)",
@@ -613,7 +613,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أجي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أجي.mp3"
   },
   {
     "arabic_full": "أجي",
@@ -624,7 +624,7 @@
     "type": "Present (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أجي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أجي.mp3"
   },
   {
     "arabic_full": "تجي",
@@ -635,7 +635,7 @@
     "type": "Present (You)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تجي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تجي.mp3"
   },
   {
     "arabic_full": "تعالى (تعال)",
@@ -646,7 +646,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تعالى.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تعالى.mp3"
   },
   {
     "arabic_full": "تعال",
@@ -657,7 +657,7 @@
     "type": "Imperative (You)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تعال.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تعال.mp3"
   },
   {
     "arabic_full": "اتصل (اتّصل)",
@@ -668,7 +668,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/اتصل.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/اتصل.mp3"
   },
   {
     "arabic_full": "اتصلت",
@@ -679,7 +679,7 @@
     "type": "Past (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/اتصلت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/اتصلت.mp3"
   },
   {
     "arabic_full": "دقيت",
@@ -690,7 +690,7 @@
     "type": "Past (You)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/دقيت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/دقيت.mp3"
   },
   {
     "arabic_full": "رحت (راح)",
@@ -701,7 +701,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/رحت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/رحت.mp3"
   },
   {
     "arabic_full": "رحت",
@@ -712,7 +712,7 @@
     "type": "Past (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/رحت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/رحت.mp3"
   },
   {
     "arabic_full": "أقدر (قدر)",
@@ -723,7 +723,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أقدر.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أقدر.mp3"
   },
   {
     "arabic_full": "أقدر",
@@ -734,7 +734,7 @@
     "type": "Present (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أقدر.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أقدر.mp3"
   },
   {
     "arabic_full": "تقدر",
@@ -745,7 +745,7 @@
     "type": "Present (You)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تقدر.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تقدر.mp3"
   },
   {
     "arabic_full": "نقدر",
@@ -756,7 +756,7 @@
     "type": "Present (We)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/نقدر.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نقدر.mp3"
   },
   {
     "arabic_full": "أخلص (أخلص)",
@@ -767,7 +767,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أخلص.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أخلص.mp3"
   },
   {
     "arabic_full": "أخلص",
@@ -778,7 +778,7 @@
     "type": "Present (I) / Infinitive",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أخلص.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أخلص.mp3"
   },
   {
     "arabic_full": "نخلص",
@@ -789,7 +789,7 @@
     "type": "Present (We)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/نخلص.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نخلص.mp3"
   },
   {
     "arabic_full": "قطعت (قطع)",
@@ -800,7 +800,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/قطعت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قطعت.mp3"
   },
   {
     "arabic_full": "قطعت",
@@ -811,7 +811,7 @@
     "type": "Past (She/It)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/قطعت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قطعت.mp3"
   },
   {
     "arabic_full": "أحب (أحبّ)",
@@ -822,7 +822,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أحب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أحب.mp3"
   },
   {
     "arabic_full": "أحب",
@@ -833,7 +833,7 @@
     "type": "Present (I)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أحب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أحب.mp3"
   },
   {
     "arabic_full": "تحب",
@@ -844,7 +844,7 @@
     "type": "Present (She)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/تحب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تحب.mp3"
   },
   {
     "arabic_full": "ما تحب",
@@ -855,7 +855,7 @@
     "type": "Present Negative (She)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ما_تحب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما_تحب.mp3"
   },
   {
     "arabic_full": "أقرا (قرأ)",
@@ -866,7 +866,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أقرا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أقرا.mp3"
   },
   {
     "arabic_full": "أقرا",
@@ -877,7 +877,7 @@
     "type": "Present (I)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أقرا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أقرا.mp3"
   },
   {
     "arabic_full": "أكتب (كتب)",
@@ -888,7 +888,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أكتب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أكتب.mp3"
   },
   {
     "arabic_full": "أكتب",
@@ -899,7 +899,7 @@
     "type": "Present (I)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أكتب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أكتب.mp3"
   },
   {
     "arabic_full": "نزور (زار)",
@@ -910,7 +910,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/نزور.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نزور.mp3"
   },
   {
     "arabic_full": "نزور",
@@ -921,7 +921,7 @@
     "type": "Present (We)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/نزور.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نزور.mp3"
   },
   {
     "arabic_full": "أزور",
@@ -932,7 +932,7 @@
     "type": "Present (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أزور.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أزور.mp3"
   },
   {
     "arabic_full": "فهمت (فهم)",
@@ -943,7 +943,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/فهمت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/فهمت.mp3"
   },
   {
     "arabic_full": "ما فهمت",
@@ -954,7 +954,7 @@
     "type": "Past Negative (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ما_فهمت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما_فهمت.mp3"
   },
   {
     "arabic_full": "تشرب (شرب)",
@@ -965,7 +965,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/تشرب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تشرب.mp3"
   },
   {
     "arabic_full": "تشرب",
@@ -976,7 +976,7 @@
     "type": "Present (You) / Infinitive",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تشرب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تشرب.mp3"
   },
   {
     "arabic_full": "تعرف (عرف)",
@@ -987,7 +987,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/تعرف.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تعرف.mp3"
   },
   {
     "arabic_full": "تعرف",
@@ -998,7 +998,7 @@
     "type": "Present (You)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تعرف.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تعرف.mp3"
   },
   {
     "arabic_full": "تدور (دار)",
@@ -1009,7 +1009,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تدور.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تدور.mp3"
   },
   {
     "arabic_full": "تدور",
@@ -1020,7 +1020,7 @@
     "type": "Present (You)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تدور.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تدور.mp3"
   },
   {
     "arabic_full": "أمشي (مشى)",
@@ -1031,7 +1031,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أمشي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أمشي.mp3"
   },
   {
     "arabic_full": "أمشي",
@@ -1042,7 +1042,7 @@
     "type": "Present (I) / Infinitive",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أمشي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أمشي.mp3"
   },
   {
     "arabic_full": "نتمشى (تمشّى)",
@@ -1053,7 +1053,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/نتمشى.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نتمشى.mp3"
   },
   {
     "arabic_full": "نتمشى",
@@ -1064,7 +1064,7 @@
     "type": "Present (We) / Infinitive",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/نتمشى.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نتمشى.mp3"
   },
   {
     "arabic_full": "يمدينا (أمكن)",
@@ -1075,7 +1075,7 @@
     "type": "Present",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/يمدينا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/يمدينا.mp3"
   },
   {
     "arabic_full": "نجرّب (جرّب)",
@@ -1086,7 +1086,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/نجر_ب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نجر_ب.mp3"
   },
   {
     "arabic_full": "أجرب",
@@ -1097,7 +1097,7 @@
     "type": "Present (I) / Infinitive",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أجرب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أجرب.mp3"
   },
   {
     "arabic_full": "نجرب",
@@ -1108,7 +1108,7 @@
     "type": "Present (We)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/نجرب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نجرب.mp3"
   },
   {
     "arabic_full": "استنى (استنّى)",
@@ -1119,7 +1119,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/استنى.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/استنى.mp3"
   },
   {
     "arabic_full": "استنيت",
@@ -1130,7 +1130,7 @@
     "type": "Past (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/استنيت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/استنيت.mp3"
   },
   {
     "arabic_full": "لقي (لقى)",
@@ -1141,7 +1141,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/لقي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/لقي.mp3"
   },
   {
     "arabic_full": "لقيت",
@@ -1152,7 +1152,7 @@
     "type": "Past (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/لقيت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/لقيت.mp3"
   },
   {
     "arabic_full": "ألاقي / ألقى",
@@ -1163,7 +1163,7 @@
     "type": "Present (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ألاقي___ألقى.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ألاقي___ألقى.mp3"
   },
   {
     "arabic_full": "تساعد (ساعد)",
@@ -1174,7 +1174,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/تساعد.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تساعد.mp3"
   },
   {
     "arabic_full": "تساعدني",
@@ -1185,7 +1185,7 @@
     "type": "Present (You + me object pronoun)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تساعدني.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تساعدني.mp3"
   },
   {
     "arabic_full": "نلحق (لحق)",
@@ -1196,7 +1196,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/نلحق.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نلحق.mp3"
   },
   {
     "arabic_full": "نلحق",
@@ -1207,7 +1207,7 @@
     "type": "Present (We)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/نلحق.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نلحق.mp3"
   },
   {
     "arabic_full": "يقفلون (أقفل)",
@@ -1218,7 +1218,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/يقفلون.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/يقفلون.mp3"
   },
   {
     "arabic_full": "يقفلون",
@@ -1229,7 +1229,7 @@
     "type": "Present (They)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/يقفلون.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/يقفلون.mp3"
   },
   {
     "arabic_full": "أفكر (فكّر)",
@@ -1240,7 +1240,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أفكر.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أفكر.mp3"
   },
   {
     "arabic_full": "أفكر",
@@ -1251,7 +1251,7 @@
     "type": "Present (I)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أفكر.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أفكر.mp3"
   },
   {
     "arabic_full": "مفكر",
@@ -1262,7 +1262,7 @@
     "type": "Participle",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/مفكر.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مفكر.mp3"
   },
   {
     "arabic_full": "كنت مفكر",
@@ -1273,7 +1273,7 @@
     "type": "Past State / Continuous (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كنت_مفكر.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كنت_مفكر.mp3"
   },
   {
     "arabic_full": "أغير (غيّر)",
@@ -1284,7 +1284,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أغير.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أغير.mp3"
   },
   {
     "arabic_full": "أغير",
@@ -1295,7 +1295,7 @@
     "type": "Present (I) / Infinitive",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أغير.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أغير.mp3"
   },
   {
     "arabic_full": "قرر (قرّر)",
@@ -1306,7 +1306,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/قرر.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قرر.mp3"
   },
   {
     "arabic_full": "قررت",
@@ -1317,7 +1317,7 @@
     "type": "Past (I)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/قررت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قررت.mp3"
   },
   {
     "arabic_full": "أزور (زار)",
@@ -1328,7 +1328,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أزور.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أزور.mp3"
   },
   {
     "arabic_full": "أزور",
@@ -1339,7 +1339,7 @@
     "type": "Present (I)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أزور.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أزور.mp3"
   },
   {
     "arabic_full": "أطبخ (طبخ)",
@@ -1350,7 +1350,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أطبخ.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أطبخ.mp3"
   },
   {
     "arabic_full": "أطبخ",
@@ -1361,7 +1361,7 @@
     "type": "Present (I) / Infinitive",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أطبخ.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أطبخ.mp3"
   },
   {
     "arabic_full": "أشتري (اشترى)",
@@ -1372,7 +1372,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أشتري.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أشتري.mp3"
   },
   {
     "arabic_full": "أشتري",
@@ -1383,7 +1383,7 @@
     "type": "Present (I) / Infinitive",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أشتري.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أشتري.mp3"
   },
   {
     "arabic_full": "وصل (وصل)",
@@ -1394,7 +1394,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/وصل.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/وصل.mp3"
   },
   {
     "arabic_full": "بنوصل",
@@ -1405,7 +1405,7 @@
     "type": "Future (We)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/بنوصل.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/بنوصل.mp3"
   },
   {
     "arabic_full": "بوصل",
@@ -1416,7 +1416,7 @@
     "type": "Future (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/بوصل.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/بوصل.mp3"
   },
   {
     "arabic_full": "وصلت",
@@ -1427,7 +1427,7 @@
     "type": "Past (I)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/وصلت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/وصلت.mp3"
   },
   {
     "arabic_full": "أعرف (عرف)",
@@ -1438,7 +1438,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أعرف.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أعرف.mp3"
   },
   {
     "arabic_full": "أعرفه",
@@ -1449,7 +1449,7 @@
     "type": "Present (I + him object pronoun - used in Past Habitual)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أعرفه.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أعرفه.mp3"
   },
   {
     "arabic_full": "كان يعرفه",
@@ -1460,7 +1460,7 @@
     "type": "Past Habitual (I + him object pronoun)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كان_يعرفه.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كان_يعرفه.mp3"
   },
   {
     "arabic_full": "كنت ناوي",
@@ -1471,7 +1471,7 @@
     "type": "Past State (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كنت_ناوي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كنت_ناوي.mp3"
   },
   {
     "arabic_full": "ناوي",
@@ -1482,7 +1482,7 @@
     "type": "Participle",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ناوي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ناوي.mp3"
   },
   {
     "arabic_full": "حسب (حسب)",
@@ -1493,7 +1493,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/حسب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/حسب.mp3"
   },
   {
     "arabic_full": "حسبت",
@@ -1504,7 +1504,7 @@
     "type": "Past (I)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/حسبت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/حسبت.mp3"
   },
   {
     "arabic_full": "أسوي (سوّى)",
@@ -1515,7 +1515,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أسوي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أسوي.mp3"
   },
   {
     "arabic_full": "أسوي",
@@ -1526,7 +1526,7 @@
     "type": "Present (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أسوي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أسوي.mp3"
   },
   {
     "arabic_full": "تسوي",
@@ -1537,7 +1537,7 @@
     "type": "Present (You)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تسوي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تسوي.mp3"
   },
   {
     "arabic_full": "أحس (حسّ)",
@@ -1548,7 +1548,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أحس.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أحس.mp3"
   },
   {
     "arabic_full": "أحس",
@@ -1559,7 +1559,7 @@
     "type": "Present (I)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أحس.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أحس.mp3"
   },
   {
     "arabic_full": "حسّيت",
@@ -1570,7 +1570,7 @@
     "type": "Past (I)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/حس_يت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/حس_يت.mp3"
   },
   {
     "arabic_full": "ما حسّيت",
@@ -1581,7 +1581,7 @@
     "type": "Past Negative (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ما_حس_يت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما_حس_يت.mp3"
   },
   {
     "arabic_full": "صار (صار)",
@@ -1592,7 +1592,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/صار.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/صار.mp3"
   },
   {
     "arabic_full": "صار",
@@ -1603,7 +1603,7 @@
     "type": "Past (He/It)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/صار.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/صار.mp3"
   },
   {
     "arabic_full": "صرت",
@@ -1614,7 +1614,7 @@
     "type": "Past (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/صرت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/صرت.mp3"
   },
   {
     "arabic_full": "دق (دقّ)",
@@ -1625,7 +1625,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/دق.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/دق.mp3"
   },
   {
     "arabic_full": "دقيت",
@@ -1636,7 +1636,7 @@
     "type": "Past (You)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/دقيت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/دقيت.mp3"
   },
   {
     "arabic_full": "ننسى (نسي)",
@@ -1647,7 +1647,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/ننسى.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ننسى.mp3"
   },
   {
     "arabic_full": "نسيت",
@@ -1658,7 +1658,7 @@
     "type": "Past (I)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/نسيت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نسيت.mp3"
   },
   {
     "arabic_full": "تذكّر (تذكّر)",
@@ -1669,7 +1669,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/تذك_ر.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تذك_ر.mp3"
   },
   {
     "arabic_full": "تذكرت",
@@ -1680,7 +1680,7 @@
     "type": "Past (I)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/تذكرت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تذكرت.mp3"
   },
   {
     "arabic_full": "أرسل (أرسل)",
@@ -1691,7 +1691,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أرسل.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أرسل.mp3"
   },
   {
     "arabic_full": "أرسلت",
@@ -1702,7 +1702,7 @@
     "type": "Past (I)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أرسلت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أرسلت.mp3"
   },
   {
     "arabic_full": "أكمل (أكمل)",
@@ -1713,7 +1713,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أكمل.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أكمل.mp3"
   },
   {
     "arabic_full": "أكمل",
@@ -1724,7 +1724,7 @@
     "type": "Present (I)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أكمل.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أكمل.mp3"
   },
   {
     "arabic_full": "بدأ (بدأ)",
@@ -1735,7 +1735,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/بدأ.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/بدأ.mp3"
   },
   {
     "arabic_full": "بدأته",
@@ -1746,7 +1746,7 @@
     "type": "Past (I + it object pronoun)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/بدأته.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/بدأته.mp3"
   },
   {
     "arabic_full": "أهتم (اهتمّ)",
@@ -1757,7 +1757,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أهتم.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أهتم.mp3"
   },
   {
     "arabic_full": "أهتم",
@@ -1768,7 +1768,7 @@
     "type": "Present (I)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أهتم.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أهتم.mp3"
   },
   {
     "arabic_full": "مرّ (مرّ)",
@@ -1779,7 +1779,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/مر_.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مر_.mp3"
   },
   {
     "arabic_full": "أمر",
@@ -1790,7 +1790,7 @@
     "type": "Present (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أمر.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أمر.mp3"
   },
   {
     "arabic_full": "مرّيت",
@@ -1801,7 +1801,7 @@
     "type": "Past (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/مر_يت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مر_يت.mp3"
   },
   {
     "arabic_full": "تسأل (سأل)",
@@ -1812,7 +1812,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/تسأل.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تسأل.mp3"
   },
   {
     "arabic_full": "كانت تسأل",
@@ -1823,7 +1823,7 @@
     "type": "Past Continuous (She)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كانت_تسأل.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كانت_تسأل.mp3"
   },
   {
     "arabic_full": "نمشي (مشى)",
@@ -1834,7 +1834,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/نمشي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نمشي.mp3"
   },
   {
     "arabic_full": "نمشي",
@@ -1845,7 +1845,7 @@
     "type": "Present (We)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/نمشي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نمشي.mp3"
   },
   {
     "arabic_full": "يمشي",
@@ -1856,7 +1856,7 @@
     "type": "Present (He/It)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/يمشي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/يمشي.mp3"
   },
   {
     "arabic_full": "استوعب (استوعب)",
@@ -1867,7 +1867,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/استوعب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/استوعب.mp3"
   },
   {
     "arabic_full": "ما استوعبت",
@@ -1878,7 +1878,7 @@
     "type": "Past Negative (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ما_استوعبت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما_استوعبت.mp3"
   },
   {
     "arabic_full": "قعد (قعد)",
@@ -1889,7 +1889,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/قعد.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قعد.mp3"
   },
   {
     "arabic_full": "قعدنا",
@@ -1900,7 +1900,7 @@
     "type": "Past Continuous (We)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/قعدنا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قعدنا.mp3"
   },
   {
     "arabic_full": "نضحك (ضحك)",
@@ -1911,7 +1911,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/نضحك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نضحك.mp3"
   },
   {
     "arabic_full": "نضحك",
@@ -1922,7 +1922,7 @@
     "type": "Present (We) / Infinitive",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/نضحك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نضحك.mp3"
   },
   {
     "arabic_full": "لا تضحك",
@@ -1933,7 +1933,7 @@
     "type": "Imperative Negative (You)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/لا_تضحك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/لا_تضحك.mp3"
   },
   {
     "arabic_full": "طار (طار)",
@@ -1944,7 +1944,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/طار.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/طار.mp3"
   },
   {
     "arabic_full": "طار",
@@ -1955,7 +1955,7 @@
     "type": "Past (He/It)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/طار.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/طار.mp3"
   },
   {
     "arabic_full": "انبسط (انبسط)",
@@ -1966,7 +1966,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/انبسط.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/انبسط.mp3"
   },
   {
     "arabic_full": "انبسطت",
@@ -1977,7 +1977,7 @@
     "type": "Past (I)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/انبسطت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/انبسطت.mp3"
   },
   {
     "arabic_full": "استمتع (استمتع)",
@@ -1988,7 +1988,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/استمتع.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/استمتع.mp3"
   },
   {
     "arabic_full": "استمتعت",
@@ -1999,7 +1999,7 @@
     "type": "Past (I)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/استمتعت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/استمتعت.mp3"
   },
   {
     "arabic_full": "تقبّل (تقبّل)",
@@ -2010,7 +2010,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/تقب_ل.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تقب_ل.mp3"
   },
   {
     "arabic_full": "يتقبلون",
@@ -2021,7 +2021,7 @@
     "type": "Present (They)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/يتقبلون.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/يتقبلون.mp3"
   },
   {
     "arabic_full": "جاء (جاء)",
@@ -2032,7 +2032,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/جاء.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/جاء.mp3"
   },
   {
     "arabic_full": "جا",
@@ -2043,7 +2043,7 @@
     "type": "Past (He)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/جا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/جا.mp3"
   },
   {
     "arabic_full": "أرد (ردّ)",
@@ -2054,7 +2054,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أرد.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أرد.mp3"
   },
   {
     "arabic_full": "أرد",
@@ -2065,7 +2065,7 @@
     "type": "Present (I) / Infinitive",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أرد.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أرد.mp3"
   },
   {
     "arabic_full": "شرّف (شرّف)",
@@ -2076,7 +2076,7 @@
     "type": "-",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/شر_ف.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/شر_ف.mp3"
   },
   {
     "arabic_full": "شرفتني",
@@ -2087,7 +2087,7 @@
     "type": "Past (You masculine singular + me object pronoun)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/شرفتني.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/شرفتني.mp3"
   },
   {
     "arabic_full": "شرفتونا",
@@ -2098,7 +2098,7 @@
     "type": "Past (You plural + us object pronoun)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/شرفتونا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/شرفتونا.mp3"
   },
   {
     "arabic_full": "ألماني",
@@ -2109,7 +2109,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/ألماني.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ألماني.mp3"
   },
   {
     "arabic_full": "صوت",
@@ -2120,7 +2120,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/صوت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/صوت.mp3"
   },
   {
     "arabic_full": "جوال",
@@ -2131,7 +2131,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/جوال.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/جوال.mp3"
   },
   {
     "arabic_full": "خالد",
@@ -2142,7 +2142,7 @@
     "type": "",
     "notes": "",
     "dialect": "",
-    "audio_path": "assets/audio/خالد.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/خالد.mp3"
   },
   {
     "arabic_full": "المدير",
@@ -2153,7 +2153,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/المدير.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/المدير.mp3"
   },
   {
     "arabic_full": "أختي",
@@ -2164,7 +2164,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أختي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أختي.mp3"
   },
   {
     "arabic_full": "أخت",
@@ -2175,7 +2175,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أخت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أخت.mp3"
   },
   {
     "arabic_full": "خطتي",
@@ -2186,7 +2186,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/خطتي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/خطتي.mp3"
   },
   {
     "arabic_full": "الخطة",
@@ -2197,7 +2197,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/الخطة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الخطة.mp3"
   },
   {
     "arabic_full": "أمك",
@@ -2208,7 +2208,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أمك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أمك.mp3"
   },
   {
     "arabic_full": "أمي",
@@ -2219,7 +2219,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أمي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أمي.mp3"
   },
   {
     "arabic_full": "أم",
@@ -2230,7 +2230,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أم.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أم.mp3"
   },
   {
     "arabic_full": "رأيها",
@@ -2241,7 +2241,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/رأيها.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/رأيها.mp3"
   },
   {
     "arabic_full": "رأي",
@@ -2252,7 +2252,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/رأي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/رأي.mp3"
   },
   {
     "arabic_full": "كلام",
@@ -2263,7 +2263,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/كلام.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كلام.mp3"
   },
   {
     "arabic_full": "كلامي",
@@ -2274,7 +2274,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كلامي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كلامي.mp3"
   },
   {
     "arabic_full": "كلامك",
@@ -2285,7 +2285,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كلامك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كلامك.mp3"
   },
   {
     "arabic_full": "الشغل",
@@ -2296,7 +2296,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/الشغل.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الشغل.mp3"
   },
   {
     "arabic_full": "عربي",
@@ -2307,7 +2307,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/عربي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/عربي.mp3"
   },
   {
     "arabic_full": "صاحبي",
@@ -2318,7 +2318,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/صاحبي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/صاحبي.mp3"
   },
   {
     "arabic_full": "صاحب",
@@ -2329,7 +2329,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/صاحب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/صاحب.mp3"
   },
   {
     "arabic_full": "الرياض",
@@ -2340,7 +2340,7 @@
     "type": "",
     "notes": "",
     "dialect": "",
-    "audio_path": "assets/audio/الرياض.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الرياض.mp3"
   },
   {
     "arabic_full": "وقت",
@@ -2351,7 +2351,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/وقت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/وقت.mp3"
   },
   {
     "arabic_full": "الكهرباء",
@@ -2362,7 +2362,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/الكهرباء.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الكهرباء.mp3"
   },
   {
     "arabic_full": "كتب",
@@ -2373,7 +2373,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/كتب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كتب.mp3"
   },
   {
     "arabic_full": "كتاب",
@@ -2384,7 +2384,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/كتاب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كتاب.mp3"
   },
   {
     "arabic_full": "فراغ",
@@ -2395,7 +2395,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/فراغ.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/فراغ.mp3"
   },
   {
     "arabic_full": "وقت الفراغ",
@@ -2406,7 +2406,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/وقت_الفراغ.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/وقت_الفراغ.mp3"
   },
   {
     "arabic_full": "رسالة",
@@ -2417,7 +2417,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/رسالة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/رسالة.mp3"
   },
   {
     "arabic_full": "رسالتك",
@@ -2428,7 +2428,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/رسالتك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/رسالتك.mp3"
   },
   {
     "arabic_full": "السوق",
@@ -2439,7 +2439,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/السوق.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/السوق.mp3"
   },
   {
     "arabic_full": "جدتي",
@@ -2450,7 +2450,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/جدتي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/جدتي.mp3"
   },
   {
     "arabic_full": "جدة",
@@ -2461,7 +2461,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/جدة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/جدة.mp3"
   },
   {
     "arabic_full": "اسمك",
@@ -2472,7 +2472,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/اسمك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/اسمك.mp3"
   },
   {
     "arabic_full": "اسم",
@@ -2483,7 +2483,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/اسم.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/اسم.mp3"
   },
   {
     "arabic_full": "الجامعة",
@@ -2494,7 +2494,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/الجامعة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الجامعة.mp3"
   },
   {
     "arabic_full": "الدوام",
@@ -2505,7 +2505,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/الدوام.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الدوام.mp3"
   },
   {
     "arabic_full": "شي",
@@ -2516,7 +2516,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/شي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/شي.mp3"
   },
   {
     "arabic_full": "مزاج",
@@ -2527,7 +2527,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/مزاج.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مزاج.mp3"
   },
   {
     "arabic_full": "مطعم",
@@ -2538,7 +2538,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/مطعم.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مطعم.mp3"
   },
   {
     "arabic_full": "أهل",
@@ -2549,7 +2549,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أهل.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أهل.mp3"
   },
   {
     "arabic_full": "أهلي",
@@ -2560,7 +2560,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أهلي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أهلي.mp3"
   },
   {
     "arabic_full": "مكان",
@@ -2571,7 +2571,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/مكان.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مكان.mp3"
   },
   {
     "arabic_full": "طريقة",
@@ -2582,7 +2582,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/طريقة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/طريقة.mp3"
   },
   {
     "arabic_full": "الله",
@@ -2593,7 +2593,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/الله.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الله.mp3"
   },
   {
     "arabic_full": "الأسبوع",
@@ -2604,7 +2604,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/الأسبوع.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الأسبوع.mp3"
   },
   {
     "arabic_full": "الأسبوع الجاي",
@@ -2615,7 +2615,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/الأسبوع_الجاي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الأسبوع_الجاي.mp3"
   },
   {
     "arabic_full": "الطريق",
@@ -2626,7 +2626,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/الطريق.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الطريق.mp3"
   },
   {
     "arabic_full": "دقيقة",
@@ -2637,7 +2637,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/دقيقة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/دقيقة.mp3"
   },
   {
     "arabic_full": "عشرين دقيقة",
@@ -2648,7 +2648,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/عشرين_دقيقة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/عشرين_دقيقة.mp3"
   },
   {
     "arabic_full": "مرة",
@@ -2659,7 +2659,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/مرة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مرة.mp3"
   },
   {
     "arabic_full": "المزاج",
@@ -2670,7 +2670,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/المزاج.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/المزاج.mp3"
   },
   {
     "arabic_full": "الصورة",
@@ -2681,7 +2681,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/الصورة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الصورة.mp3"
   },
   {
     "arabic_full": "واتساب",
@@ -2692,7 +2692,7 @@
     "type": "",
     "notes": "",
     "dialect": "",
-    "audio_path": "assets/audio/واتساب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/واتساب.mp3"
   },
   {
     "arabic_full": "موعد",
@@ -2703,7 +2703,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/موعد.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/موعد.mp3"
   },
   {
     "arabic_full": "التأخير",
@@ -2714,7 +2714,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/التأخير.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/التأخير.mp3"
   },
   {
     "arabic_full": "الحقيقة",
@@ -2725,7 +2725,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/الحقيقة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الحقيقة.mp3"
   },
   {
     "arabic_full": "الحين",
@@ -2736,7 +2736,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/الحين.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الحين.mp3"
   },
   {
     "arabic_full": "كون",
@@ -2747,7 +2747,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/كون.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كون.mp3"
   },
   {
     "arabic_full": "جو",
@@ -2758,7 +2758,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/جو.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/جو.mp3"
   },
   {
     "arabic_full": "الجو",
@@ -2769,7 +2769,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/الجو.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الجو.mp3"
   },
   {
     "arabic_full": "الأجانب",
@@ -2780,7 +2780,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/الأجانب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الأجانب.mp3"
   },
   {
     "arabic_full": "واحد",
@@ -2791,7 +2791,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/واحد.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/واحد.mp3"
   },
   {
     "arabic_full": "الأكل الإيطالي",
@@ -2802,7 +2802,7 @@
     "type": "",
     "notes": "",
     "dialect": "",
-    "audio_path": "assets/audio/الأكل_الإيطالي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الأكل_الإيطالي.mp3"
   },
   {
     "arabic_full": "افتخار",
@@ -2813,7 +2813,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/افتخار.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/افتخار.mp3"
   },
   {
     "arabic_full": "قلبي",
@@ -2824,7 +2824,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/قلبي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قلبي.mp3"
   },
   {
     "arabic_full": "قلب",
@@ -2835,7 +2835,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/قلب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قلب.mp3"
   },
   {
     "arabic_full": "شروق",
@@ -2846,7 +2846,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/شروق.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/شروق.mp3"
   },
   {
     "arabic_full": "جمال",
@@ -2857,7 +2857,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/جمال.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/جمال.mp3"
   },
   {
     "arabic_full": "ارتياح",
@@ -2868,7 +2868,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/ارتياح.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ارتياح.mp3"
   },
   {
     "arabic_full": "لحظة",
@@ -2879,7 +2879,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/لحظة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/لحظة.mp3"
   },
   {
     "arabic_full": "يوم",
@@ -2890,7 +2890,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/يوم.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/يوم.mp3"
   },
   {
     "arabic_full": "عالي",
@@ -2901,7 +2901,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/عالي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/عالي.mp3"
   },
   {
     "arabic_full": "فاضي",
@@ -2912,7 +2912,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/فاضي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/فاضي.mp3"
   },
   {
     "arabic_full": "غلط",
@@ -2923,7 +2923,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/غلط.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/غلط.mp3"
   },
   {
     "arabic_full": "تعبان",
@@ -2934,7 +2934,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/تعبان.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تعبان.mp3"
   },
   {
     "arabic_full": "عربي",
@@ -2945,7 +2945,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/عربي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/عربي.mp3"
   },
   {
     "arabic_full": "موجود",
@@ -2956,7 +2956,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/موجود.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/موجود.mp3"
   },
   {
     "arabic_full": "صحيح",
@@ -2967,7 +2967,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/صحيح.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/صحيح.mp3"
   },
   {
     "arabic_full": "رهيب",
@@ -2978,7 +2978,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/رهيب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/رهيب.mp3"
   },
   {
     "arabic_full": "طبيعي",
@@ -2989,7 +2989,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/طبيعي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/طبيعي.mp3"
   },
   {
     "arabic_full": "مو طبيعي",
@@ -3000,7 +3000,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/مو_طبيعي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مو_طبيعي.mp3"
   },
   {
     "arabic_full": "جائع",
@@ -3011,7 +3011,7 @@
     "type": "",
     "notes": "",
     "dialect": "MSA",
-    "audio_path": "assets/audio/جائع.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/جائع.mp3"
   },
   {
     "arabic_full": "جوعان",
@@ -3022,7 +3022,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/جوعان.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/جوعان.mp3"
   },
   {
     "arabic_full": "هادي",
@@ -3033,7 +3033,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/هادي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/هادي.mp3"
   },
   {
     "arabic_full": "جديد",
@@ -3044,7 +3044,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/جديد.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/جديد.mp3"
   },
   {
     "arabic_full": "متأكد",
@@ -3055,7 +3055,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/متأكد.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/متأكد.mp3"
   },
   {
     "arabic_full": "مبسوط",
@@ -3066,7 +3066,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/مبسوط.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مبسوط.mp3"
   },
   {
     "arabic_full": "مختلفة",
@@ -3077,7 +3077,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/مختلفة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مختلفة.mp3"
   },
   {
     "arabic_full": "صريح",
@@ -3088,7 +3088,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/صريح.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/صريح.mp3"
   },
   {
     "arabic_full": "عادي",
@@ -3099,7 +3099,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/عادي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/عادي.mp3"
   },
   {
     "arabic_full": "جميل",
@@ -3110,7 +3110,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/جميل.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/جميل.mp3"
   },
   {
     "arabic_full": "بسيط",
@@ -3121,7 +3121,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/بسيط.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/بسيط.mp3"
   },
   {
     "arabic_full": "مستحيل",
@@ -3132,7 +3132,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/مستحيل.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مستحيل.mp3"
   },
   {
     "arabic_full": "حلو",
@@ -3143,7 +3143,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/حلو.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/حلو.mp3"
   },
   {
     "arabic_full": "أحلى",
@@ -3154,7 +3154,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أحلى.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أحلى.mp3"
   },
   {
     "arabic_full": "غريب",
@@ -3165,7 +3165,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/غريب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/غريب.mp3"
   },
   {
     "arabic_full": "متأخر",
@@ -3176,7 +3176,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/متأخر.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/متأخر.mp3"
   },
   {
     "arabic_full": "هو",
@@ -3187,7 +3187,7 @@
     "type": "Personal",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/هو.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/هو.mp3"
   },
   {
     "arabic_full": "إحنا",
@@ -3198,7 +3198,7 @@
     "type": "Personal",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/إحنا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/إحنا.mp3"
   },
   {
     "arabic_full": "هم",
@@ -3209,7 +3209,7 @@
     "type": "Personal",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/هم.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/هم.mp3"
   },
   {
     "arabic_full": "أنا",
@@ -3220,7 +3220,7 @@
     "type": "Personal",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أنا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أنا.mp3"
   },
   {
     "arabic_full": "هي",
@@ -3231,7 +3231,7 @@
     "type": "Personal",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/هي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/هي.mp3"
   },
   {
     "arabic_full": "أنت",
@@ -3242,7 +3242,7 @@
     "type": "Personal",
     "notes": "",
     "dialect": "MSA",
-    "audio_path": "assets/audio/أنت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أنت.mp3"
   },
   {
     "arabic_full": "إنت",
@@ -3253,7 +3253,7 @@
     "type": "Personal",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/إنت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/إنت.mp3"
   },
   {
     "arabic_full": "هذا",
@@ -3264,7 +3264,7 @@
     "type": "Demonstrative",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/هذا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/هذا.mp3"
   },
   {
     "arabic_full": "هذي",
@@ -3275,7 +3275,7 @@
     "type": "Demonstrative",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/هذي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/هذي.mp3"
   },
   {
     "arabic_full": "أحد",
@@ -3286,7 +3286,7 @@
     "type": "Indefinite",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أحد.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أحد.mp3"
   },
   {
     "arabic_full": "-ي",
@@ -3297,7 +3297,7 @@
     "type": "Possessive / Object",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/-ي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/-ي.mp3"
   },
   {
     "arabic_full": "-ك",
@@ -3308,7 +3308,7 @@
     "type": "Possessive / Object",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/-ك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/-ك.mp3"
   },
   {
     "arabic_full": "-ها",
@@ -3319,7 +3319,7 @@
     "type": "Possessive / Object",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/-ها.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/-ها.mp3"
   },
   {
     "arabic_full": "-ه",
@@ -3330,7 +3330,7 @@
     "type": "Possessive / Object",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/-ه.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/-ه.mp3"
   },
   {
     "arabic_full": "-نا",
@@ -3341,7 +3341,7 @@
     "type": "Possessive / Object",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/-نا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/-نا.mp3"
   },
   {
     "arabic_full": "-يّ",
@@ -3352,7 +3352,7 @@
     "type": "Object + Preposition fusion",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/-ي_.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/-ي_.mp3"
   },
   {
     "arabic_full": "-لك",
@@ -3363,7 +3363,7 @@
     "type": "Preposition + Object",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/-لك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/-لك.mp3"
   },
   {
     "arabic_full": "مع",
@@ -3374,7 +3374,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/مع.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مع.mp3"
   },
   {
     "arabic_full": "عن",
@@ -3385,7 +3385,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/عن.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/عن.mp3"
   },
   {
     "arabic_full": "بـ",
@@ -3396,7 +3396,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/بـ.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/بـ.mp3"
   },
   {
     "arabic_full": "لـ",
@@ -3407,7 +3407,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/لـ.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/لـ.mp3"
   },
   {
     "arabic_full": "قبل",
@@ -3418,7 +3418,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/قبل.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قبل.mp3"
   },
   {
     "arabic_full": "قبل ما",
@@ -3429,7 +3429,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/قبل_ما.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قبل_ما.mp3"
   },
   {
     "arabic_full": "بعد",
@@ -3440,7 +3440,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/بعد.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/بعد.mp3"
   },
   {
     "arabic_full": "إلى",
@@ -3451,7 +3451,7 @@
     "type": "",
     "notes": "",
     "dialect": "MSA",
-    "audio_path": "assets/audio/إلى.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/إلى.mp3"
   },
   {
     "arabic_full": "من",
@@ -3462,7 +3462,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/من.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/من.mp3"
   },
   {
     "arabic_full": "في",
@@ -3473,7 +3473,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/في.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/في.mp3"
   },
   {
     "arabic_full": "فيه",
@@ -3484,7 +3484,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/فيه.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/فيه.mp3"
   },
   {
     "arabic_full": "عليها",
@@ -3495,7 +3495,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/عليها.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/عليها.mp3"
   },
   {
     "arabic_full": "عليك",
@@ -3506,7 +3506,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/عليك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/عليك.mp3"
   },
   {
     "arabic_full": "على",
@@ -3517,7 +3517,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/على.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/على.mp3"
   },
   {
     "arabic_full": "لا",
@@ -3528,7 +3528,7 @@
     "type": "Negator (Imperative / Simple)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/لا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/لا.mp3"
   },
   {
     "arabic_full": "ما",
@@ -3539,7 +3539,7 @@
     "type": "Negator (Past / Ongoing)",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/ما.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما.mp3"
   },
   {
     "arabic_full": "مو",
@@ -3550,7 +3550,7 @@
     "type": "Negator (Casual / Hejazi/Gulf)",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/مو.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مو.mp3"
   },
   {
     "arabic_full": "كذا",
@@ -3561,7 +3561,7 @@
     "type": "Adverb",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كذا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كذا.mp3"
   },
   {
     "arabic_full": "قاعد",
@@ -3572,7 +3572,7 @@
     "type": "Particle",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/قاعد.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قاعد.mp3"
   },
   {
     "arabic_full": "ممكن",
@@ -3583,7 +3583,7 @@
     "type": "Adverb / Modal",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/ممكن.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ممكن.mp3"
   },
   {
     "arabic_full": "إنه",
@@ -3594,7 +3594,7 @@
     "type": "Connector",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/إنه.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/إنه.mp3"
   },
   {
     "arabic_full": "إن",
@@ -3605,7 +3605,7 @@
     "type": "Connector",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/إن.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/إن.mp3"
   },
   {
     "arabic_full": "إنك",
@@ -3616,7 +3616,7 @@
     "type": "Connector",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/إنك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/إنك.mp3"
   },
   {
     "arabic_full": "و",
@@ -3627,7 +3627,7 @@
     "type": "Connector",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/و.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/و.mp3"
   },
   {
     "arabic_full": "بس",
@@ -3638,7 +3638,7 @@
     "type": "Connector",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/بس.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/بس.mp3"
   },
   {
     "arabic_full": "لو",
@@ -3649,7 +3649,7 @@
     "type": "Connector",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/لو.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/لو.mp3"
   },
   {
     "arabic_full": "حـ / بـ",
@@ -3660,7 +3660,7 @@
     "type": "Prefix",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/حـ___بـ.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/حـ___بـ.mp3"
   },
   {
     "arabic_full": "وبعدين",
@@ -3671,7 +3671,7 @@
     "type": "Connector",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/وبعدين.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/وبعدين.mp3"
   },
   {
     "arabic_full": "عشان",
@@ -3682,7 +3682,7 @@
     "type": "Connector",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/عشان.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/عشان.mp3"
   },
   {
     "arabic_full": "عشان كذا",
@@ -3693,7 +3693,7 @@
     "type": "Phrase/Connector",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/عشان_كذا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/عشان_كذا.mp3"
   },
   {
     "arabic_full": "اللي",
@@ -3704,7 +3704,7 @@
     "type": "Connector",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/اللي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/اللي.mp3"
   },
   {
     "arabic_full": "وش",
@@ -3715,7 +3715,7 @@
     "type": "Question Word",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/وش.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/وش.mp3"
   },
   {
     "arabic_full": "إيش",
@@ -3726,7 +3726,7 @@
     "type": "Question Word",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/إيش.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/إيش.mp3"
   },
   {
     "arabic_full": "مين",
@@ -3737,7 +3737,7 @@
     "type": "Question Word",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/مين.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مين.mp3"
   },
   {
     "arabic_full": "كيف",
@@ -3748,7 +3748,7 @@
     "type": "Question Word",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/كيف.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كيف.mp3"
   },
   {
     "arabic_full": "إذا",
@@ -3759,7 +3759,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/إذا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/إذا.mp3"
   },
   {
     "arabic_full": "يعني",
@@ -3770,7 +3770,7 @@
     "type": "Particle / Filler",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/يعني.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/يعني.mp3"
   },
   {
     "arabic_full": "بعد",
@@ -3781,7 +3781,7 @@
     "type": "Adverb",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/بعد.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/بعد.mp3"
   },
   {
     "arabic_full": "برضو",
@@ -3792,7 +3792,7 @@
     "type": "Adverb",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/برضو.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/برضو.mp3"
   },
   {
     "arabic_full": "يمكن",
@@ -3803,7 +3803,7 @@
     "type": "Adverb / Modal",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/يمكن.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/يمكن.mp3"
   },
   {
     "arabic_full": "شوية",
@@ -3814,7 +3814,7 @@
     "type": "Adverb",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/شوية.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/شوية.mp3"
   },
   {
     "arabic_full": "شوي",
@@ -3825,7 +3825,7 @@
     "type": "Adverb",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/شوي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/شوي.mp3"
   },
   {
     "arabic_full": "لما",
@@ -3836,7 +3836,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/لما.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/لما.mp3"
   },
   {
     "arabic_full": "دايمًا",
@@ -3847,7 +3847,7 @@
     "type": "Adverb",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/دايم_ا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/دايم_ا.mp3"
   },
   {
     "arabic_full": "أحيانًا",
@@ -3858,7 +3858,7 @@
     "type": "Adverb",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أحيان_ا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أحيان_ا.mp3"
   },
   {
     "arabic_full": "نادراً",
@@ -3869,7 +3869,7 @@
     "type": "Adverb",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/نادرا_.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نادرا_.mp3"
   },
   {
     "arabic_full": "كثير",
@@ -3880,7 +3880,7 @@
     "type": "Adverb / Adjective",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/كثير.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كثير.mp3"
   },
   {
     "arabic_full": "خصوصاً",
@@ -3891,7 +3891,7 @@
     "type": "Adverb",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/خصوصا_.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/خصوصا_.mp3"
   },
   {
     "arabic_full": "بالذات",
@@ -3902,7 +3902,7 @@
     "type": "Phrase/Adverb",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/بالذات.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/بالذات.mp3"
   },
   {
     "arabic_full": "فجأة",
@@ -3913,7 +3913,7 @@
     "type": "Adverb",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/فجأة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/فجأة.mp3"
   },
   {
     "arabic_full": "هناك",
@@ -3924,7 +3924,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/هناك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/هناك.mp3"
   },
   {
     "arabic_full": "هنا",
@@ -3935,7 +3935,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/هنا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/هنا.mp3"
   },
   {
     "arabic_full": "برّا",
@@ -3946,7 +3946,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/بر_ا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/بر_ا.mp3"
   },
   {
     "arabic_full": "الواقت",
@@ -3957,7 +3957,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/الواقت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الواقت.mp3"
   },
   {
     "arabic_full": "بسرعة",
@@ -3968,7 +3968,7 @@
     "type": "Phrase/Adverb",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/بسرعة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/بسرعة.mp3"
   },
   {
     "arabic_full": "أثناء",
@@ -3979,7 +3979,7 @@
     "type": "",
     "notes": "",
     "dialect": "MSA",
-    "audio_path": "assets/audio/أثناء.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أثناء.mp3"
   },
   {
     "arabic_full": "خلال",
@@ -3990,7 +3990,7 @@
     "type": "",
     "notes": "",
     "dialect": "MSA",
-    "audio_path": "assets/audio/خلال.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/خلال.mp3"
   },
   {
     "arabic_full": "غالبًا",
@@ -4001,7 +4001,7 @@
     "type": "",
     "notes": "",
     "dialect": "MSA",
-    "audio_path": "assets/audio/غالب_ا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/غالب_ا.mp3"
   },
   {
     "arabic_full": "جداً",
@@ -4012,7 +4012,7 @@
     "type": "",
     "notes": "",
     "dialect": "MSA",
-    "audio_path": "assets/audio/جدا_.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/جدا_.mp3"
   },
   {
     "arabic_full": "خارج",
@@ -4023,7 +4023,7 @@
     "type": "",
     "notes": "",
     "dialect": "MSA",
-    "audio_path": "assets/audio/خارج.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/خارج.mp3"
   },
   {
     "arabic_full": "قبل قليل",
@@ -4034,7 +4034,7 @@
     "type": "",
     "notes": "",
     "dialect": "MSA",
-    "audio_path": "assets/audio/قبل_قليل.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قبل_قليل.mp3"
   },
   {
     "arabic_full": "تمامًا",
@@ -4045,7 +4045,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/تمام_ا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تمام_ا.mp3"
   },
   {
     "arabic_full": "ما شاء الله",
@@ -4056,7 +4056,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/ما_شاء_الله.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما_شاء_الله.mp3"
   },
   {
     "arabic_full": "ايه",
@@ -4067,7 +4067,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ايه.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ايه.mp3"
   },
   {
     "arabic_full": "تمام",
@@ -4078,7 +4078,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تمام.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تمام.mp3"
   },
   {
     "arabic_full": "خلاص",
@@ -4089,7 +4089,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/خلاص.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/خلاص.mp3"
   },
   {
     "arabic_full": "الصراحة",
@@ -4100,7 +4100,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/الصراحة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الصراحة.mp3"
   },
   {
     "arabic_full": "صدق؟",
@@ -4111,7 +4111,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/صدق_.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/صدق_.mp3"
   },
   {
     "arabic_full": "مستحيل!",
@@ -4122,7 +4122,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/مستحيل_.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مستحيل_.mp3"
   },
   {
     "arabic_full": "عادي",
@@ -4133,7 +4133,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/عادي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/عادي.mp3"
   },
   {
     "arabic_full": "العفو",
@@ -4144,7 +4144,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/العفو.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/العفو.mp3"
   },
   {
     "arabic_full": "أبد",
@@ -4155,7 +4155,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أبد.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أبد.mp3"
   },
   {
     "arabic_full": "ولا يهمك",
@@ -4166,7 +4166,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/ولا_يهمك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ولا_يهمك.mp3"
   },
   {
     "arabic_full": "يا سلام",
@@ -4177,7 +4177,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/يا_سلام.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/يا_سلام.mp3"
   },
   {
     "arabic_full": "أهلًا وسهلًا",
@@ -4188,7 +4188,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/أهل_ا_وسهل_ا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أهل_ا_وسهل_ا.mp3"
   },
   {
     "arabic_full": "يا هلا",
@@ -4199,7 +4199,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/يا_هلا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/يا_هلا.mp3"
   },
   {
     "arabic_full": "سلام",
@@ -4210,7 +4210,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/سلام.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/سلام.mp3"
   },
   {
     "arabic_full": "مرحبًا",
@@ -4221,7 +4221,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/مرحب_ا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مرحب_ا.mp3"
   },
   {
     "arabic_full": "يا نور",
@@ -4232,7 +4232,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/يا_نور.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/يا_نور.mp3"
   },
   {
     "arabic_full": "سمي",
@@ -4243,7 +4243,7 @@
     "type": "",
     "notes": "",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/سمي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/سمي.mp3"
   },
   {
     "arabic_full": "شكرًا جزيلًا",
@@ -4254,7 +4254,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/شكر_ا_جزيل_ا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/شكر_ا_جزيل_ا.mp3"
   },
   {
     "arabic_full": "مساء الـ...",
@@ -4265,7 +4265,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/مساء_الـ....mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مساء_الـ....mp3"
   },
   {
     "arabic_full": "والله",
@@ -4276,7 +4276,7 @@
     "type": "",
     "notes": "",
     "dialect": "Both",
-    "audio_path": "assets/audio/والله.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/والله.mp3"
   },
   {
     "arabic_full": "اوه",
@@ -4287,7 +4287,7 @@
     "type": "",
     "notes": "",
     "dialect": "",
-    "audio_path": "assets/audio/اوه.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/اوه.mp3"
   },
   {
     "arabic_full": "بصوت عالي",
@@ -4298,7 +4298,7 @@
     "type": "",
     "notes": "Lit. \"with voice high\"",
     "dialect": "Both",
-    "audio_path": "assets/audio/بصوت_عالي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/بصوت_عالي.mp3"
   },
   {
     "arabic_full": "قبل ما",
@@ -4309,7 +4309,7 @@
     "type": "",
     "notes": "Colloquial conjunction",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/قبل_ما.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قبل_ما.mp3"
   },
   {
     "arabic_full": "ما تدري",
@@ -4320,7 +4320,7 @@
     "type": "",
     "notes": "Colloquial negation of a present verb",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ما_تدري.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما_تدري.mp3"
   },
   {
     "arabic_full": "إيش قاعد يقول؟",
@@ -4331,7 +4331,7 @@
     "type": "",
     "notes": "Using Qaaʿid for present continuous",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/إيش_قاعد_يقول_.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/إيش_قاعد_يقول_.mp3"
   },
   {
     "arabic_full": "قال لي",
@@ -4342,7 +4342,7 @@
     "type": "",
     "notes": "Verb + preposition",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/قال_لي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قال_لي.mp3"
   },
   {
     "arabic_full": "لا تقول لأحد",
@@ -4353,7 +4353,7 @@
     "type": "",
     "notes": "Aḥad with negation means \"anyone/no one\"",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/لا_تقول_لأحد.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/لا_تقول_لأحد.mp3"
   },
   {
     "arabic_full": "كلام فاضي",
@@ -4364,7 +4364,7 @@
     "type": "",
     "notes": "Lit. \"empty words\"",
     "dialect": "Both",
-    "audio_path": "assets/audio/كلام_فاضي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كلام_فاضي.mp3"
   },
   {
     "arabic_full": "كانوا يتكلموا",
@@ -4375,7 +4375,7 @@
     "type": "",
     "notes": "Kaanu + present verb for past continuous",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كانوا_يتكلموا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كانوا_يتكلموا.mp3"
   },
   {
     "arabic_full": "كنت أبغى",
@@ -4386,7 +4386,7 @@
     "type": "",
     "notes": "Kaan + Abgha often means 'wanted' or 'used to want'",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كنت_أبغى.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كنت_أبغى.mp3"
   },
   {
     "arabic_full": "وبس",
@@ -4397,7 +4397,7 @@
     "type": "",
     "notes": "Lit. \"and just/only\"",
     "dialect": "Both",
-    "audio_path": "assets/audio/وبس.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/وبس.mp3"
   },
   {
     "arabic_full": "كنت قاعد أطبخ",
@@ -4408,7 +4408,7 @@
     "type": "",
     "notes": "Kaan + Qaaʿid + present verb for past continuous",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كنت_قاعد_أطبخ.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كنت_قاعد_أطبخ.mp3"
   },
   {
     "arabic_full": "ما فهمت وش تبي تقول",
@@ -4419,7 +4419,7 @@
     "type": "",
     "notes": "Example sentence structure",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ما_فهمت_وش_تبي_تقول.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما_فهمت_وش_تبي_تقول.mp3"
   },
   {
     "arabic_full": "وش رايك...؟",
@@ -4430,7 +4430,7 @@
     "type": "",
     "notes": "Lit. \"What is your opinion?\" - polite suggestion",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/وش_رايك..._.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/وش_رايك..._.mp3"
   },
   {
     "arabic_full": "مو متأكد إذا...",
@@ -4441,7 +4441,7 @@
     "type": "",
     "notes": "Casual negation + conditional",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/مو_متأكد_إذا....mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مو_متأكد_إذا....mp3"
   },
   {
     "arabic_full": "باين عليك...",
@@ -4452,7 +4452,7 @@
     "type": "",
     "notes": "Idiomatic expression",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/باين_عليك....mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/باين_عليك....mp3"
   },
   {
     "arabic_full": "خلينا...",
@@ -4463,7 +4463,7 @@
     "type": "",
     "notes": "Imperative form",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/خلينا....mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/خلينا....mp3"
   },
   {
     "arabic_full": "كنت مفكر بشي ثاني",
@@ -4474,7 +4474,7 @@
     "type": "",
     "notes": "Past state/continuous with participle",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كنت_مفكر_بشي_ثاني.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كنت_مفكر_بشي_ثاني.mp3"
   },
   {
     "arabic_full": "باين عليك مبسوط",
@@ -4485,7 +4485,7 @@
     "type": "",
     "notes": "Example sentence",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/باين_عليك_مبسوط.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/باين_عليك_مبسوط.mp3"
   },
   {
     "arabic_full": "قاعد أزور أهلي",
@@ -4496,7 +4496,7 @@
     "type": "",
     "notes": "Qaaʿid + present verb for present continuous",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/قاعد_أزور_أهلي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قاعد_أزور_أهلي.mp3"
   },
   {
     "arabic_full": "كنت قاعد أطبخ لما...",
@@ -4507,7 +4507,7 @@
     "type": "",
     "notes": "Kaan + Qaaʿid + present verb + Lamma for past continuous",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كنت_قاعد_أطبخ_لما....mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كنت_قاعد_أطبخ_لما....mp3"
   },
   {
     "arabic_full": "من وقت لوقت",
@@ -4518,7 +4518,7 @@
     "type": "",
     "notes": "Lit. \"from time to time\"",
     "dialect": "Both",
-    "audio_path": "assets/audio/من_وقت_لوقت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/من_وقت_لوقت.mp3"
   },
   {
     "arabic_full": "بطريقة ما",
@@ -4529,7 +4529,7 @@
     "type": "",
     "notes": "Lit. \"in a way not specified\"",
     "dialect": "Both",
-    "audio_path": "assets/audio/بطريقة_ما.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/بطريقة_ما.mp3"
   },
   {
     "arabic_full": "كيف صار كذا؟",
@@ -4540,7 +4540,7 @@
     "type": "",
     "notes": "Using Ṣar for \"to happen\"",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كيف_صار_كذا_.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كيف_صار_كذا_.mp3"
   },
   {
     "arabic_full": "المكان اللي كنا فيه",
@@ -4551,7 +4551,7 @@
     "type": "",
     "notes": "Using Illi + Kaan + Fih",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/المكان_اللي_كنا_فيه.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/المكان_اللي_كنا_فيه.mp3"
   },
   {
     "arabic_full": "أنا رايح هناك بعدين",
@@ -4562,7 +4562,7 @@
     "type": "",
     "notes": "Rāyiḥ (participle) used for near future intention",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أنا_رايح_هناك_بعدين.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أنا_رايح_هناك_بعدين.mp3"
   },
   {
     "arabic_full": "كنت ناوي أروح",
@@ -4573,7 +4573,7 @@
     "type": "",
     "notes": "Kaan + Nāwi (participle) for past intention/planning",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كنت_ناوي_أروح.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كنت_ناوي_أروح.mp3"
   },
   {
     "arabic_full": "أنا في الطريق الحين",
@@ -4584,7 +4584,7 @@
     "type": "",
     "notes": "Common phrase",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أنا_في_الطريق_الحين.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أنا_في_الطريق_الحين.mp3"
   },
   {
     "arabic_full": "بوصل هناك بعد...",
@@ -4595,7 +4595,7 @@
     "type": "",
     "notes": "Future verb + Baʿd + time",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/بوصل_هناك_بعد....mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/بوصل_هناك_بعد....mp3"
   },
   {
     "arabic_full": "اوه، حسبت إنه...",
@@ -4606,7 +4606,7 @@
     "type": "",
     "notes": "Common reaction phrase",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/اوه__حسبت_إنه....mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/اوه__حسبت_إنه....mp3"
   },
   {
     "arabic_full": "ما كنت أدري إنه...",
@@ -4617,7 +4617,7 @@
     "type": "",
     "notes": "Past state negation + Inn",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ما_كنت_أدري_إنه....mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما_كنت_أدري_إنه....mp3"
   },
   {
     "arabic_full": "هذي كانت أول مرة...",
@@ -4628,7 +4628,7 @@
     "type": "",
     "notes": "Common phrase structure",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/هذي_كانت_أول_مرة....mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/هذي_كانت_أول_مرة....mp3"
   },
   {
     "arabic_full": "أحس هذي أول مرة...",
@@ -4639,7 +4639,7 @@
     "type": "",
     "notes": "Using Aḥiss as \"I think/feel\" + common phrase",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أحس_هذي_أول_مرة....mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أحس_هذي_أول_مرة....mp3"
   },
   {
     "arabic_full": "دقيت عليّ",
@@ -4650,7 +4650,7 @@
     "type": "",
     "notes": "Verb + preposition + object pronoun",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/دقيت_علي_.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/دقيت_علي_.mp3"
   },
   {
     "arabic_full": "عشان كذا قلت لك",
@@ -4661,7 +4661,7 @@
     "type": "",
     "notes": "Example sentence",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/عشان_كذا_قلت_لك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/عشان_كذا_قلت_لك.mp3"
   },
   {
     "arabic_full": "برضو أوافقك",
@@ -4672,7 +4672,7 @@
     "type": "",
     "notes": "Example sentence",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/برضو_أوافقك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/برضو_أوافقك.mp3"
   },
   {
     "arabic_full": "على فكرة، الجو اليوم رهيب",
@@ -4683,7 +4683,7 @@
     "type": "",
     "notes": "Example sentence",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/على_فكرة__الجو_اليوم_رهيب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/على_فكرة__الجو_اليوم_رهيب.mp3"
   },
   {
     "arabic_full": "شي جديد",
@@ -4694,7 +4694,7 @@
     "type": "",
     "notes": "Noun + adjective",
     "dialect": "Both",
-    "audio_path": "assets/audio/شي_جديد.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/شي_جديد.mp3"
   },
   {
     "arabic_full": "نص ساعة",
@@ -4705,7 +4705,7 @@
     "type": "",
     "notes": "Noun phrase",
     "dialect": "Both",
-    "audio_path": "assets/audio/نص_ساعة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نص_ساعة.mp3"
   },
   {
     "arabic_full": "مطعم رهيب",
@@ -4716,7 +4716,7 @@
     "type": "",
     "notes": "Noun + adjective",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/مطعم_رهيب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مطعم_رهيب.mp3"
   },
   {
     "arabic_full": "تساعدني شوي",
@@ -4727,7 +4727,7 @@
     "type": "",
     "notes": "Verb + object + adverb",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تساعدني_شوي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تساعدني_شوي.mp3"
   },
   {
     "arabic_full": "قبل ما يقفلون",
@@ -4738,7 +4738,7 @@
     "type": "",
     "notes": "Colloquial conjunction + verb",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/قبل_ما_يقفلون.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قبل_ما_يقفلون.mp3"
   },
   {
     "arabic_full": "أفكر أغير خطتي",
@@ -4749,7 +4749,7 @@
     "type": "",
     "notes": "Verb + conjugated verb (like infinitive)",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أفكر_أغير_خطتي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أفكر_أغير_خطتي.mp3"
   },
   {
     "arabic_full": "قررت أسافر",
@@ -4760,7 +4760,7 @@
     "type": "",
     "notes": "Past verb + conjugated verb (like infinitive)",
     "dialect": "Both",
-    "audio_path": "assets/audio/قررت_أسافر.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قررت_أسافر.mp3"
   },
   {
     "arabic_full": "الصراحة، كنت مفكر بشي ثاني",
@@ -4771,7 +4771,7 @@
     "type": "",
     "notes": "Example sentence",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/الصراحة__كنت_مفكر_بشي_ثاني.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الصراحة__كنت_مفكر_بشي_ثاني.mp3"
   },
   {
     "arabic_full": "وش رايك نطلع نتمشى؟",
@@ -4782,7 +4782,7 @@
     "type": "",
     "notes": "Suggestion phrase + verbs",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/وش_رايك_نطلع_نتمشى_.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/وش_رايك_نطلع_نتمشى_.mp3"
   },
   {
     "arabic_full": "مو متأكد إذا يناسبنا",
@@ -4793,7 +4793,7 @@
     "type": "",
     "notes": "Example sentence",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/مو_متأكد_إذا_يناسبنا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مو_متأكد_إذا_يناسبنا.mp3"
   },
   {
     "arabic_full": "باين عليك مبسوط",
@@ -4804,7 +4804,7 @@
     "type": "",
     "notes": "Example sentence",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/باين_عليك_مبسوط.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/باين_عليك_مبسوط.mp3"
   },
   {
     "arabic_full": "في الليل",
@@ -4815,7 +4815,7 @@
     "type": "",
     "notes": "Phrase",
     "dialect": "Both",
-    "audio_path": "assets/audio/في_الليل.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/في_الليل.mp3"
   },
   {
     "arabic_full": "كنت أعرفه",
@@ -4826,7 +4826,7 @@
     "type": "",
     "notes": "Kaan + present verb for past habitual",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كنت_أعرفه.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كنت_أعرفه.mp3"
   },
   {
     "arabic_full": "مكان هادي",
@@ -4837,7 +4837,7 @@
     "type": "",
     "notes": "Noun + adjective",
     "dialect": "Both",
-    "audio_path": "assets/audio/مكان_هادي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مكان_هادي.mp3"
   },
   {
     "arabic_full": "ما توقعت",
@@ -4848,7 +4848,7 @@
     "type": "",
     "notes": "Past negative verb",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ما_توقعت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما_توقعت.mp3"
   },
   {
     "arabic_full": "كيف صار كذا؟",
@@ -4859,7 +4859,7 @@
     "type": "",
     "notes": "Example sentence",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كيف_صار_كذا_.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كيف_صار_كذا_.mp3"
   },
   {
     "arabic_full": "نمشي عالخطة",
@@ -4870,7 +4870,7 @@
     "type": "",
     "notes": "Lit. \"we walk on the plan\"",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/نمشي_عالخطة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نمشي_عالخطة.mp3"
   },
   {
     "arabic_full": "من وقت لوقت أزور أهلي",
@@ -4881,7 +4881,7 @@
     "type": "",
     "notes": "Example sentence",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/من_وقت_لوقت_أزور_أهلي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/من_وقت_لوقت_أزور_أهلي.mp3"
   },
   {
     "arabic_full": "لقيت أحد في المكان اللي كنا فيه",
@@ -4892,7 +4892,7 @@
     "type": "",
     "notes": "Example sentence",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/لقيت_أحد_في_المكان_اللي_كنا_فيه.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/لقيت_أحد_في_المكان_اللي_كنا_فيه.mp3"
   },
   {
     "arabic_full": "ما عاد أروح هناك",
@@ -4903,7 +4903,7 @@
     "type": "",
     "notes": "Idiomatic negation for \"anymore\"",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ما_عاد_أروح_هناك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما_عاد_أروح_هناك.mp3"
   },
   {
     "arabic_full": "أبد، ولا يهمك",
@@ -4914,7 +4914,7 @@
     "type": "",
     "notes": "Common response",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أبد__ولا_يهمك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أبد__ولا_يهمك.mp3"
   },
   {
     "arabic_full": "خصوصاً إذا الجو حلو",
@@ -4925,7 +4925,7 @@
     "type": "",
     "notes": "Example sentence",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/خصوصا__إذا_الجو_حلو.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/خصوصا__إذا_الجو_حلو.mp3"
   },
   {
     "arabic_full": "في الحقيقة...",
@@ -4936,7 +4936,7 @@
     "type": "",
     "notes": "Idiomatic phrase",
     "dialect": "Both",
-    "audio_path": "assets/audio/في_الحقيقة....mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/في_الحقيقة....mp3"
   },
   {
     "arabic_full": "كون إنه...",
@@ -4947,7 +4947,7 @@
     "type": "",
     "notes": "Idiomatic phrase",
     "dialect": "Both",
-    "audio_path": "assets/audio/كون_إنه....mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كون_إنه....mp3"
   },
   {
     "arabic_full": "سهلة من مايّه",
@@ -4958,7 +4958,7 @@
     "type": "",
     "notes": "Idiomatic expression (\"piece of cake\")",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/سهلة_من_ماي_ه.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/سهلة_من_ماي_ه.mp3"
   },
   {
     "arabic_full": "حبيبة قلبي",
@@ -4969,7 +4969,7 @@
     "type": "",
     "notes": "Affectionate expression",
     "dialect": "Both",
-    "audio_path": "assets/audio/حبيبة_قلبي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/حبيبة_قلبي.mp3"
   },
   {
     "arabic_full": "ما هو في مزاج",
@@ -4980,7 +4980,7 @@
     "type": "",
     "notes": "Using Moo + Huwa (He) + Fi + Noun",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ما_هو_في_مزاج.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما_هو_في_مزاج.mp3"
   },
   {
     "arabic_full": "ما يتقبلون الأجانب كثير",
@@ -4991,7 +4991,7 @@
     "type": "",
     "notes": "Using Kathiir to mean \"very\" with negation",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ما_يتقبلون_الأجانب_كثير.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما_يتقبلون_الأجانب_كثير.mp3"
   },
   {
     "arabic_full": "وبعدين جا واحد غريب عندنا",
@@ -5002,7 +5002,7 @@
     "type": "",
     "notes": "Common narrative phrase structure",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/وبعدين_جا_واحد_غريب_عندنا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/وبعدين_جا_واحد_غريب_عندنا.mp3"
   },
   {
     "arabic_full": "ما تحب الأكل الإيطالي مره",
@@ -5013,7 +5013,7 @@
     "type": "",
     "notes": "Using Marrah to mean \"very\" with negation",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ما_تحب_الأكل_الإيطالي_مره.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما_تحب_الأكل_الإيطالي_مره.mp3"
   },
   {
     "arabic_full": "كل شي صار بسرعة",
@@ -5024,7 +5024,7 @@
     "type": "",
     "notes": "Using Kull Shay + Ṣar + Bisurʿah",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كل_شي_صار_بسرعة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كل_شي_صار_بسرعة.mp3"
   },
   {
     "arabic_full": "الوقت طار بسرعة",
@@ -5035,7 +5035,7 @@
     "type": "",
     "notes": "Idiomatic use of Ṭaar",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/الوقت_طار_بسرعة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الوقت_طار_بسرعة.mp3"
   },
   {
     "arabic_full": "انبسطت مره",
@@ -5046,7 +5046,7 @@
     "type": "",
     "notes": "Common phrases for enjoying oneself",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/انبسطت_مره.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/انبسطت_مره.mp3"
   },
   {
     "arabic_full": "استمتعت كثير",
@@ -5057,7 +5057,7 @@
     "type": "",
     "notes": "Common phrases for enjoying oneself",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/استمتعت_كثير.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/استمتعت_كثير.mp3"
   },
   {
     "arabic_full": "نسيت أرد على رسالتك",
@@ -5068,7 +5068,7 @@
     "type": "",
     "notes": "Example sentence",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/نسيت_أرد_على_رسالتك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نسيت_أرد_على_رسالتك.mp3"
   },
   {
     "arabic_full": "تذكرت فجأة إن عندي موعد",
@@ -5079,7 +5079,7 @@
     "type": "",
     "notes": "Example sentence",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/تذكرت_فجأة_إن_عندي_موعد.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/تذكرت_فجأة_إن_عندي_موعد.mp3"
   },
   {
     "arabic_full": "أرسلت لك الصورة على واتساب",
@@ -5090,7 +5090,7 @@
     "type": "",
     "notes": "Example sentence",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أرسلت_لك_الصورة_على_واتساب.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أرسلت_لك_الصورة_على_واتساب.mp3"
   },
   {
     "arabic_full": "قاعد أكمل الشغل اللي بدأته",
@@ -5101,7 +5101,7 @@
     "type": "",
     "notes": "Example sentence with continuous + Illi + past verb",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/قاعد_أكمل_الشغل_اللي_بدأته.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قاعد_أكمل_الشغل_اللي_بدأته.mp3"
   },
   {
     "arabic_full": "وصلت متأخر شوي",
@@ -5112,7 +5112,7 @@
     "type": "",
     "notes": "Example sentence",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/وصلت_متأخر_شوي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/وصلت_متأخر_شوي.mp3"
   },
   {
     "arabic_full": "نادراً أروح هناك، بس المكان حلو",
@@ -5123,7 +5123,7 @@
     "type": "",
     "notes": "Example sentence with Adverb + Bas",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/نادرا__أروح_هناك__بس_المكان_حلو.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/نادرا__أروح_هناك__بس_المكان_حلو.mp3"
   },
   {
     "arabic_full": "أنا بالذات ما أحب التأخير",
@@ -5134,7 +5134,7 @@
     "type": "",
     "notes": "Example sentence with Bil-dhaat",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أنا_بالذات_ما_أحب_التأخير.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أنا_بالذات_ما_أحب_التأخير.mp3"
   },
   {
     "arabic_full": "أبغى أطلع شوي أغير جو",
@@ -5145,7 +5145,7 @@
     "type": "",
     "notes": "Example sentence with idiomatic \"change the vibe\"",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أبغى_أطلع_شوي_أغير_جو.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أبغى_أطلع_شوي_أغير_جو.mp3"
   },
   {
     "arabic_full": "ما لي خلق أتكلم اليوم",
@@ -5156,7 +5156,7 @@
     "type": "",
     "notes": "Idiomatic phrase for not having energy/mood",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ما_لي_خلق_أتكلم_اليوم.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما_لي_خلق_أتكلم_اليوم.mp3"
   },
   {
     "arabic_full": "الجو برّا مره حلو",
@@ -5167,7 +5167,7 @@
     "type": "",
     "notes": "Example sentence with Saudi adverbs Barra and Marrah",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/الجو_بر_ا_مره_حلو.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الجو_بر_ا_مره_حلو.mp3"
   },
   {
     "arabic_full": "أقول لك شي بس لا تضحك؟",
@@ -5178,7 +5178,7 @@
     "type": "",
     "notes": "Common phrasing to introduce a slightly sensitive topic",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أقول_لك_شي_بس_لا_تضحك_.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أقول_لك_شي_بس_لا_تضحك_.mp3"
   },
   {
     "arabic_full": "قبل شوية",
@@ -5189,7 +5189,7 @@
     "type": "",
     "notes": "Colloquial time marker",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/قبل_شوية.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قبل_شوية.mp3"
   },
   {
     "arabic_full": "كانت تسأل عنك",
@@ -5200,7 +5200,7 @@
     "type": "",
     "notes": "Past continuous (Kaana + present verb)",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كانت_تسأل_عنك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كانت_تسأل_عنك.mp3"
   },
   {
     "arabic_full": "مو لازم نخلص كل شي اليوم",
@@ -5211,7 +5211,7 @@
     "type": "",
     "notes": "Colloquial negation + Mo Laazim + verb",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/مو_لازم_نخلص_كل_شي_اليوم.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مو_لازم_نخلص_كل_شي_اليوم.mp3"
   },
   {
     "arabic_full": "مرّيت من هنا قبل كذا",
@@ -5222,7 +5222,7 @@
     "type": "",
     "notes": "Common phrase with Qabil Kida meaning \"before\"",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/مر_يت_من_هنا_قبل_كذا.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مر_يت_من_هنا_قبل_كذا.mp3"
   },
   {
     "arabic_full": "خلك صريح، عادي",
@@ -5233,7 +5233,7 @@
     "type": "",
     "notes": "Imperative Khallik + adjective + ʿAadi",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/خلك_صريح__عادي.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/خلك_صريح__عادي.mp3"
   },
   {
     "arabic_full": "أحس إن الوقت يمشي بسرعه",
@@ -5244,7 +5244,7 @@
     "type": "",
     "notes": "Using Aḥiss + In + verb phrase",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/أحس_إن_الوقت_يمشي_بسرعه.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أحس_إن_الوقت_يمشي_بسرعه.mp3"
   },
   {
     "arabic_full": "ودّي أتعلم أطبخ أكلة جديدة",
@@ -5255,7 +5255,7 @@
     "type": "",
     "notes": "Using Widdi + sequence of verbs (like infinitives)",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ود_ي_أتعلم_أطبخ_أكلة_جديدة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ود_ي_أتعلم_أطبخ_أكلة_جديدة.mp3"
   },
   {
     "arabic_full": "كنت بارتياح وأنا معك",
@@ -5266,7 +5266,7 @@
     "type": "",
     "notes": "Using Ḥassayt + phrase + Wana + Maʿak",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كنت_بارتياح_وأنا_معك.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كنت_بارتياح_وأنا_معك.mp3"
   },
   {
     "arabic_full": "قعدنا نضحك كثير",
@@ -5277,7 +5277,7 @@
     "type": "",
     "notes": "Past continuous equivalent with Qaʿadna",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/قعدنا_نضحك_كثير.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/قعدنا_نضحك_كثير.mp3"
   },
   {
     "arabic_full": "كانت لحظة حلوة",
@@ -5288,7 +5288,7 @@
     "type": "",
     "notes": "Kaana + feminine noun + feminine adjective",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/كانت_لحظة_حلوة.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/كانت_لحظة_حلوة.mp3"
   },
   {
     "arabic_full": "ما كان فيني مزاج أتكلم",
@@ -5299,7 +5299,7 @@
     "type": "",
     "notes": "Idiomatic negative phrase",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/ما_كان_فيني_مزاج_أتكلم.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/ما_كان_فيني_مزاج_أتكلم.mp3"
   },
   {
     "arabic_full": "الوقت طار وأنا ما حسّيت",
@@ -5310,7 +5310,7 @@
     "type": "",
     "notes": "Idiomatic use of Ṭaar",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/الوقت_طار_وأنا_ما_حس_يت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/الوقت_طار_وأنا_ما_حس_يت.mp3"
   },
   {
     "arabic_full": "صدق كان يوم جميل",
@@ -5321,7 +5321,7 @@
     "type": "",
     "notes": "Using Ṣidq as an intensifier",
     "dialect": "Saudi",
-    "audio_path": "assets/audio/صدق_كان_يوم_جميل.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/صدق_كان_يوم_جميل.mp3"
   },
   {
     "arabic_full": "مساء الخير",
@@ -5332,7 +5332,7 @@
     "type": "",
     "notes": "Common greeting",
     "dialect": "Both",
-    "audio_path": "assets/audio/مساء_الخير.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/مساء_الخير.mp3"
   },
   {
     "arabic_full": "طول الوقت",
@@ -5343,7 +5343,7 @@
     "type": "",
     "notes": "Common phrase",
     "dialect": "Both",
-    "audio_path": "assets/audio/طول_الوقت.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/طول_الوقت.mp3"
   },
   {
     "arabic_full": "أقولك رسالة افتخار",
@@ -5354,6 +5354,6 @@
     "type": "",
     "notes": "Example phrase structure",
     "dialect": "Both",
-    "audio_path": "assets/audio/أقولك_رسالة_افتخار.mp3"
+    "audio_path": "https://saudi-arabic-flash-cards.s3.amazonaws.com/audio/أقولك_رسالة_افتخار.mp3"
   }
 ]

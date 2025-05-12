@@ -1,0 +1,3992 @@
+[
+  {
+    "verb": "أروح",
+    "translit": "arūḥ",
+    "meaning": "To Go",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "رحت",
+          "tr": "ruḥt",
+          "en": "I went"
+        },
+        "2sm": {
+          "ar": "رحت",
+          "tr": "ruḥt",
+          "en": "You went"
+        },
+        "2sf": {
+          "ar": "رحتي",
+          "tr": "ruḥti",
+          "en": "You went"
+        },
+        "3sm": {
+          "ar": "راح",
+          "tr": "rāḥ",
+          "en": "He went"
+        },
+        "3sf": {
+          "ar": "راحت",
+          "tr": "rāḥat",
+          "en": "She went"
+        },
+        "1p": {
+          "ar": "رحنا",
+          "tr": "ruḥna",
+          "en": "We went"
+        },
+        "2p": {
+          "ar": "رحتوا",
+          "tr": "ruḥtu",
+          "en": "You (all) went"
+        },
+        "3p": {
+          "ar": "راحوا",
+          "tr": "rāḥu",
+          "en": "They went"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أروح",
+          "tr": "arūḥ",
+          "en": "I go"
+        },
+        "2sm": {
+          "ar": "تروح",
+          "tr": "tirūḥ",
+          "en": "You go"
+        },
+        "2sf": {
+          "ar": "تروحي",
+          "tr": "tirūḥi",
+          "en": "You go"
+        },
+        "3sm": {
+          "ar": "يروح",
+          "tr": "yirūḥ",
+          "en": "He goes"
+        },
+        "3sf": {
+          "ar": "تروح",
+          "tr": "tirūḥ",
+          "en": "She goes"
+        },
+        "1p": {
+          "ar": "نروح",
+          "tr": "nirūḥ",
+          "en": "We go"
+        },
+        "2p": {
+          "ar": "تروحوا",
+          "tr": "tirūḥu",
+          "en": "You (all) go"
+        },
+        "3p": {
+          "ar": "يروحوا",
+          "tr": "yirūḥu",
+          "en": "They go"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأروح",
+          "tr": "ḥa-arūḥ",
+          "en": "I will go"
+        },
+        "2sm": {
+          "ar": "حتروح",
+          "tr": "ḥa-tirūḥ",
+          "en": "You will go"
+        },
+        "2sf": {
+          "ar": "حتروحي",
+          "tr": "ḥa-tirūḥi",
+          "en": "You will go"
+        },
+        "3sm": {
+          "ar": "حيروح",
+          "tr": "ḥa-yirūḥ",
+          "en": "He will go"
+        },
+        "3sf": {
+          "ar": "حتروح",
+          "tr": "ḥa-tirūḥ",
+          "en": "She will go"
+        },
+        "1p": {
+          "ar": "حنروح",
+          "tr": "ḥa-nirūḥ",
+          "en": "We will go"
+        },
+        "2p": {
+          "ar": "حتروحوا",
+          "tr": "ḥa-tirūḥu",
+          "en": "You (all) will go"
+        },
+        "3p": {
+          "ar": "حيروحوا",
+          "tr": "ḥa-yirūḥu",
+          "en": "They will go"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أجي",
+    "translit": "ajī",
+    "meaning": "To Come",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "جيت",
+          "tr": "jīt",
+          "en": "I came"
+        },
+        "2sm": {
+          "ar": "جيت",
+          "tr": "jīt",
+          "en": "You came"
+        },
+        "2sf": {
+          "ar": "جيتي",
+          "tr": "jīti",
+          "en": "You came"
+        },
+        "3sm": {
+          "ar": "جا",
+          "tr": "jā",
+          "en": "He came"
+        },
+        "3sf": {
+          "ar": "جات",
+          "tr": "jāt",
+          "en": "She came"
+        },
+        "1p": {
+          "ar": "جينا",
+          "tr": "jīna",
+          "en": "We came"
+        },
+        "2p": {
+          "ar": "جيتوا",
+          "tr": "jītu",
+          "en": "You (all) came"
+        },
+        "3p": {
+          "ar": "جو",
+          "tr": "jaw",
+          "en": "They came"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أجي",
+          "tr": "ajī",
+          "en": "I come"
+        },
+        "2sm": {
+          "ar": "تيجي",
+          "tr": "tījī",
+          "en": "You come"
+        },
+        "2sf": {
+          "ar": "تيجي",
+          "tr": "tījī",
+          "en": "You come"
+        },
+        "3sm": {
+          "ar": "يجي",
+          "tr": "yījī",
+          "en": "He comes"
+        },
+        "3sf": {
+          "ar": "تيجي",
+          "tr": "tījī",
+          "en": "She comes"
+        },
+        "1p": {
+          "ar": "نيجي",
+          "tr": "nījī",
+          "en": "We come"
+        },
+        "2p": {
+          "ar": "تيجوا",
+          "tr": "tījū",
+          "en": "You (all) come"
+        },
+        "3p": {
+          "ar": "يجوا",
+          "tr": "yījū",
+          "en": "They come"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حجِي",
+          "tr": "ḥa-ajī",
+          "en": "I will come"
+        },
+        "2sm": {
+          "ar": "حتيجي",
+          "tr": "ḥa-tījī",
+          "en": "You will come"
+        },
+        "2sf": {
+          "ar": "حتيجي",
+          "tr": "ḥa-tījī",
+          "en": "You will come"
+        },
+        "3sm": {
+          "ar": "حيجي",
+          "tr": "ḥa-yījī",
+          "en": "He will come"
+        },
+        "3sf": {
+          "ar": "حتيجي",
+          "tr": "ḥa-tījī",
+          "en": "She will come"
+        },
+        "1p": {
+          "ar": "حنيجي",
+          "tr": "ḥa-nījī",
+          "en": "We will come"
+        },
+        "2p": {
+          "ar": "حتيجوا",
+          "tr": "ḥa-tījū",
+          "en": "You (all) will come"
+        },
+        "3p": {
+          "ar": "حيجوا",
+          "tr": "ḥa-yījū",
+          "en": "They will come"
+        }
+      }
+    }
+  },
+  {
+    "verb": "آخذ",
+    "translit": "ākhudh",
+    "meaning": "To Take",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "أخذت",
+          "tr": "ʾakha<u>dh</u>t",
+          "en": "I took"
+        },
+        "2sm": {
+          "ar": "أخذت",
+          "tr": "ʾakha<u>dh</u>t",
+          "en": "You took"
+        },
+        "2sf": {
+          "ar": "أخذتي",
+          "tr": "ʾakha<u>dh</u>ti",
+          "en": "You took"
+        },
+        "3sm": {
+          "ar": "أخذ",
+          "tr": "ʾakha<u>dh</u>",
+          "en": "He took"
+        },
+        "3sf": {
+          "ar": "أخذت",
+          "tr": "ʾakha<u>dh</u>at",
+          "en": "She took"
+        },
+        "1p": {
+          "ar": "أخذنا",
+          "tr": "ʾakha<u>dh</u>na",
+          "en": "We took"
+        },
+        "2p": {
+          "ar": "أخذتوا",
+          "tr": "ʾakha<u>dh</u>tu",
+          "en": "You (all) took"
+        },
+        "3p": {
+          "ar": "أخذوا",
+          "tr": "ʾakha<u>dh</u>u",
+          "en": "They took"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "آخذ",
+          "tr": "ākhu<u>dh</u>",
+          "en": "I take"
+        },
+        "2sm": {
+          "ar": "تاخذ",
+          "tr": "tākhu<u>dh</u>",
+          "en": "You take"
+        },
+        "2sf": {
+          "ar": "تاخذي",
+          "tr": "tākhu<u>dh</u>i",
+          "en": "You take"
+        },
+        "3sm": {
+          "ar": "ياخذ",
+          "tr": "yākhu<u>dh</u>",
+          "en": "He takes"
+        },
+        "3sf": {
+          "ar": "تاخذ",
+          "tr": "tākhu<u>dh</u>",
+          "en": "She takes"
+        },
+        "1p": {
+          "ar": "ناخذ",
+          "tr": "nākhu<u>dh</u>",
+          "en": "We take"
+        },
+        "2p": {
+          "ar": "تاخذوا",
+          "tr": "tākhu<u>dh</u>u",
+          "en": "You (all) take"
+        },
+        "3p": {
+          "ar": "ياخذوا",
+          "tr": "yākhu<u>dh</u>u",
+          "en": "They take"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حآخذ",
+          "tr": "ḥa-ākhu<u>dh</u>",
+          "en": "I will take"
+        },
+        "2sm": {
+          "ar": "حتاخذ",
+          "tr": "ḥa-tākhu<u>dh</u>",
+          "en": "You will take"
+        },
+        "2sf": {
+          "ar": "حتاخذي",
+          "tr": "ḥa-tākhu<u>dh</u>i",
+          "en": "You will take"
+        },
+        "3sm": {
+          "ar": "حياخذ",
+          "tr": "ḥa-yākhu<u>dh</u>",
+          "en": "He will take"
+        },
+        "3sf": {
+          "ar": "حتاخذ",
+          "tr": "ḥa-tākhu<u>dh</u>",
+          "en": "She will take"
+        },
+        "1p": {
+          "ar": "حناخذ",
+          "tr": "ḥa-nākhu<u>dh</u>",
+          "en": "We will take"
+        },
+        "2p": {
+          "ar": "حتاخذوا",
+          "tr": "ḥa-tākhu<u>dh</u>u",
+          "en": "You (all) will take"
+        },
+        "3p": {
+          "ar": "حياخذوا",
+          "tr": "ḥa-yākhu<u>dh</u>u",
+          "en": "They will take"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أعطي",
+    "translit": "aʿṭī",
+    "meaning": "To Give",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "أعطيت",
+          "tr": "ʾaʿṭēt",
+          "en": "I gave"
+        },
+        "2sm": {
+          "ar": "أعطيت",
+          "tr": "ʾaʿṭēt",
+          "en": "You gave"
+        },
+        "2sf": {
+          "ar": "أعطيتي",
+          "tr": "ʾaʿṭēti",
+          "en": "You gave"
+        },
+        "3sm": {
+          "ar": "أعطى",
+          "tr": "ʾaʿṭā",
+          "en": "He gave"
+        },
+        "3sf": {
+          "ar": "أعطت",
+          "tr": "ʾaʿṭat",
+          "en": "She gave"
+        },
+        "1p": {
+          "ar": "أعطينا",
+          "tr": "ʾaʿṭēna",
+          "en": "We gave"
+        },
+        "2p": {
+          "ar": "أعطيتوا",
+          "tr": "ʾaʿṭētu",
+          "en": "You (all) gave"
+        },
+        "3p": {
+          "ar": "أعطوا",
+          "tr": "ʾaʿṭaw",
+          "en": "They gave"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أعطي",
+          "tr": "ʾaʿṭī",
+          "en": "I give"
+        },
+        "2sm": {
+          "ar": "تعطي",
+          "tr": "tiʿṭī",
+          "en": "You give"
+        },
+        "2sf": {
+          "ar": "تعطي",
+          "tr": "tiʿṭī",
+          "en": "You give"
+        },
+        "3sm": {
+          "ar": "يعطي",
+          "tr": "yiʿṭī",
+          "en": "He gives"
+        },
+        "3sf": {
+          "ar": "تعطي",
+          "tr": "tiʿṭī",
+          "en": "She gives"
+        },
+        "1p": {
+          "ar": "نعطي",
+          "tr": "niʿṭī",
+          "en": "We give"
+        },
+        "2p": {
+          "ar": "تعطوا",
+          "tr": "tiʿṭū",
+          "en": "You (all) give"
+        },
+        "3p": {
+          "ar": "يعطوا",
+          "tr": "yiʿṭū",
+          "en": "They give"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأعطي",
+          "tr": "ḥa-ʾaʿṭī",
+          "en": "I will give"
+        },
+        "2sm": {
+          "ar": "حتتعطي",
+          "tr": "ḥa-tiʿṭī",
+          "en": "You will give"
+        },
+        "2sf": {
+          "ar": "حتتعطي",
+          "tr": "ḥa-tiʿṭī",
+          "en": "You will give"
+        },
+        "3sm": {
+          "ar": "حيعطي",
+          "tr": "ḥa-yiʿṭī",
+          "en": "He will give"
+        },
+        "3sf": {
+          "ar": "حتتعطي",
+          "tr": "ḥa-tiʿṭī",
+          "en": "She will give"
+        },
+        "1p": {
+          "ar": "حنعطي",
+          "tr": "ḥa-niʿṭī",
+          "en": "We will give"
+        },
+        "2p": {
+          "ar": "حتتعطوا",
+          "tr": "ḥa-tiʿṭū",
+          "en": "You (all) will give"
+        },
+        "3p": {
+          "ar": "حيعطوا",
+          "tr": "ḥa-yiʿṭū",
+          "en": "They will give"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أشوف",
+    "translit": "ashūf",
+    "meaning": "To See",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "شفت",
+          "tr": "shuft",
+          "en": "I saw"
+        },
+        "2sm": {
+          "ar": "شفت",
+          "tr": "shuft",
+          "en": "You saw"
+        },
+        "2sf": {
+          "ar": "شفتي",
+          "tr": "shufti",
+          "en": "You saw"
+        },
+        "3sm": {
+          "ar": "شاف",
+          "tr": "shāf",
+          "en": "He saw"
+        },
+        "3sf": {
+          "ar": "شافت",
+          "tr": "shāfat",
+          "en": "She saw"
+        },
+        "1p": {
+          "ar": "شفنا",
+          "tr": "shufna",
+          "en": "We saw"
+        },
+        "2p": {
+          "ar": "شفتوا",
+          "tr": "shuftu",
+          "en": "You (all) saw"
+        },
+        "3p": {
+          "ar": "شافوا",
+          "tr": "shāfu",
+          "en": "They saw"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أشوف",
+          "tr": "ashūf",
+          "en": "I see"
+        },
+        "2sm": {
+          "ar": "تشوف",
+          "tr": "tishūf",
+          "en": "You see"
+        },
+        "2sf": {
+          "ar": "تشوفي",
+          "tr": "tishūfi",
+          "en": "You see"
+        },
+        "3sm": {
+          "ar": "يشوف",
+          "tr": "yishūf",
+          "en": "He sees"
+        },
+        "3sf": {
+          "ar": "تشوف",
+          "tr": "tishūf",
+          "en": "She sees"
+        },
+        "1p": {
+          "ar": "نشوف",
+          "tr": "nishūf",
+          "en": "We see"
+        },
+        "2p": {
+          "ar": "تشوفوا",
+          "tr": "tishūfu",
+          "en": "You (all) see"
+        },
+        "3p": {
+          "ar": "يشوفوا",
+          "tr": "yishūfu",
+          "en": "They see"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأشوف",
+          "tr": "ḥa-ashūf",
+          "en": "I will see"
+        },
+        "2sm": {
+          "ar": "حتشوف",
+          "tr": "ḥa-tishūf",
+          "en": "You will see"
+        },
+        "2sf": {
+          "ar": "حتتشوفي",
+          "tr": "ḥa-tishūfi",
+          "en": "You will see"
+        },
+        "3sm": {
+          "ar": "حيشوف",
+          "tr": "ḥa-yishūf",
+          "en": "He will see"
+        },
+        "3sf": {
+          "ar": "حتشوف",
+          "tr": "ḥa-tishūf",
+          "en": "She will see"
+        },
+        "1p": {
+          "ar": "حنشوف",
+          "tr": "ḥa-nishūf",
+          "en": "We will see"
+        },
+        "2p": {
+          "ar": "حتتشوفوا",
+          "tr": "ḥa-tishūfu",
+          "en": "You (all) will see"
+        },
+        "3p": {
+          "ar": "حيشوفوا",
+          "tr": "ḥa-yishūfu",
+          "en": "They will see"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أقول",
+    "translit": "agūl",
+    "meaning": "To Say / To Tell",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "قلت",
+          "tr": "gult",
+          "en": "I said/told"
+        },
+        "2sm": {
+          "ar": "قلت",
+          "tr": "gult",
+          "en": "You said/told"
+        },
+        "2sf": {
+          "ar": "قلتي",
+          "tr": "gulti",
+          "en": "You said/told"
+        },
+        "3sm": {
+          "ar": "قال",
+          "tr": "gāl",
+          "en": "He said/told"
+        },
+        "3sf": {
+          "ar": "قالت",
+          "tr": "gālat",
+          "en": "She said/told"
+        },
+        "1p": {
+          "ar": "قلنا",
+          "tr": "gulna",
+          "en": "We said/told"
+        },
+        "2p": {
+          "ar": "قلتوا",
+          "tr": "gultu",
+          "en": "You (all) said/told"
+        },
+        "3p": {
+          "ar": "قالوا",
+          "tr": "gālu",
+          "en": "They said/told"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أقول",
+          "tr": "agūl",
+          "en": "I say/tell"
+        },
+        "2sm": {
+          "ar": "تقول",
+          "tr": "tigūl",
+          "en": "You say/tell"
+        },
+        "2sf": {
+          "ar": "تقولي",
+          "tr": "tigūli",
+          "en": "You say/tell"
+        },
+        "3sm": {
+          "ar": "يقول",
+          "tr": "yigūl",
+          "en": "He says/tells"
+        },
+        "3sf": {
+          "ar": "تقول",
+          "tr": "tigūl",
+          "en": "She says/tells"
+        },
+        "1p": {
+          "ar": "نقول",
+          "tr": "nigūl",
+          "en": "We say/tell"
+        },
+        "2p": {
+          "ar": "تقولوا",
+          "tr": "tigūlu",
+          "en": "You (all) say/tell"
+        },
+        "3p": {
+          "ar": "يقولوا",
+          "tr": "yigūlu",
+          "en": "They say/tell"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأقول",
+          "tr": "ḥa-agūl",
+          "en": "I will say/tell"
+        },
+        "2sm": {
+          "ar": "حتقول",
+          "tr": "ḥa-tigūl",
+          "en": "You will say/tell"
+        },
+        "2sf": {
+          "ar": "حتقولي",
+          "tr": "ḥa-tigūli",
+          "en": "You will say/tell"
+        },
+        "3sm": {
+          "ar": "حيقول",
+          "tr": "ḥa-yigūl",
+          "en": "He will say/tell"
+        },
+        "3sf": {
+          "ar": "حتقول",
+          "tr": "ḥa-tigūl",
+          "en": "She will say/tell"
+        },
+        "1p": {
+          "ar": "حنقول",
+          "tr": "ḥa-nigūl",
+          "en": "We will say/tell"
+        },
+        "2p": {
+          "ar": "حتقولوا",
+          "tr": "ḥa-tigūlu",
+          "en": "You (all) will say/tell"
+        },
+        "3p": {
+          "ar": "حيقولوا",
+          "tr": "ḥa-yigūlu",
+          "en": "They will say/tell"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أسمع",
+    "translit": "asmaʿ",
+    "meaning": "To Hear",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "سمعت",
+          "tr": "simiʿt",
+          "en": "I heard"
+        },
+        "2sm": {
+          "ar": "سمعت",
+          "tr": "simiʿt",
+          "en": "You heard"
+        },
+        "2sf": {
+          "ar": "سمعتي",
+          "tr": "simiʿti",
+          "en": "You heard"
+        },
+        "3sm": {
+          "ar": "سمع",
+          "tr": "simiʿ",
+          "en": "He heard"
+        },
+        "3sf": {
+          "ar": "سمعت",
+          "tr": "simiʿat",
+          "en": "She heard"
+        },
+        "1p": {
+          "ar": "سمعنا",
+          "tr": "simiʿna",
+          "en": "We heard"
+        },
+        "2p": {
+          "ar": "سمعتوا",
+          "tr": "simiʿtu",
+          "en": "You (all) heard"
+        },
+        "3p": {
+          "ar": "سمعوا",
+          "tr": "simiʿu",
+          "en": "They heard"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أسمع",
+          "tr": "asmaʿ",
+          "en": "I hear"
+        },
+        "2sm": {
+          "ar": "تسمع",
+          "tr": "tismaʿ",
+          "en": "You hear"
+        },
+        "2sf": {
+          "ar": "تسمعي",
+          "tr": "tismaʿi",
+          "en": "You hear"
+        },
+        "3sm": {
+          "ar": "يسمع",
+          "tr": "yismaʿ",
+          "en": "He hears"
+        },
+        "3sf": {
+          "ar": "تسمع",
+          "tr": "tismaʿ",
+          "en": "She hears"
+        },
+        "1p": {
+          "ar": "نسمع",
+          "tr": "nismaʿ",
+          "en": "We hear"
+        },
+        "2p": {
+          "ar": "تسمعوا",
+          "tr": "tismaʿu",
+          "en": "You (all) hear"
+        },
+        "3p": {
+          "ar": "يسمعوا",
+          "tr": "yismaʿu",
+          "en": "They hear"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأسمع",
+          "tr": "ḥa-asmaʿ",
+          "en": "I will hear"
+        },
+        "2sm": {
+          "ar": "حتسمع",
+          "tr": "ḥa-tismaʿ",
+          "en": "You will hear"
+        },
+        "2sf": {
+          "ar": "حتتسمعي",
+          "tr": "ḥa-tismaʿi",
+          "en": "You will hear"
+        },
+        "3sm": {
+          "ar": "حيسمع",
+          "tr": "ḥa-yismaʿ",
+          "en": "He will hear"
+        },
+        "3sf": {
+          "ar": "حتسمع",
+          "tr": "ḥa-tismaʿ",
+          "en": "She will hear"
+        },
+        "1p": {
+          "ar": "حنسمع",
+          "tr": "ḥa-nismaʿ",
+          "en": "We will hear"
+        },
+        "2p": {
+          "ar": "حتتسمعوا",
+          "tr": "ḥa-tismaʿu",
+          "en": "You (all) will hear"
+        },
+        "3p": {
+          "ar": "حيسمعوا",
+          "tr": "ḥa-yismaʿu",
+          "en": "They will hear"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أتكلم",
+    "translit": "atakallam",
+    "meaning": "To Speak",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "تكلمت",
+          "tr": "takallamt",
+          "en": "I spoke"
+        },
+        "2sm": {
+          "ar": "تكلمت",
+          "tr": "takallamt",
+          "en": "You spoke"
+        },
+        "2sf": {
+          "ar": "تكلمتي",
+          "tr": "takallamti",
+          "en": "You spoke"
+        },
+        "3sm": {
+          "ar": "تكلم",
+          "tr": "takallam",
+          "en": "He spoke"
+        },
+        "3sf": {
+          "ar": "تكلمت",
+          "tr": "takallamat",
+          "en": "She spoke"
+        },
+        "1p": {
+          "ar": "تكلمنا",
+          "tr": "takallamna",
+          "en": "We spoke"
+        },
+        "2p": {
+          "ar": "تكلمتوا",
+          "tr": "takallamtu",
+          "en": "You (all) spoke"
+        },
+        "3p": {
+          "ar": "تكلموا",
+          "tr": "takallamu",
+          "en": "They spoke"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أتكلم",
+          "tr": "atakallam",
+          "en": "I speak"
+        },
+        "2sm": {
+          "ar": "تتكلم",
+          "tr": "titkallam",
+          "en": "You speak"
+        },
+        "2sf": {
+          "ar": "تتكلمي",
+          "tr": "titkallami",
+          "en": "You speak"
+        },
+        "3sm": {
+          "ar": "يتكلم",
+          "tr": "yitkallam",
+          "en": "He speaks"
+        },
+        "3sf": {
+          "ar": "تتكلم",
+          "tr": "titkallam",
+          "en": "She speaks"
+        },
+        "1p": {
+          "ar": "نتكلم",
+          "tr": "nitkallam",
+          "en": "We speak"
+        },
+        "2p": {
+          "ar": "تتكلموا",
+          "tr": "titkallamu",
+          "en": "You (all) speak"
+        },
+        "3p": {
+          "ar": "يتكلموا",
+          "tr": "yitkallamu",
+          "en": "They speak"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأتكلم",
+          "tr": "ḥa-atakallam",
+          "en": "I will speak"
+        },
+        "2sm": {
+          "ar": "حتتكلم",
+          "tr": "ḥa-titkallam",
+          "en": "You will speak"
+        },
+        "2sf": {
+          "ar": "حتتتكلمي",
+          "tr": "ḥa-titkallami",
+          "en": "You will speak"
+        },
+        "3sm": {
+          "ar": "حيتكلم",
+          "tr": "ḥa-yitkallam",
+          "en": "He will speak"
+        },
+        "3sf": {
+          "ar": "حتتكلم",
+          "tr": "ḥa-titkallam",
+          "en": "She will speak"
+        },
+        "1p": {
+          "ar": "حنتكلم",
+          "tr": "ḥa-nitkallam",
+          "en": "We will speak"
+        },
+        "2p": {
+          "ar": "حتتتكلموا",
+          "tr": "ḥa-titkallamu",
+          "en": "You (all) will speak"
+        },
+        "3p": {
+          "ar": "حيتكلموا",
+          "tr": "ḥa-yitkallamu",
+          "en": "They will speak"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أعرف",
+    "translit": "aʿrif",
+    "meaning": "To Know",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "عرفت",
+          "tr": "ʿarift",
+          "en": "I knew"
+        },
+        "2sm": {
+          "ar": "عرفت",
+          "tr": "ʿarift",
+          "en": "You knew"
+        },
+        "2sf": {
+          "ar": "عرفتي",
+          "tr": "ʿarifti",
+          "en": "You knew"
+        },
+        "3sm": {
+          "ar": "عرف",
+          "tr": "ʿaraf",
+          "en": "He knew"
+        },
+        "3sf": {
+          "ar": "عرفت",
+          "tr": "ʿarifat",
+          "en": "She knew"
+        },
+        "1p": {
+          "ar": "عرفنا",
+          "tr": "ʿarifna",
+          "en": "We knew"
+        },
+        "2p": {
+          "ar": "عرفتوا",
+          "tr": "ʿariftu",
+          "en": "You (all) knew"
+        },
+        "3p": {
+          "ar": "عرفوا",
+          "tr": "ʿarifu",
+          "en": "They knew"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أعرف",
+          "tr": "aʿrif",
+          "en": "I know"
+        },
+        "2sm": {
+          "ar": "تعرف",
+          "tr": "tiʿrif",
+          "en": "You know"
+        },
+        "2sf": {
+          "ar": "تعرفي",
+          "tr": "tiʿrifi",
+          "en": "You know"
+        },
+        "3sm": {
+          "ar": "يعرف",
+          "tr": "yiʿrif",
+          "en": "He knows"
+        },
+        "3sf": {
+          "ar": "تعرف",
+          "tr": "tiʿrif",
+          "en": "She knows"
+        },
+        "1p": {
+          "ar": "نعرف",
+          "tr": "niʿrif",
+          "en": "We know"
+        },
+        "2p": {
+          "ar": "تعرفوا",
+          "tr": "tiʿrifu",
+          "en": "You (all) know"
+        },
+        "3p": {
+          "ar": "يعرفوا",
+          "tr": "yiʿrifu",
+          "en": "They know"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأعرف",
+          "tr": "ḥa-aʿrif",
+          "en": "I will know"
+        },
+        "2sm": {
+          "ar": "حتتعرف",
+          "tr": "ḥa-tiʿrif",
+          "en": "You will know"
+        },
+        "2sf": {
+          "ar": "حتتعرفي",
+          "tr": "ḥa-tiʿrifi",
+          "en": "You will know"
+        },
+        "3sm": {
+          "ar": "حيعرف",
+          "tr": "ḥa-yiʿrif",
+          "en": "He will know"
+        },
+        "3sf": {
+          "ar": "حتتعرف",
+          "tr": "ḥa-tiʿrif",
+          "en": "She will know"
+        },
+        "1p": {
+          "ar": "حنعرف",
+          "tr": "ḥa-niʿrif",
+          "en": "We will know"
+        },
+        "2p": {
+          "ar": "حتتعرفوا",
+          "tr": "ḥa-tiʿrifu",
+          "en": "You (all) will know"
+        },
+        "3p": {
+          "ar": "حيعرفوا",
+          "tr": "ḥa-yiʿrifu",
+          "en": "They will know"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أدرس",
+    "translit": "adris",
+    "meaning": "To Study",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "درست",
+          "tr": "darast",
+          "en": "I studied"
+        },
+        "2sm": {
+          "ar": "درست",
+          "tr": "darast",
+          "en": "You studied"
+        },
+        "2sf": {
+          "ar": "درستي",
+          "tr": "darasti",
+          "en": "You studied"
+        },
+        "3sm": {
+          "ar": "درس",
+          "tr": "daras",
+          "en": "He studied"
+        },
+        "3sf": {
+          "ar": "درست",
+          "tr": "darasat",
+          "en": "She studied"
+        },
+        "1p": {
+          "ar": "درسنا",
+          "tr": "darasna",
+          "en": "We studied"
+        },
+        "2p": {
+          "ar": "درستوا",
+          "tr": "darastu",
+          "en": "You (all) studied"
+        },
+        "3p": {
+          "ar": "درسوا",
+          "tr": "darasu",
+          "en": "They studied"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أدرس",
+          "tr": "adris",
+          "en": "I study"
+        },
+        "2sm": {
+          "ar": "تدرس",
+          "tr": "tidris",
+          "en": "You study"
+        },
+        "2sf": {
+          "ar": "تدرسي",
+          "tr": "tidrisi",
+          "en": "You study"
+        },
+        "3sm": {
+          "ar": "يدرس",
+          "tr": "yidris",
+          "en": "He studies"
+        },
+        "3sf": {
+          "ar": "تدرس",
+          "tr": "tidris",
+          "en": "She studies"
+        },
+        "1p": {
+          "ar": "ندرس",
+          "tr": "nidris",
+          "en": "We study"
+        },
+        "2p": {
+          "ar": "تدرسوا",
+          "tr": "tidrisu",
+          "en": "You (all) study"
+        },
+        "3p": {
+          "ar": "يدرسوا",
+          "tr": "yidrisu",
+          "en": "They study"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأدرس",
+          "tr": "ḥa-adris",
+          "en": "I will study"
+        },
+        "2sm": {
+          "ar": "حتدرس",
+          "tr": "ḥa-tidris",
+          "en": "You will study"
+        },
+        "2sf": {
+          "ar": "حتتدرسي",
+          "tr": "ḥa-tidrisi",
+          "en": "You will study"
+        },
+        "3sm": {
+          "ar": "حيدرس",
+          "tr": "ḥa-yidris",
+          "en": "He will study"
+        },
+        "3sf": {
+          "ar": "حتدرس",
+          "tr": "ḥa-tidris",
+          "en": "She will study"
+        },
+        "1p": {
+          "ar": "حندرس",
+          "tr": "ḥa-nidris",
+          "en": "We will study"
+        },
+        "2p": {
+          "ar": "حتتدرسوا",
+          "tr": "ḥa-tidrisu",
+          "en": "You (all) will study"
+        },
+        "3p": {
+          "ar": "حيدرسوا",
+          "tr": "ḥa-yidrisu",
+          "en": "They will study"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أشتغل",
+    "translit": "ashtighil",
+    "meaning": "To Work",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "اشتغلت",
+          "tr": "ishtaghalt",
+          "en": "I worked"
+        },
+        "2sm": {
+          "ar": "اشتغلت",
+          "tr": "ishtaghalt",
+          "en": "You worked"
+        },
+        "2sf": {
+          "ar": "اشتغلتي",
+          "tr": "ishtaghalti",
+          "en": "You worked"
+        },
+        "3sm": {
+          "ar": "شتغل",
+          "tr": "ishtaghal",
+          "en": "He worked"
+        },
+        "3sf": {
+          "ar": "اشتغلت",
+          "tr": "ishtaghalat",
+          "en": "She worked"
+        },
+        "1p": {
+          "ar": "شتغلنا",
+          "tr": "ishtaghalna",
+          "en": "We worked"
+        },
+        "2p": {
+          "ar": "شتغلتوا",
+          "tr": "ishtaghaltu",
+          "en": "You (all) worked"
+        },
+        "3p": {
+          "ar": "شتغلوا",
+          "tr": "ishtaghalu",
+          "en": "They worked"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أشتغل",
+          "tr": "ashtighil",
+          "en": "I work"
+        },
+        "2sm": {
+          "ar": "تشتغل",
+          "tr": "tishtighil",
+          "en": "You work"
+        },
+        "2sf": {
+          "ar": "تشتغلي",
+          "tr": "tishtighili",
+          "en": "You work"
+        },
+        "3sm": {
+          "ar": "يشتغل",
+          "tr": "yishtighil",
+          "en": "He works"
+        },
+        "3sf": {
+          "ar": "تشتغل",
+          "tr": "tishtighil",
+          "en": "She works"
+        },
+        "1p": {
+          "ar": "نشتغل",
+          "tr": "nishtighil",
+          "en": "We work"
+        },
+        "2p": {
+          "ar": "تشتغلوا",
+          "tr": "tishtighilu",
+          "en": "You (all) work"
+        },
+        "3p": {
+          "ar": "يشتغلوا",
+          "tr": "yishtighilu",
+          "en": "They work"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأشتغل",
+          "tr": "ḥa-ashtighil",
+          "en": "I will work"
+        },
+        "2sm": {
+          "ar": "حتشتغل",
+          "tr": "ḥa-tishtighil",
+          "en": "You will work"
+        },
+        "2sf": {
+          "ar": "حتتشتغلي",
+          "tr": "ḥa-tishtighili",
+          "en": "You will work"
+        },
+        "3sm": {
+          "ar": "حيشتغل",
+          "tr": "ḥa-yishtighil",
+          "en": "He will work"
+        },
+        "3sf": {
+          "ar": "حتشتغل",
+          "tr": "ḥa-tishtighil",
+          "en": "She will work"
+        },
+        "1p": {
+          "ar": "حنشتغل",
+          "tr": "ḥa-nishtighil",
+          "en": "We will work"
+        },
+        "2p": {
+          "ar": "حتتشتغلوا",
+          "tr": "ḥa-tishtighilu",
+          "en": "You (all) will work"
+        },
+        "3p": {
+          "ar": "حيشتغلوا",
+          "tr": "ḥa-yishtighilu",
+          "en": "They will work"
+        }
+      }
+    }
+  },
+  {
+    "verb": "آكل",
+    "translit": "ākil",
+    "meaning": "To Eat",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "أكلت",
+          "tr": "ʾakalt",
+          "en": "I ate"
+        },
+        "2sm": {
+          "ar": "أكلت",
+          "tr": "ʾakalt",
+          "en": "You ate"
+        },
+        "2sf": {
+          "ar": "أكلتي",
+          "tr": "ʾakalti",
+          "en": "You ate"
+        },
+        "3sm": {
+          "ar": "أكل",
+          "tr": "ʾakal",
+          "en": "He ate"
+        },
+        "3sf": {
+          "ar": "أكلت",
+          "tr": "ʾakalat",
+          "en": "She ate"
+        },
+        "1p": {
+          "ar": "أكلنا",
+          "tr": "ʾakalna",
+          "en": "We ate"
+        },
+        "2p": {
+          "ar": "أكلتوا",
+          "tr": "ʾakaltu",
+          "en": "You (all) ate"
+        },
+        "3p": {
+          "ar": "أكلوا",
+          "tr": "ʾakalu",
+          "en": "They ate"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "آكل",
+          "tr": "ākil",
+          "en": "I eat"
+        },
+        "2sm": {
+          "ar": "تاكل",
+          "tr": "tākil",
+          "en": "You eat"
+        },
+        "2sf": {
+          "ar": "تاكلي",
+          "tr": "tākli",
+          "en": "You eat"
+        },
+        "3sm": {
+          "ar": "ياكل",
+          "tr": "yākil",
+          "en": "He eats"
+        },
+        "3sf": {
+          "ar": "تاكل",
+          "tr": "tākil",
+          "en": "She eats"
+        },
+        "1p": {
+          "ar": "ناكل",
+          "tr": "nākil",
+          "en": "We eat"
+        },
+        "2p": {
+          "ar": "تاكلوا",
+          "tr": "tākulu",
+          "en": "You (all) eat"
+        },
+        "3p": {
+          "ar": "ياكلوا",
+          "tr": "yākulu",
+          "en": "They eat"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حآكل",
+          "tr": "ḥa-ākil",
+          "en": "I will eat"
+        },
+        "2sm": {
+          "ar": "حتاكل",
+          "tr": "ḥa-tākil",
+          "en": "You will eat"
+        },
+        "2sf": {
+          "ar": "حتاكلي",
+          "tr": "ḥa-tākli",
+          "en": "You will eat"
+        },
+        "3sm": {
+          "ar": "حياكل",
+          "tr": "ḥa-yākil",
+          "en": "He will eat"
+        },
+        "3sf": {
+          "ar": "حتاكل",
+          "tr": "ḥa-tākil",
+          "en": "She will eat"
+        },
+        "1p": {
+          "ar": "حناكل",
+          "tr": "ḥa-nākil",
+          "en": "We will eat"
+        },
+        "2p": {
+          "ar": "حتاكلوا",
+          "tr": "ḥa-tākulu",
+          "en": "You (all) will eat"
+        },
+        "3p": {
+          "ar": "حياكلوا",
+          "tr": "ḥa-yākulu",
+          "en": "They will eat"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أشرب",
+    "translit": "ashrab",
+    "meaning": "To Drink",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "شربت",
+          "tr": "shiribt",
+          "en": "I drank"
+        },
+        "2sm": {
+          "ar": "شربت",
+          "tr": "shiribt",
+          "en": "You drank"
+        },
+        "2sf": {
+          "ar": "شربتي",
+          "tr": "shiribti",
+          "en": "You drank"
+        },
+        "3sm": {
+          "ar": "شرب",
+          "tr": "shirib",
+          "en": "He drank"
+        },
+        "3sf": {
+          "ar": "شربت",
+          "tr": "shirbat",
+          "en": "She drank"
+        },
+        "1p": {
+          "ar": "شربنا",
+          "tr": "shiribna",
+          "en": "We drank"
+        },
+        "2p": {
+          "ar": "شربتوا",
+          "tr": "shiribtu",
+          "en": "You (all) drank"
+        },
+        "3p": {
+          "ar": "شربوا",
+          "tr": "shiribu",
+          "en": "They drank"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أشرب",
+          "tr": "ashrab",
+          "en": "I drink"
+        },
+        "2sm": {
+          "ar": "تشرب",
+          "tr": "tishrab",
+          "en": "You drink"
+        },
+        "2sf": {
+          "ar": "تشربي",
+          "tr": "tishrabi",
+          "en": "You drink"
+        },
+        "3sm": {
+          "ar": "يشرب",
+          "tr": "yishrab",
+          "en": "He drinks"
+        },
+        "3sf": {
+          "ar": "تشرب",
+          "tr": "tishrab",
+          "en": "She drinks"
+        },
+        "1p": {
+          "ar": "نشرب",
+          "tr": "nishrab",
+          "en": "We drink"
+        },
+        "2p": {
+          "ar": "تشربوا",
+          "tr": "tishrabu",
+          "en": "You (all) drink"
+        },
+        "3p": {
+          "ar": "يشربوا",
+          "tr": "yishrabu",
+          "en": "They drink"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأشرب",
+          "tr": "ḥa-ashrab",
+          "en": "I will drink"
+        },
+        "2sm": {
+          "ar": "حتشرب",
+          "tr": "ḥa-tishrab",
+          "en": "You will drink"
+        },
+        "2sf": {
+          "ar": "حتتشربي",
+          "tr": "ḥa-tishrabi",
+          "en": "You will drink"
+        },
+        "3sm": {
+          "ar": "حيشرب",
+          "tr": "ḥa-yishrab",
+          "en": "He will drink"
+        },
+        "3sf": {
+          "ar": "حتشرب",
+          "tr": "ḥa-tishrab",
+          "en": "She will drink"
+        },
+        "1p": {
+          "ar": "حنشرب",
+          "tr": "ḥa-nishrab",
+          "en": "We will drink"
+        },
+        "2p": {
+          "ar": "حتتشربوا",
+          "tr": "ḥa-tishrabu",
+          "en": "You (all) will drink"
+        },
+        "3p": {
+          "ar": "حيشربوا",
+          "tr": "ḥa-yishrabu",
+          "en": "They will drink"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أنام",
+    "translit": "anām",
+    "meaning": "To Sleep",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "نمت",
+          "tr": "nimt",
+          "en": "I slept"
+        },
+        "2sm": {
+          "ar": "نمت",
+          "tr": "nimt",
+          "en": "You slept"
+        },
+        "2sf": {
+          "ar": "نمتي",
+          "tr": "nimti",
+          "en": "You slept"
+        },
+        "3sm": {
+          "ar": "نام",
+          "tr": "nām",
+          "en": "He slept"
+        },
+        "3sf": {
+          "ar": "نامت",
+          "tr": "nāmat",
+          "en": "She slept"
+        },
+        "1p": {
+          "ar": "نمنا",
+          "tr": "nimna",
+          "en": "We slept"
+        },
+        "2p": {
+          "ar": "نمتوا",
+          "tr": "nimtu",
+          "en": "You (all) slept"
+        },
+        "3p": {
+          "ar": "ناموا",
+          "tr": "nāmu",
+          "en": "They slept"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أنام",
+          "tr": "anām",
+          "en": "I sleep"
+        },
+        "2sm": {
+          "ar": "تنام",
+          "tr": "tinām",
+          "en": "You sleep"
+        },
+        "2sf": {
+          "ar": "تنامي",
+          "tr": "tināmi",
+          "en": "You sleep"
+        },
+        "3sm": {
+          "ar": "ينام",
+          "tr": "yinām",
+          "en": "He sleeps"
+        },
+        "3sf": {
+          "ar": "تنام",
+          "tr": "tinām",
+          "en": "She sleeps"
+        },
+        "1p": {
+          "ar": "ننام",
+          "tr": "ninām",
+          "en": "We sleep"
+        },
+        "2p": {
+          "ar": "تناموا",
+          "tr": "tināmu",
+          "en": "You (all) sleep"
+        },
+        "3p": {
+          "ar": "يناموا",
+          "tr": "yināmu",
+          "en": "They sleep"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأنام",
+          "tr": "ḥa-anām",
+          "en": "I will sleep"
+        },
+        "2sm": {
+          "ar": "حتنام",
+          "tr": "ḥa-tinām",
+          "en": "You will sleep"
+        },
+        "2sf": {
+          "ar": "حتتنامي",
+          "tr": "ḥa-tināmi",
+          "en": "You will sleep"
+        },
+        "3sm": {
+          "ar": "حينام",
+          "tr": "ḥa-yinām",
+          "en": "He will sleep"
+        },
+        "3sf": {
+          "ar": "حتنام",
+          "tr": "ḥa-tinām",
+          "en": "She will sleep"
+        },
+        "1p": {
+          "ar": "حننام",
+          "tr": "ḥa-ninām",
+          "en": "We will sleep"
+        },
+        "2p": {
+          "ar": "حتتناموا",
+          "tr": "ḥa-tināmu",
+          "en": "You (all) will sleep"
+        },
+        "3p": {
+          "ar": "حيناموا",
+          "tr": "ḥa-yināmu",
+          "en": "They will sleep"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أكتب",
+    "translit": "aktib",
+    "meaning": "To Write",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "كتبت",
+          "tr": "katabt",
+          "en": "I wrote"
+        },
+        "2sm": {
+          "ar": "كتبت",
+          "tr": "katabt",
+          "en": "You wrote"
+        },
+        "2sf": {
+          "ar": "كتبتي",
+          "tr": "katabti",
+          "en": "You wrote"
+        },
+        "3sm": {
+          "ar": "كتب",
+          "tr": "katab",
+          "en": "He wrote"
+        },
+        "3sf": {
+          "ar": "كتبت",
+          "tr": "katabat",
+          "en": "She wrote"
+        },
+        "1p": {
+          "ar": "كتبنا",
+          "tr": "katabna",
+          "en": "We wrote"
+        },
+        "2p": {
+          "ar": "كتبتوا",
+          "tr": "katabtu",
+          "en": "You (all) wrote"
+        },
+        "3p": {
+          "ar": "كتبوا",
+          "tr": "katabu",
+          "en": "They wrote"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أكتب",
+          "tr": "aktib",
+          "en": "I write"
+        },
+        "2sm": {
+          "ar": "تكتب",
+          "tr": "tiktib",
+          "en": "You write"
+        },
+        "2sf": {
+          "ar": "تكتبي",
+          "tr": "tiktibi",
+          "en": "You write"
+        },
+        "3sm": {
+          "ar": "يكتب",
+          "tr": "yiktib",
+          "en": "He writes"
+        },
+        "3sf": {
+          "ar": "تكتب",
+          "tr": "tiktib",
+          "en": "She writes"
+        },
+        "1p": {
+          "ar": "نكتب",
+          "tr": "niktib",
+          "en": "We write"
+        },
+        "2p": {
+          "ar": "تكتبوا",
+          "tr": "tiktibu",
+          "en": "You (all) write"
+        },
+        "3p": {
+          "ar": "يكتبوا",
+          "tr": "yiktibu",
+          "en": "They write"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأكتب",
+          "tr": "ḥa-aktib",
+          "en": "I will write"
+        },
+        "2sm": {
+          "ar": "حتكتب",
+          "tr": "ḥa-tiktib",
+          "en": "You will write"
+        },
+        "2sf": {
+          "ar": "حتتكتبي",
+          "tr": "ḥa-tiktibi",
+          "en": "You will write"
+        },
+        "3sm": {
+          "ar": "حيكتب",
+          "tr": "ḥa-yiktib",
+          "en": "He will write"
+        },
+        "3sf": {
+          "ar": "حتكتب",
+          "tr": "ḥa-tiktib",
+          "en": "She will write"
+        },
+        "1p": {
+          "ar": "حنكتب",
+          "tr": "ḥa-niktib",
+          "en": "We will write"
+        },
+        "2p": {
+          "ar": "حتتكتبوا",
+          "tr": "ḥa-tiktibu",
+          "en": "You (all) will write"
+        },
+        "3p": {
+          "ar": "حيكتبوا",
+          "tr": "ḥa-yiktibu",
+          "en": "They will write"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أفتح",
+    "translit": "aftaḥ",
+    "meaning": "To Open",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "فتحت",
+          "tr": "fataḥt",
+          "en": "I opened"
+        },
+        "2sm": {
+          "ar": "فتحت",
+          "tr": "fataḥt",
+          "en": "You opened"
+        },
+        "2sf": {
+          "ar": "فتحتي",
+          "tr": "fataḥti",
+          "en": "You opened"
+        },
+        "3sm": {
+          "ar": "فتح",
+          "tr": "fataḥ",
+          "en": "He opened"
+        },
+        "3sf": {
+          "ar": "فتحت",
+          "tr": "fataḥat",
+          "en": "She opened"
+        },
+        "1p": {
+          "ar": "فتحنا",
+          "tr": "fataḥna",
+          "en": "We opened"
+        },
+        "2p": {
+          "ar": "فتحتوا",
+          "tr": "fataḥtu",
+          "en": "You (all) opened"
+        },
+        "3p": {
+          "ar": "فتحوا",
+          "tr": "fataḥu",
+          "en": "They opened"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أفتح",
+          "tr": "aftaḥ",
+          "en": "I open"
+        },
+        "2sm": {
+          "ar": "تفتح",
+          "tr": "tiftaḥ",
+          "en": "You open"
+        },
+        "2sf": {
+          "ar": "تفتحي",
+          "tr": "tiftaḥi",
+          "en": "You open"
+        },
+        "3sm": {
+          "ar": "يفتح",
+          "tr": "yiftaḥ",
+          "en": "He opens"
+        },
+        "3sf": {
+          "ar": "تفتح",
+          "tr": "tiftaḥ",
+          "en": "She opens"
+        },
+        "1p": {
+          "ar": "نفتح",
+          "tr": "niftaḥ",
+          "en": "We open"
+        },
+        "2p": {
+          "ar": "تفتحوا",
+          "tr": "tiftaḥu",
+          "en": "You (all) open"
+        },
+        "3p": {
+          "ar": "يفتحوا",
+          "tr": "yiftaḥu",
+          "en": "They open"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأفتح",
+          "tr": "ḥa-aftaḥ",
+          "en": "I will open"
+        },
+        "2sm": {
+          "ar": "حتفتح",
+          "tr": "ḥa-tiftaḥ",
+          "en": "You will open"
+        },
+        "2sf": {
+          "ar": "حتتفتحي",
+          "tr": "ḥa-tiftaḥi",
+          "en": "You will open"
+        },
+        "3sm": {
+          "ar": "حيفتح",
+          "tr": "ḥa-yiftaḥ",
+          "en": "He will open"
+        },
+        "3sf": {
+          "ar": "حتفتح",
+          "tr": "ḥa-tiftaḥ",
+          "en": "She will open"
+        },
+        "1p": {
+          "ar": "حنفتح",
+          "tr": "ḥa-niftaḥ",
+          "en": "We will open"
+        },
+        "2p": {
+          "ar": "حتتفتحوا",
+          "tr": "ḥa-tiftaḥu",
+          "en": "You (all) will open"
+        },
+        "3p": {
+          "ar": "حيفتحوا",
+          "tr": "ḥa-yiftaḥu",
+          "en": "They will open"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أسكر",
+    "translit": "askir / asakkir",
+    "meaning": "To Close",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "سكرت",
+          "tr": "sakkart",
+          "en": "I closed"
+        },
+        "2sm": {
+          "ar": "سكرت",
+          "tr": "sakkart",
+          "en": "You closed"
+        },
+        "2sf": {
+          "ar": "سكرتي",
+          "tr": "sakkarti",
+          "en": "You closed"
+        },
+        "3sm": {
+          "ar": "سكر",
+          "tr": "sakkar",
+          "en": "He closed"
+        },
+        "3sf": {
+          "ar": "سكرت",
+          "tr": "sakkarat",
+          "en": "She closed"
+        },
+        "1p": {
+          "ar": "سكرنا",
+          "tr": "sakkarna",
+          "en": "We closed"
+        },
+        "2p": {
+          "ar": "سكرتوا",
+          "tr": "sakkartu",
+          "en": "You (all) closed"
+        },
+        "3p": {
+          "ar": "سكروا",
+          "tr": "sakkaru",
+          "en": "They closed"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أسكر",
+          "tr": "asakkir",
+          "en": "I close"
+        },
+        "2sm": {
+          "ar": "تسكر",
+          "tr": "tisakkir",
+          "en": "You close"
+        },
+        "2sf": {
+          "ar": "تسكري",
+          "tr": "tisakkiri",
+          "en": "You close"
+        },
+        "3sm": {
+          "ar": "يسكر",
+          "tr": "yisakkir",
+          "en": "He closes"
+        },
+        "3sf": {
+          "ar": "تسكر",
+          "tr": "tisakkir",
+          "en": "She closes"
+        },
+        "1p": {
+          "ar": "نسكر",
+          "tr": "nisakkir",
+          "en": "We close"
+        },
+        "2p": {
+          "ar": "تسكروا",
+          "tr": "tisakkiru",
+          "en": "You (all) close"
+        },
+        "3p": {
+          "ar": "يسكروا",
+          "tr": "yisakkiru",
+          "en": "They close"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأسكر",
+          "tr": "ḥa-asakkir",
+          "en": "I will close"
+        },
+        "2sm": {
+          "ar": "حتسكر",
+          "tr": "ḥa-tisakkir",
+          "en": "You will close"
+        },
+        "2sf": {
+          "ar": "حتتسكري",
+          "tr": "ḥa-tisakkiri",
+          "en": "You will close"
+        },
+        "3sm": {
+          "ar": "حيسكر",
+          "tr": "ḥa-yisakkir",
+          "en": "He will close"
+        },
+        "3sf": {
+          "ar": "حتسكر",
+          "tr": "ḥa-tisakkir",
+          "en": "She will close"
+        },
+        "1p": {
+          "ar": "حنسكر",
+          "tr": "ḥa-nisakkir",
+          "en": "We will close"
+        },
+        "2p": {
+          "ar": "حتتسكروا",
+          "tr": "ḥa-tisakkiru",
+          "en": "You (all) will close"
+        },
+        "3p": {
+          "ar": "حيسكروا",
+          "tr": "ḥa-yisakkiru",
+          "en": "They will close"
+        }
+      }
+    }
+  },
+  {
+    "verb": "ألبس",
+    "translit": "albis",
+    "meaning": "To Wear / To Get Dressed",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "لبست",
+          "tr": "libist",
+          "en": "I wore/got dressed"
+        },
+        "2sm": {
+          "ar": "لبست",
+          "tr": "libist",
+          "en": "You wore/got dressed"
+        },
+        "2sf": {
+          "ar": "لبستي",
+          "tr": "libisti",
+          "en": "You wore/got dressed"
+        },
+        "3sm": {
+          "ar": "لبس",
+          "tr": "libis",
+          "en": "He wore/got dressed"
+        },
+        "3sf": {
+          "ar": "لبست",
+          "tr": "libsat",
+          "en": "She wore/got dressed"
+        },
+        "1p": {
+          "ar": "لبسنا",
+          "tr": "libisna",
+          "en": "We wore/got dressed"
+        },
+        "2p": {
+          "ar": "لبستوا",
+          "tr": "libistu",
+          "en": "You (all) wore/got dressed"
+        },
+        "3p": {
+          "ar": "لبسوا",
+          "tr": "libsu",
+          "en": "They wore/got dressed"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "ألبس",
+          "tr": "albis",
+          "en": "I wear/get dressed"
+        },
+        "2sm": {
+          "ar": "تلبس",
+          "tr": "tilbis",
+          "en": "You wear/get dressed"
+        },
+        "2sf": {
+          "ar": "تلبسي",
+          "tr": "tilbisi",
+          "en": "You wear/get dressed"
+        },
+        "3sm": {
+          "ar": "يلبس",
+          "tr": "yilbis",
+          "en": "He wears/gets dressed"
+        },
+        "3sf": {
+          "ar": "تلبس",
+          "tr": "tilbis",
+          "en": "She wears/gets dressed"
+        },
+        "1p": {
+          "ar": "نلبس",
+          "tr": "nilbis",
+          "en": "We wear/get dressed"
+        },
+        "2p": {
+          "ar": "تلبسوا",
+          "tr": "tilbisu",
+          "en": "You (all) wear/get dressed"
+        },
+        "3p": {
+          "ar": "يلبسوا",
+          "tr": "yilbisu",
+          "en": "They wear/get dressed"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حألبس",
+          "tr": "ḥa-albis",
+          "en": "I will wear/get dressed"
+        },
+        "2sm": {
+          "ar": "حتلبس",
+          "tr": "ḥa-tilbis",
+          "en": "You will wear/get dressed"
+        },
+        "2sf": {
+          "ar": "حتتلبسي",
+          "tr": "ḥa-tilbisi",
+          "en": "You will wear/get dressed"
+        },
+        "3sm": {
+          "ar": "حيلبس",
+          "tr": "ḥa-yilbis",
+          "en": "He will wear/get dressed"
+        },
+        "3sf": {
+          "ar": "حتلبس",
+          "tr": "ḥa-tilbis",
+          "en": "She will wear/get dressed"
+        },
+        "1p": {
+          "ar": "حنلبس",
+          "tr": "ḥa-nilbis",
+          "en": "We will wear/get dressed"
+        },
+        "2p": {
+          "ar": "حتتلبسوا",
+          "tr": "ḥa-tilbisu",
+          "en": "You (all) will wear/get dressed"
+        },
+        "3p": {
+          "ar": "حيلبسوا",
+          "tr": "ḥa-yilbisu",
+          "en": "They will wear/get dressed"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أشتري",
+    "translit": "ashtirī",
+    "meaning": "To Buy",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "اشتريت",
+          "tr": "ishtarēt",
+          "en": "I bought"
+        },
+        "2sm": {
+          "ar": "اشتريت",
+          "tr": "ishtarēt",
+          "en": "You bought"
+        },
+        "2sf": {
+          "ar": "اشتريتي",
+          "tr": "ishtarēti",
+          "en": "You bought"
+        },
+        "3sm": {
+          "ar": "شترى",
+          "tr": "ishtarā",
+          "en": "He bought"
+        },
+        "3sf": {
+          "ar": "شترت",
+          "tr": "ishtarat",
+          "en": "She bought"
+        },
+        "1p": {
+          "ar": "شترينا",
+          "tr": "ishtarēna",
+          "en": "We bought"
+        },
+        "2p": {
+          "ar": "شتريتوا",
+          "tr": "ishtarētu",
+          "en": "You (all) bought"
+        },
+        "3p": {
+          "ar": "شتروا",
+          "tr": "ishtaraw",
+          "en": "They bought"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أشتري",
+          "tr": "ashtirī",
+          "en": "I buy"
+        },
+        "2sm": {
+          "ar": "تشتري",
+          "tr": "tishtirī",
+          "en": "You buy"
+        },
+        "2sf": {
+          "ar": "تشتري",
+          "tr": "tishtirī",
+          "en": "You buy"
+        },
+        "3sm": {
+          "ar": "يشتري",
+          "tr": "yishtirī",
+          "en": "He buys"
+        },
+        "3sf": {
+          "ar": "تشتري",
+          "tr": "tishtirī",
+          "en": "She buys"
+        },
+        "1p": {
+          "ar": "نشتري",
+          "tr": "nishtirī",
+          "en": "We buy"
+        },
+        "2p": {
+          "ar": "تشتروا",
+          "tr": "tishtirū",
+          "en": "You (all) buy"
+        },
+        "3p": {
+          "ar": "يشتروا",
+          "tr": "yishtirū",
+          "en": "They buy"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأشتري",
+          "tr": "ḥa-ashtirī",
+          "en": "I will buy"
+        },
+        "2sm": {
+          "ar": "حتشتري",
+          "tr": "ḥa-tishtirī",
+          "en": "You will buy"
+        },
+        "2sf": {
+          "ar": "حتتشتري",
+          "tr": "ḥa-tishtirī",
+          "en": "You will buy"
+        },
+        "3sm": {
+          "ar": "حيشتري",
+          "tr": "ḥa-yishtirī",
+          "en": "He will buy"
+        },
+        "3sf": {
+          "ar": "حتشتري",
+          "tr": "ḥa-tishtirī",
+          "en": "She will buy"
+        },
+        "1p": {
+          "ar": "حنشتري",
+          "tr": "ḥa-nishtirī",
+          "en": "We will buy"
+        },
+        "2p": {
+          "ar": "حتتشتروا",
+          "tr": "ḥa-tishtirū",
+          "en": "You (all) will buy"
+        },
+        "3p": {
+          "ar": "حيشتروا",
+          "tr": "ḥa-yishtirū",
+          "en": "They will buy"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أحب",
+    "translit": "aḥibb",
+    "meaning": "To Like / To Love",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "حبيت",
+          "tr": "ḥabbēt",
+          "en": "I liked/loved"
+        },
+        "2sm": {
+          "ar": "حبيت",
+          "tr": "ḥabbēt",
+          "en": "You liked/loved"
+        },
+        "2sf": {
+          "ar": "حبيتي",
+          "tr": "ḥabbēti",
+          "en": "You liked/loved"
+        },
+        "3sm": {
+          "ar": "حب",
+          "tr": "ḥabb",
+          "en": "He liked/loved"
+        },
+        "3sf": {
+          "ar": "حبت",
+          "tr": "ḥabbat",
+          "en": "She liked/loved"
+        },
+        "1p": {
+          "ar": "حبينا",
+          "tr": "ḥabbēna",
+          "en": "We liked/loved"
+        },
+        "2p": {
+          "ar": "حبيتوا",
+          "tr": "ḥabbētu",
+          "en": "You (all) liked/loved"
+        },
+        "3p": {
+          "ar": "حبوا",
+          "tr": "ḥabbu",
+          "en": "They liked/loved"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أحب",
+          "tr": "aḥibb",
+          "en": "I like/love"
+        },
+        "2sm": {
+          "ar": "تحب",
+          "tr": "tiḥibb",
+          "en": "You like/love"
+        },
+        "2sf": {
+          "ar": "تحبي",
+          "tr": "tiḥibbi",
+          "en": "You like/love"
+        },
+        "3sm": {
+          "ar": "يحب",
+          "tr": "yiḥibb",
+          "en": "He likes/loves"
+        },
+        "3sf": {
+          "ar": "تحب",
+          "tr": "tiḥibb",
+          "en": "She likes/loves"
+        },
+        "1p": {
+          "ar": "نحب",
+          "tr": "niḥibb",
+          "en": "We like/love"
+        },
+        "2p": {
+          "ar": "تحبوا",
+          "tr": "tiḥibbu",
+          "en": "You (all) like/love"
+        },
+        "3p": {
+          "ar": "يحبوا",
+          "tr": "yiḥibbu",
+          "en": "They like/love"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأحب",
+          "tr": "ḥa-aḥibb",
+          "en": "I will like/love"
+        },
+        "2sm": {
+          "ar": "حتتحب",
+          "tr": "ḥa-tiḥibb",
+          "en": "You will like/love"
+        },
+        "2sf": {
+          "ar": "حتتحبي",
+          "tr": "ḥa-tiḥibbi",
+          "en": "You will like/love"
+        },
+        "3sm": {
+          "ar": "حيحب",
+          "tr": "ḥa-yiḥibb",
+          "en": "He will like/love"
+        },
+        "3sf": {
+          "ar": "حتتحب",
+          "tr": "ḥa-tiḥibb",
+          "en": "She will like/love"
+        },
+        "1p": {
+          "ar": "حنحب",
+          "tr": "ḥa-niḥibb",
+          "en": "We will like/love"
+        },
+        "2p": {
+          "ar": "حتتحبوا",
+          "tr": "ḥa-tiḥibbu",
+          "en": "You (all) will like/love"
+        },
+        "3p": {
+          "ar": "حيحبوا",
+          "tr": "ḥa-yiḥibbu",
+          "en": "They will like/love"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أفهم",
+    "translit": "afham",
+    "meaning": "To Understand",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "فهمت",
+          "tr": "fihimt",
+          "en": "I understood"
+        },
+        "2sm": {
+          "ar": "فهمت",
+          "tr": "fihimt",
+          "en": "You understood"
+        },
+        "2sf": {
+          "ar": "فهمتي",
+          "tr": "fihimti",
+          "en": "You understood"
+        },
+        "3sm": {
+          "ar": "فهم",
+          "tr": "fihim",
+          "en": "He understood"
+        },
+        "3sf": {
+          "ar": "فهمت",
+          "tr": "fihmat",
+          "en": "She understood"
+        },
+        "1p": {
+          "ar": "فهمنا",
+          "tr": "fihimna",
+          "en": "We understood"
+        },
+        "2p": {
+          "ar": "فهمتوا",
+          "tr": "fihimtu",
+          "en": "You (all) understood"
+        },
+        "3p": {
+          "ar": "فهموا",
+          "tr": "fihimu",
+          "en": "They understood"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أفهم",
+          "tr": "afham",
+          "en": "I understand"
+        },
+        "2sm": {
+          "ar": "تفهم",
+          "tr": "tifham",
+          "en": "You understand"
+        },
+        "2sf": {
+          "ar": "تفهمي",
+          "tr": "tifhami",
+          "en": "You understand"
+        },
+        "3sm": {
+          "ar": "يفهم",
+          "tr": "yifham",
+          "en": "He understands"
+        },
+        "3sf": {
+          "ar": "تفهم",
+          "tr": "tifham",
+          "en": "She understands"
+        },
+        "1p": {
+          "ar": "نفهم",
+          "tr": "nifham",
+          "en": "We understand"
+        },
+        "2p": {
+          "ar": "تفهموا",
+          "tr": "tifhamu",
+          "en": "You (all) understand"
+        },
+        "3p": {
+          "ar": "يفهموا",
+          "tr": "yifhamu",
+          "en": "They understand"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأفهم",
+          "tr": "ḥa-afham",
+          "en": "I will understand"
+        },
+        "2sm": {
+          "ar": "حتفهم",
+          "tr": "ḥa-tifham",
+          "en": "You will understand"
+        },
+        "2sf": {
+          "ar": "حتتفهمي",
+          "tr": "ḥa-tifhami",
+          "en": "You will understand"
+        },
+        "3sm": {
+          "ar": "حيفهم",
+          "tr": "ḥa-yifham",
+          "en": "He will understand"
+        },
+        "3sf": {
+          "ar": "حتفهم",
+          "tr": "ḥa-tifham",
+          "en": "She will understand"
+        },
+        "1p": {
+          "ar": "حنفهم",
+          "tr": "ḥa-nifham",
+          "en": "We will understand"
+        },
+        "2p": {
+          "ar": "حتتفهموا",
+          "tr": "ḥa-tifhamu",
+          "en": "You (all) will understand"
+        },
+        "3p": {
+          "ar": "حيفهموا",
+          "tr": "ḥa-yifhamu",
+          "en": "They will understand"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أركب",
+    "translit": "arkab",
+    "meaning": "To Ride / To Get On",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "ركبت",
+          "tr": "rikibt",
+          "en": "I rode/got on"
+        },
+        "2sm": {
+          "ar": "ركبت",
+          "tr": "rikibt",
+          "en": "You rode/got on"
+        },
+        "2sf": {
+          "ar": "ركبتي",
+          "tr": "rikibti",
+          "en": "You rode/got on"
+        },
+        "3sm": {
+          "ar": "ركب",
+          "tr": "rikib",
+          "en": "He rode/got on"
+        },
+        "3sf": {
+          "ar": "ركبت",
+          "tr": "rikbat",
+          "en": "She rode/got on"
+        },
+        "1p": {
+          "ar": "ركبنا",
+          "tr": "rikibna",
+          "en": "We rode/got on"
+        },
+        "2p": {
+          "ar": "ركبتوا",
+          "tr": "rikibtu",
+          "en": "You (all) rode/got on"
+        },
+        "3p": {
+          "ar": "ركبوا",
+          "tr": "rikibu",
+          "en": "They rode/got on"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أركب",
+          "tr": "arkab",
+          "en": "I ride/get on"
+        },
+        "2sm": {
+          "ar": "تركب",
+          "tr": "tirkab",
+          "en": "You ride/get on"
+        },
+        "2sf": {
+          "ar": "تركبي",
+          "tr": "tirkabi",
+          "en": "You ride/get on"
+        },
+        "3sm": {
+          "ar": "يركب",
+          "tr": "yirkab",
+          "en": "He rides/gets on"
+        },
+        "3sf": {
+          "ar": "تركب",
+          "tr": "tirkab",
+          "en": "She rides/gets on"
+        },
+        "1p": {
+          "ar": "نركب",
+          "tr": "nirkab",
+          "en": "We ride/get on"
+        },
+        "2p": {
+          "ar": "تركبوا",
+          "tr": "tirkabu",
+          "en": "You (all) ride/get on"
+        },
+        "3p": {
+          "ar": "يركبوا",
+          "tr": "yirkabu",
+          "en": "They ride/get on"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأركب",
+          "tr": "ḥa-arkab",
+          "en": "I will ride/get on"
+        },
+        "2sm": {
+          "ar": "حتركب",
+          "tr": "ḥa-tirkab",
+          "en": "You will ride/get on"
+        },
+        "2sf": {
+          "ar": "حتتركبي",
+          "tr": "ḥa-tirkabi",
+          "en": "You will ride/get on"
+        },
+        "3sm": {
+          "ar": "حيركب",
+          "tr": "ḥa-yirkab",
+          "en": "He will ride/get on"
+        },
+        "3sf": {
+          "ar": "حتركب",
+          "tr": "ḥa-tirkab",
+          "en": "She will ride/get on"
+        },
+        "1p": {
+          "ar": "حنركب",
+          "tr": "ḥa-nirkab",
+          "en": "We will ride/get on"
+        },
+        "2p": {
+          "ar": "حتتركبوا",
+          "tr": "ḥa-tirkabu",
+          "en": "You (all) will ride/get on"
+        },
+        "3p": {
+          "ar": "حيركبوا",
+          "tr": "ḥa-yirkabu",
+          "en": "They will ride/get on"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أدخل",
+    "translit": "adkhul",
+    "meaning": "To Enter",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "دخلت",
+          "tr": "dakhalt",
+          "en": "I entered"
+        },
+        "2sm": {
+          "ar": "دخلت",
+          "tr": "dakhalt",
+          "en": "You entered"
+        },
+        "2sf": {
+          "ar": "دخلتي",
+          "tr": "dakhalti",
+          "en": "You entered"
+        },
+        "3sm": {
+          "ar": "دخل",
+          "tr": "dakhal",
+          "en": "He entered"
+        },
+        "3sf": {
+          "ar": "دخلت",
+          "tr": "dakhalat",
+          "en": "She entered"
+        },
+        "1p": {
+          "ar": "دخلنا",
+          "tr": "dakhalna",
+          "en": "We entered"
+        },
+        "2p": {
+          "ar": "دخلتوا",
+          "tr": "dakhaltu",
+          "en": "You (all) entered"
+        },
+        "3p": {
+          "ar": "دخلوا",
+          "tr": "dakhalu",
+          "en": "They entered"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أدخل",
+          "tr": "adkhul",
+          "en": "I enter"
+        },
+        "2sm": {
+          "ar": "تدخل",
+          "tr": "tidkhul",
+          "en": "You enter"
+        },
+        "2sf": {
+          "ar": "تدخلي",
+          "tr": "tidkhuli",
+          "en": "You enter"
+        },
+        "3sm": {
+          "ar": "يدخل",
+          "tr": "yidkhul",
+          "en": "He enters"
+        },
+        "3sf": {
+          "ar": "تدخل",
+          "tr": "tidkhul",
+          "en": "She enters"
+        },
+        "1p": {
+          "ar": "ندخل",
+          "tr": "nidkhul",
+          "en": "We enter"
+        },
+        "2p": {
+          "ar": "تدخلوا",
+          "tr": "tidkhulu",
+          "en": "You (all) enter"
+        },
+        "3p": {
+          "ar": "يدخلوا",
+          "tr": "yidkhulu",
+          "en": "They enter"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأدخل",
+          "tr": "ḥa-adkhul",
+          "en": "I will enter"
+        },
+        "2sm": {
+          "ar": "حتدخل",
+          "tr": "ḥa-tidkhul",
+          "en": "You will enter"
+        },
+        "2sf": {
+          "ar": "حتتدخلي",
+          "tr": "ḥa-tidkhuli",
+          "en": "You will enter"
+        },
+        "3sm": {
+          "ar": "حيدخل",
+          "tr": "ḥa-yidkhul",
+          "en": "He will enter"
+        },
+        "3sf": {
+          "ar": "حتدخل",
+          "tr": "ḥa-tidkhul",
+          "en": "She will enter"
+        },
+        "1p": {
+          "ar": "حندخل",
+          "tr": "ḥa-nidkhul",
+          "en": "We will enter"
+        },
+        "2p": {
+          "ar": "حتتدخلوا",
+          "tr": "ḥa-tidkhulu",
+          "en": "You (all) will enter"
+        },
+        "3p": {
+          "ar": "حيدخلوا",
+          "tr": "ḥa-yidkhulu",
+          "en": "They will enter"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أطلع",
+    "translit": "aṭlaʿ",
+    "meaning": "To Go Out / To Leave",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "طلعت",
+          "tr": "ṭiliʿt",
+          "en": "I went out/left"
+        },
+        "2sm": {
+          "ar": "طلعت",
+          "tr": "ṭiliʿt",
+          "en": "You went out/left"
+        },
+        "2sf": {
+          "ar": "طلعتي",
+          "tr": "ṭiliʿti",
+          "en": "You went out/left"
+        },
+        "3sm": {
+          "ar": "طلع",
+          "tr": "ṭiliʿ",
+          "en": "He went out/left"
+        },
+        "3sf": {
+          "ar": "طلعت",
+          "tr": "ṭilʿat",
+          "en": "She went out/left"
+        },
+        "1p": {
+          "ar": "طلعنا",
+          "tr": "ṭiliʿna",
+          "en": "We went out/left"
+        },
+        "2p": {
+          "ar": "طلعتوا",
+          "tr": "ṭiliʿtu",
+          "en": "You (all) went out/left"
+        },
+        "3p": {
+          "ar": "طلعوا",
+          "tr": "ṭilʿu",
+          "en": "They went out/left"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أطلع",
+          "tr": "aṭlaʿ",
+          "en": "I go out/leave"
+        },
+        "2sm": {
+          "ar": "تطلع",
+          "tr": "tiṭlaʿ",
+          "en": "You go out/leave"
+        },
+        "2sf": {
+          "ar": "تطلعي",
+          "tr": "tiṭlaʿi",
+          "en": "You go out/leave"
+        },
+        "3sm": {
+          "ar": "يطلع",
+          "tr": "yiṭlaʿ",
+          "en": "He goes out/leaves"
+        },
+        "3sf": {
+          "ar": "تطلع",
+          "tr": "tiṭlaʿ",
+          "en": "She goes out/leaves"
+        },
+        "1p": {
+          "ar": "نطلع",
+          "tr": "niṭlaʿ",
+          "en": "We go out/leave"
+        },
+        "2p": {
+          "ar": "تطلعوا",
+          "tr": "tiṭlaʿu",
+          "en": "You (all) go out/leave"
+        },
+        "3p": {
+          "ar": "يطلعوا",
+          "tr": "yiṭlaʿu",
+          "en": "They go out/leave"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأطلع",
+          "tr": "ḥa-aṭlaʿ",
+          "en": "I will go out/leave"
+        },
+        "2sm": {
+          "ar": "حتطلع",
+          "tr": "ḥa-tiṭlaʿ",
+          "en": "You will go out/leave"
+        },
+        "2sf": {
+          "ar": "حتتطلعي",
+          "tr": "ḥa-tiṭlaʿi",
+          "en": "You will go out/leave"
+        },
+        "3sm": {
+          "ar": "حيطلع",
+          "tr": "ḥa-yiṭlaʿ",
+          "en": "He will go out/leave"
+        },
+        "3sf": {
+          "ar": "حتطلع",
+          "tr": "ḥa-tiṭlaʿ",
+          "en": "She will go out/leave"
+        },
+        "1p": {
+          "ar": "حنطلع",
+          "tr": "ḥa-niṭlaʿ",
+          "en": "We will go out/leave"
+        },
+        "2p": {
+          "ar": "حتتطلعوا",
+          "tr": "ḥa-tiṭlaʿu",
+          "en": "You (all) will go out/leave"
+        },
+        "3p": {
+          "ar": "حيطلعوا",
+          "tr": "ḥa-yiṭlaʿu",
+          "en": "They will go out/leave"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أرجع",
+    "translit": "arjaʿ",
+    "meaning": "To Return",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "رجعت",
+          "tr": "rijiʿt",
+          "en": "I returned"
+        },
+        "2sm": {
+          "ar": "رجعت",
+          "tr": "rijiʿt",
+          "en": "You returned"
+        },
+        "2sf": {
+          "ar": "رجعتي",
+          "tr": "rijiʿti",
+          "en": "You returned"
+        },
+        "3sm": {
+          "ar": "رجع",
+          "tr": "rijiʿ",
+          "en": "He returned"
+        },
+        "3sf": {
+          "ar": "رجعت",
+          "tr": "rijʿat",
+          "en": "She returned"
+        },
+        "1p": {
+          "ar": "رجعنا",
+          "tr": "rijiʿna",
+          "en": "We returned"
+        },
+        "2p": {
+          "ar": "رجعتوا",
+          "tr": "rijiʿtu",
+          "en": "You (all) returned"
+        },
+        "3p": {
+          "ar": "رجعوا",
+          "tr": "rijʿu",
+          "en": "They returned"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أرجع",
+          "tr": "arjaʿ",
+          "en": "I return"
+        },
+        "2sm": {
+          "ar": "ترجع",
+          "tr": "tirjaʿ",
+          "en": "You return"
+        },
+        "2sf": {
+          "ar": "ترجعي",
+          "tr": "tirjaʿi",
+          "en": "You return"
+        },
+        "3sm": {
+          "ar": "يرجع",
+          "tr": "yirjaʿ",
+          "en": "He returns"
+        },
+        "3sf": {
+          "ar": "ترجع",
+          "tr": "tirjaʿ",
+          "en": "She returns"
+        },
+        "1p": {
+          "ar": "نرجع",
+          "tr": "nirjaʿ",
+          "en": "We return"
+        },
+        "2p": {
+          "ar": "ترجعوا",
+          "tr": "tirjaʿu",
+          "en": "You (all) return"
+        },
+        "3p": {
+          "ar": "يرجعوا",
+          "tr": "yirjaʿu",
+          "en": "They return"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأرجع",
+          "tr": "ḥa-arjaʿ",
+          "en": "I will return"
+        },
+        "2sm": {
+          "ar": "حترجع",
+          "tr": "ḥa-tirjaʿ",
+          "en": "You will return"
+        },
+        "2sf": {
+          "ar": "حتترجعي",
+          "tr": "ḥa-tirjaʿi",
+          "en": "You will return"
+        },
+        "3sm": {
+          "ar": "حيرجع",
+          "tr": "ḥa-yirjaʿ",
+          "en": "He will return"
+        },
+        "3sf": {
+          "ar": "حترجع",
+          "tr": "ḥa-tirjaʿ",
+          "en": "She will return"
+        },
+        "1p": {
+          "ar": "حنرجع",
+          "tr": "ḥa-nirjaʿ",
+          "en": "We will return"
+        },
+        "2p": {
+          "ar": "حتترجعوا",
+          "tr": "ḥa-tirjaʿu",
+          "en": "You (all) will return"
+        },
+        "3p": {
+          "ar": "حيرجعوا",
+          "tr": "ḥa-yirjaʿu",
+          "en": "They will return"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أوقف",
+    "translit": "awaggif",
+    "meaning": "To Stop / To Park",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "وقفت",
+          "tr": "waggaft",
+          "en": "I stopped/parked"
+        },
+        "2sm": {
+          "ar": "وقفت",
+          "tr": "waggaft",
+          "en": "You stopped/parked"
+        },
+        "2sf": {
+          "ar": "وقفتي",
+          "tr": "waggafti",
+          "en": "You stopped/parked"
+        },
+        "3sm": {
+          "ar": "وقف",
+          "tr": "waggaf",
+          "en": "He stopped/parked"
+        },
+        "3sf": {
+          "ar": "وقفت",
+          "tr": "waggafat",
+          "en": "She stopped/parked"
+        },
+        "1p": {
+          "ar": "وقفنا",
+          "tr": "waggafna",
+          "en": "We stopped/parked"
+        },
+        "2p": {
+          "ar": "وقفتوا",
+          "tr": "waggaftu",
+          "en": "You (all) stopped/parked"
+        },
+        "3p": {
+          "ar": "وقفوا",
+          "tr": "waggafu",
+          "en": "They stopped/parked"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أوقف",
+          "tr": "awaggif",
+          "en": "I stop/park"
+        },
+        "2sm": {
+          "ar": "توقف",
+          "tr": "tiwaggif",
+          "en": "You stop/park"
+        },
+        "2sf": {
+          "ar": "توقفي",
+          "tr": "tiwaggifi",
+          "en": "You stop/park"
+        },
+        "3sm": {
+          "ar": "يوقف",
+          "tr": "yiwaggif",
+          "en": "He stops/parks"
+        },
+        "3sf": {
+          "ar": "توقف",
+          "tr": "tiwaggif",
+          "en": "She stops/parks"
+        },
+        "1p": {
+          "ar": "نوقف",
+          "tr": "niwaggif",
+          "en": "We stop/park"
+        },
+        "2p": {
+          "ar": "توقفوا",
+          "tr": "tiwaggifu",
+          "en": "You (all) stop/park"
+        },
+        "3p": {
+          "ar": "يوقفوا",
+          "tr": "yiwaggifu",
+          "en": "They stop/park"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأوقف",
+          "tr": "ḥa-awaggif",
+          "en": "I will stop/park"
+        },
+        "2sm": {
+          "ar": "حتوقف",
+          "tr": "ḥa-tiwaggif",
+          "en": "You will stop/park"
+        },
+        "2sf": {
+          "ar": "حتتوقفي",
+          "tr": "ḥa-tiwaggifi",
+          "en": "You will stop/park"
+        },
+        "3sm": {
+          "ar": "حيوقف",
+          "tr": "ḥa-yiwaggif",
+          "en": "He will stop/park"
+        },
+        "3sf": {
+          "ar": "حتوقف",
+          "tr": "ḥa-tiwaggif",
+          "en": "She will stop/park"
+        },
+        "1p": {
+          "ar": "حنوقف",
+          "tr": "ḥa-niwaggif",
+          "en": "We will stop/park"
+        },
+        "2p": {
+          "ar": "حتتوقفوا",
+          "tr": "ḥa-tiwaggifu",
+          "en": "You (all) will stop/park"
+        },
+        "3p": {
+          "ar": "حيوقفوا",
+          "tr": "ḥa-yiwaggifu",
+          "en": "They will stop/park"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أشتاق",
+    "translit": "ashtāg",
+    "meaning": "To Miss (someone)",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "شتقت",
+          "tr": "ishtagt",
+          "en": "I missed"
+        },
+        "2sm": {
+          "ar": "شتقت",
+          "tr": "ishtagt",
+          "en": "You missed"
+        },
+        "2sf": {
+          "ar": "شتقتي",
+          "tr": "ishtagti",
+          "en": "You missed"
+        },
+        "3sm": {
+          "ar": "شتاق",
+          "tr": "ishtāg",
+          "en": "He missed"
+        },
+        "3sf": {
+          "ar": "شتاقت",
+          "tr": "ishtāgat",
+          "en": "She missed"
+        },
+        "1p": {
+          "ar": "شتقنا",
+          "tr": "ishtagna",
+          "en": "We missed"
+        },
+        "2p": {
+          "ar": "شتقتوا",
+          "tr": "ishtagtu",
+          "en": "You (all) missed"
+        },
+        "3p": {
+          "ar": "شتاقوا",
+          "tr": "ishtāgu",
+          "en": "They missed"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أشتاق",
+          "tr": "ashtāg",
+          "en": "I miss"
+        },
+        "2sm": {
+          "ar": "تشتاق",
+          "tr": "tishtāg",
+          "en": "You miss"
+        },
+        "2sf": {
+          "ar": "تشتاقي",
+          "tr": "tishtāgi",
+          "en": "You miss"
+        },
+        "3sm": {
+          "ar": "يشتاق",
+          "tr": "yishtāg",
+          "en": "He misses"
+        },
+        "3sf": {
+          "ar": "تشتاق",
+          "tr": "tishtāg",
+          "en": "She misses"
+        },
+        "1p": {
+          "ar": "نشتاق",
+          "tr": "nishtāg",
+          "en": "We miss"
+        },
+        "2p": {
+          "ar": "تشتاقوا",
+          "tr": "tishtāgu",
+          "en": "You (all) miss"
+        },
+        "3p": {
+          "ar": "يشتاقوا",
+          "tr": "yishtāgu",
+          "en": "They miss"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأشتاق",
+          "tr": "ḥa-ashtāg",
+          "en": "I will miss"
+        },
+        "2sm": {
+          "ar": "حتشتاق",
+          "tr": "ḥa-tishtāg",
+          "en": "You will miss"
+        },
+        "2sf": {
+          "ar": "حتتشتاقي",
+          "tr": "ḥa-tishtāgi",
+          "en": "You will miss"
+        },
+        "3sm": {
+          "ar": "حيشتاق",
+          "tr": "ḥa-yishtāg",
+          "en": "He will miss"
+        },
+        "3sf": {
+          "ar": "حتشتاق",
+          "tr": "ḥa-tishtāg",
+          "en": "She will miss"
+        },
+        "1p": {
+          "ar": "حنشتاق",
+          "tr": "ḥa-nishtāg",
+          "en": "We will miss"
+        },
+        "2p": {
+          "ar": "حتتشتاقوا",
+          "tr": "ḥa-tishtāgu",
+          "en": "You (all) will miss"
+        },
+        "3p": {
+          "ar": "حيشتاقوا",
+          "tr": "ḥa-yishtāgu",
+          "en": "They will miss"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أقدر",
+    "translit": "agdar",
+    "meaning": "To Be Able To / Can",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "قدرت",
+          "tr": "gidirt",
+          "en": "I was able to/could"
+        },
+        "2sm": {
+          "ar": "قدرت",
+          "tr": "gidirt",
+          "en": "You were able to/could"
+        },
+        "2sf": {
+          "ar": "قدرتي",
+          "tr": "gidirti",
+          "en": "You were able to/could"
+        },
+        "3sm": {
+          "ar": "قدر",
+          "tr": "gidir",
+          "en": "He was able to/could"
+        },
+        "3sf": {
+          "ar": "قدرت",
+          "tr": "gidrat",
+          "en": "She was able to/could"
+        },
+        "1p": {
+          "ar": "قدرنا",
+          "tr": "gidimna",
+          "en": "We were able to/could"
+        },
+        "2p": {
+          "ar": "قدرتوا",
+          "tr": "gidirtu",
+          "en": "You (all) were able to/could"
+        },
+        "3p": {
+          "ar": "قدروا",
+          "tr": "gidru",
+          "en": "They were able to/could"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أقدر",
+          "tr": "agdar",
+          "en": "I am able to/can"
+        },
+        "2sm": {
+          "ar": "تقدر",
+          "tr": "tigdar",
+          "en": "You are able to/can"
+        },
+        "2sf": {
+          "ar": "تقدري",
+          "tr": "tigdari",
+          "en": "You are able to/can"
+        },
+        "3sm": {
+          "ar": "يقدر",
+          "tr": "yigdar",
+          "en": "He is able to/can"
+        },
+        "3sf": {
+          "ar": "تقدر",
+          "tr": "tigdar",
+          "en": "She is able to/can"
+        },
+        "1p": {
+          "ar": "نقدر",
+          "tr": "nigdar",
+          "en": "We are able to/can"
+        },
+        "2p": {
+          "ar": "تقدروا",
+          "tr": "tigdaru",
+          "en": "You (all) are able to/can"
+        },
+        "3p": {
+          "ar": "يقدروا",
+          "tr": "yigdaru",
+          "en": "They are able to/can"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأقدر",
+          "tr": "ḥa-agdar",
+          "en": "I will be able to/can"
+        },
+        "2sm": {
+          "ar": "حتقدر",
+          "tr": "ḥa-tigdar",
+          "en": "You will be able to/can"
+        },
+        "2sf": {
+          "ar": "حتتقدري",
+          "tr": "ḥa-tigdari",
+          "en": "You will be able to/can"
+        },
+        "3sm": {
+          "ar": "حيفدر",
+          "tr": "ḥa-yigdar",
+          "en": "He will be able to/can"
+        },
+        "3sf": {
+          "ar": "حتقدر",
+          "tr": "ḥa-tigdar",
+          "en": "She will be able to/can"
+        },
+        "1p": {
+          "ar": "حنقدر",
+          "tr": "ḥa-nigdar",
+          "en": "We will be able to/can"
+        },
+        "2p": {
+          "ar": "حتتقدروا",
+          "tr": "ḥa-tigdaru",
+          "en": "You (all) will be able to/can"
+        },
+        "3p": {
+          "ar": "حيقدروا",
+          "tr": "ḥa-yigdaru",
+          "en": "They will be able to/can"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أضيع",
+    "translit": "aḍīʿ",
+    "meaning": "To Lose (something)",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "ضيعت",
+          "tr": "ḍayyaʿt",
+          "en": "I lost"
+        },
+        "2sm": {
+          "ar": "ضيعت",
+          "tr": "ḍayyaʿt",
+          "en": "You lost"
+        },
+        "2sf": {
+          "ar": "ضيعتي",
+          "tr": "ḍayyaʿti",
+          "en": "You lost"
+        },
+        "3sm": {
+          "ar": "ضيع",
+          "tr": "ḍayyaʿ",
+          "en": "He lost"
+        },
+        "3sf": {
+          "ar": "ضيعت",
+          "tr": "ḍayyaʿat",
+          "en": "She lost"
+        },
+        "1p": {
+          "ar": "ضيعنا",
+          "tr": "ḍayyaʿna",
+          "en": "We lost"
+        },
+        "2p": {
+          "ar": "ضيعتوا",
+          "tr": "ḍayyaʿtu",
+          "en": "You (all) lost"
+        },
+        "3p": {
+          "ar": "ضيعوا",
+          "tr": "ḍayyaʿu",
+          "en": "They lost"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أضيع",
+          "tr": "aḍayyiʿ",
+          "en": "I lose"
+        },
+        "2sm": {
+          "ar": "تضيع",
+          "tr": "tiḍayyiʿ",
+          "en": "You lose"
+        },
+        "2sf": {
+          "ar": "تضيعي",
+          "tr": "tiḍayyiʿi",
+          "en": "You lose"
+        },
+        "3sm": {
+          "ar": "يضيع",
+          "tr": "yiḍayyiʿ",
+          "en": "He loses"
+        },
+        "3sf": {
+          "ar": "تضيع",
+          "tr": "tiḍayyiʿ",
+          "en": "She loses"
+        },
+        "1p": {
+          "ar": "نضيع",
+          "tr": "niḍayyiʿ",
+          "en": "We lose"
+        },
+        "2p": {
+          "ar": "تضيعوا",
+          "tr": "tiḍayyiʿu",
+          "en": "You (all) lose"
+        },
+        "3p": {
+          "ar": "يضيعوا",
+          "tr": "yiḍayyiʿu",
+          "en": "They lose"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأضيع",
+          "tr": "ḥa-aḍayyiʿ",
+          "en": "I will lose"
+        },
+        "2sm": {
+          "ar": "حتضيع",
+          "tr": "ḥa-tiḍayyiʿ",
+          "en": "You will lose"
+        },
+        "2sf": {
+          "ar": "حتتضيعي",
+          "tr": "ḥa-tiḍayyiʿi",
+          "en": "You will lose"
+        },
+        "3sm": {
+          "ar": "حيضيع",
+          "tr": "ḥa-yiḍayyiʿ",
+          "en": "He will lose"
+        },
+        "3sf": {
+          "ar": "حتضيع",
+          "tr": "ḥa-tiḍayyiʿ",
+          "en": "She will lose"
+        },
+        "1p": {
+          "ar": "حنضيع",
+          "tr": "ḥa-niḍayyiʿ",
+          "en": "We will lose"
+        },
+        "2p": {
+          "ar": "حتتضيعوا",
+          "tr": "ḥa-tiḍayyiʿu",
+          "en": "You (all) will lose"
+        },
+        "3p": {
+          "ar": "حيضيعوا",
+          "tr": "ḥa-yiḍayyiʿu",
+          "en": "They will lose"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أضحك",
+    "translit": "aḍḥak",
+    "meaning": "To Laugh",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "ضحكت",
+          "tr": "ḍiḥikt",
+          "en": "I laughed"
+        },
+        "2sm": {
+          "ar": "ضحكت",
+          "tr": "ḍiḥikt",
+          "en": "You laughed"
+        },
+        "2sf": {
+          "ar": "ضحكتي",
+          "tr": "ḍiḥikti",
+          "en": "You laughed"
+        },
+        "3sm": {
+          "ar": "ضحك",
+          "tr": "ḍiḥik",
+          "en": "He laughed"
+        },
+        "3sf": {
+          "ar": "ضحكت",
+          "tr": "ḍiḥkat",
+          "en": "She laughed"
+        },
+        "1p": {
+          "ar": "ضحكنا",
+          "tr": "ḍiḥikna",
+          "en": "We laughed"
+        },
+        "2p": {
+          "ar": "ضحكتوا",
+          "tr": "ḍiḥiktu",
+          "en": "You (all) laughed"
+        },
+        "3p": {
+          "ar": "ضحكوا",
+          "tr": "ḍiḥiku",
+          "en": "They laughed"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أضحك",
+          "tr": "aḍḥak",
+          "en": "I laugh"
+        },
+        "2sm": {
+          "ar": "تضحك",
+          "tr": "tiḍḥak",
+          "en": "You laugh"
+        },
+        "2sf": {
+          "ar": "تضحكي",
+          "tr": "tiḍḥaki",
+          "en": "You laugh"
+        },
+        "3sm": {
+          "ar": "يضحك",
+          "tr": "yiḍḥak",
+          "en": "He laughs"
+        },
+        "3sf": {
+          "ar": "تضحك",
+          "tr": "tiḍḥak",
+          "en": "She laughs"
+        },
+        "1p": {
+          "ar": "نضحك",
+          "tr": "niḍḥak",
+          "en": "We laugh"
+        },
+        "2p": {
+          "ar": "تضحكوا",
+          "tr": "tiḍḥaku",
+          "en": "You (all) laugh"
+        },
+        "3p": {
+          "ar": "يضحكوا",
+          "tr": "yiḍḥaku",
+          "en": "They laugh"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأضحك",
+          "tr": "ḥa-aḍḥak",
+          "en": "I will laugh"
+        },
+        "2sm": {
+          "ar": "حتضحك",
+          "tr": "ḥa-tiḍḥak",
+          "en": "You will laugh"
+        },
+        "2sf": {
+          "ar": "حتتضحكي",
+          "tr": "ḥa-tiḍḥaki",
+          "en": "You will laugh"
+        },
+        "3sm": {
+          "ar": "حيضحك",
+          "tr": "ḥa-yiḍḥak",
+          "en": "He will laugh"
+        },
+        "3sf": {
+          "ar": "حتضحك",
+          "tr": "ḥa-tiḍḥak",
+          "en": "She will laugh"
+        },
+        "1p": {
+          "ar": "حنضحك",
+          "tr": "ḥa-niḍḥak",
+          "en": "We will laugh"
+        },
+        "2p": {
+          "ar": "حتتضحكوا",
+          "tr": "ḥa-tiḍḥaku",
+          "en": "You (all) will laugh"
+        },
+        "3p": {
+          "ar": "حيضحكوا",
+          "tr": "ḥa-yiḍḥaku",
+          "en": "They will laugh"
+        }
+      }
+    }
+  }
+]

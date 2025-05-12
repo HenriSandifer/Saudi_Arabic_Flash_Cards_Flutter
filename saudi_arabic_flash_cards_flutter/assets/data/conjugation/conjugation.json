@@ -1,0 +1,4712 @@
+[
+  {
+    "verb": "أروح",
+    "translit": "arūḥ",
+    "meaning": "To Go",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "رحت",
+          "tr": "ruḥt",
+          "en": "I went",
+          "audio_path": "assets/audio/conjugation/arūḥ_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "رحت",
+          "tr": "ruḥt",
+          "en": "You went",
+          "audio_path": "assets/audio/conjugation/arūḥ_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "رحتي",
+          "tr": "ruḥti",
+          "en": "You went",
+          "audio_path": "assets/audio/conjugation/arūḥ_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "راح",
+          "tr": "rāḥ",
+          "en": "He went",
+          "audio_path": "assets/audio/conjugation/arūḥ_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "راحت",
+          "tr": "rāḥat",
+          "en": "She went",
+          "audio_path": "assets/audio/conjugation/arūḥ_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "رحنا",
+          "tr": "ruḥna",
+          "en": "We went",
+          "audio_path": "assets/audio/conjugation/arūḥ_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "رحتوا",
+          "tr": "ruḥtu",
+          "en": "You (all) went",
+          "audio_path": "assets/audio/conjugation/arūḥ_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "راحوا",
+          "tr": "rāḥu",
+          "en": "They went",
+          "audio_path": "assets/audio/conjugation/arūḥ_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أروح",
+          "tr": "arūḥ",
+          "en": "I go",
+          "audio_path": "assets/audio/conjugation/arūḥ_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تروح",
+          "tr": "tirūḥ",
+          "en": "You go",
+          "audio_path": "assets/audio/conjugation/arūḥ_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تروحي",
+          "tr": "tirūḥi",
+          "en": "You go",
+          "audio_path": "assets/audio/conjugation/arūḥ_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يروح",
+          "tr": "yirūḥ",
+          "en": "He goes",
+          "audio_path": "assets/audio/conjugation/arūḥ_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تروح",
+          "tr": "tirūḥ",
+          "en": "She goes",
+          "audio_path": "assets/audio/conjugation/arūḥ_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نروح",
+          "tr": "nirūḥ",
+          "en": "We go",
+          "audio_path": "assets/audio/conjugation/arūḥ_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تروحوا",
+          "tr": "tirūḥu",
+          "en": "You (all) go",
+          "audio_path": "assets/audio/conjugation/arūḥ_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يروحوا",
+          "tr": "yirūḥu",
+          "en": "They go",
+          "audio_path": "assets/audio/conjugation/arūḥ_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأروح",
+          "tr": "ḥa-arūḥ",
+          "en": "I will go",
+          "audio_path": "assets/audio/conjugation/arūḥ_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتروح",
+          "tr": "ḥa-tirūḥ",
+          "en": "You will go",
+          "audio_path": "assets/audio/conjugation/arūḥ_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتروحي",
+          "tr": "ḥa-tirūḥi",
+          "en": "You will go",
+          "audio_path": "assets/audio/conjugation/arūḥ_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيروح",
+          "tr": "ḥa-yirūḥ",
+          "en": "He will go",
+          "audio_path": "assets/audio/conjugation/arūḥ_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتروح",
+          "tr": "ḥa-tirūḥ",
+          "en": "She will go",
+          "audio_path": "assets/audio/conjugation/arūḥ_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنروح",
+          "tr": "ḥa-nirūḥ",
+          "en": "We will go",
+          "audio_path": "assets/audio/conjugation/arūḥ_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتروحوا",
+          "tr": "ḥa-tirūḥu",
+          "en": "You (all) will go",
+          "audio_path": "assets/audio/conjugation/arūḥ_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيروحوا",
+          "tr": "ḥa-yirūḥu",
+          "en": "They will go",
+          "audio_path": "assets/audio/conjugation/arūḥ_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أجي",
+    "translit": "ajī",
+    "meaning": "To Come",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "جيت",
+          "tr": "jīt",
+          "en": "I came",
+          "audio_path": "assets/audio/conjugation/ajī_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "جيت",
+          "tr": "jīt",
+          "en": "You came",
+          "audio_path": "assets/audio/conjugation/ajī_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "جيتي",
+          "tr": "jīti",
+          "en": "You came",
+          "audio_path": "assets/audio/conjugation/ajī_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "جا",
+          "tr": "jā",
+          "en": "He came",
+          "audio_path": "assets/audio/conjugation/ajī_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "جات",
+          "tr": "jāt",
+          "en": "She came",
+          "audio_path": "assets/audio/conjugation/ajī_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "جينا",
+          "tr": "jīna",
+          "en": "We came",
+          "audio_path": "assets/audio/conjugation/ajī_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "جيتوا",
+          "tr": "jītu",
+          "en": "You (all) came",
+          "audio_path": "assets/audio/conjugation/ajī_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "جو",
+          "tr": "jaw",
+          "en": "They came",
+          "audio_path": "assets/audio/conjugation/ajī_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أجي",
+          "tr": "ajī",
+          "en": "I come",
+          "audio_path": "assets/audio/conjugation/ajī_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تيجي",
+          "tr": "tījī",
+          "en": "You come",
+          "audio_path": "assets/audio/conjugation/ajī_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تيجي",
+          "tr": "tījī",
+          "en": "You come",
+          "audio_path": "assets/audio/conjugation/ajī_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يجي",
+          "tr": "yījī",
+          "en": "He comes",
+          "audio_path": "assets/audio/conjugation/ajī_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تيجي",
+          "tr": "tījī",
+          "en": "She comes",
+          "audio_path": "assets/audio/conjugation/ajī_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نيجي",
+          "tr": "nījī",
+          "en": "We come",
+          "audio_path": "assets/audio/conjugation/ajī_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تيجوا",
+          "tr": "tījū",
+          "en": "You (all) come",
+          "audio_path": "assets/audio/conjugation/ajī_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يجوا",
+          "tr": "yījū",
+          "en": "They come",
+          "audio_path": "assets/audio/conjugation/ajī_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حجِي",
+          "tr": "ḥa-ajī",
+          "en": "I will come",
+          "audio_path": "assets/audio/conjugation/ajī_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتيجي",
+          "tr": "ḥa-tījī",
+          "en": "You will come",
+          "audio_path": "assets/audio/conjugation/ajī_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتيجي",
+          "tr": "ḥa-tījī",
+          "en": "You will come",
+          "audio_path": "assets/audio/conjugation/ajī_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيجي",
+          "tr": "ḥa-yījī",
+          "en": "He will come",
+          "audio_path": "assets/audio/conjugation/ajī_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتيجي",
+          "tr": "ḥa-tījī",
+          "en": "She will come",
+          "audio_path": "assets/audio/conjugation/ajī_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنيجي",
+          "tr": "ḥa-nījī",
+          "en": "We will come",
+          "audio_path": "assets/audio/conjugation/ajī_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتيجوا",
+          "tr": "ḥa-tījū",
+          "en": "You (all) will come",
+          "audio_path": "assets/audio/conjugation/ajī_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيجوا",
+          "tr": "ḥa-yījū",
+          "en": "They will come",
+          "audio_path": "assets/audio/conjugation/ajī_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "آخذ",
+    "translit": "ākhudh",
+    "meaning": "To Take",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "أخذت",
+          "tr": "ʾakha<u>dh</u>t",
+          "en": "I took",
+          "audio_path": "assets/audio/conjugation/ākhudh_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "أخذت",
+          "tr": "ʾakha<u>dh</u>t",
+          "en": "You took",
+          "audio_path": "assets/audio/conjugation/ākhudh_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "أخذتي",
+          "tr": "ʾakha<u>dh</u>ti",
+          "en": "You took",
+          "audio_path": "assets/audio/conjugation/ākhudh_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "أخذ",
+          "tr": "ʾakha<u>dh</u>",
+          "en": "He took",
+          "audio_path": "assets/audio/conjugation/ākhudh_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "أخذت",
+          "tr": "ʾakha<u>dh</u>at",
+          "en": "She took",
+          "audio_path": "assets/audio/conjugation/ākhudh_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "أخذنا",
+          "tr": "ʾakha<u>dh</u>na",
+          "en": "We took",
+          "audio_path": "assets/audio/conjugation/ākhudh_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "أخذتوا",
+          "tr": "ʾakha<u>dh</u>tu",
+          "en": "You (all) took",
+          "audio_path": "assets/audio/conjugation/ākhudh_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "أخذوا",
+          "tr": "ʾakha<u>dh</u>u",
+          "en": "They took",
+          "audio_path": "assets/audio/conjugation/ākhudh_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "آخذ",
+          "tr": "ākhu<u>dh</u>",
+          "en": "I take",
+          "audio_path": "assets/audio/conjugation/ākhudh_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تاخذ",
+          "tr": "tākhu<u>dh</u>",
+          "en": "You take",
+          "audio_path": "assets/audio/conjugation/ākhudh_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تاخذي",
+          "tr": "tākhu<u>dh</u>i",
+          "en": "You take",
+          "audio_path": "assets/audio/conjugation/ākhudh_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "ياخذ",
+          "tr": "yākhu<u>dh</u>",
+          "en": "He takes",
+          "audio_path": "assets/audio/conjugation/ākhudh_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تاخذ",
+          "tr": "tākhu<u>dh</u>",
+          "en": "She takes",
+          "audio_path": "assets/audio/conjugation/ākhudh_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "ناخذ",
+          "tr": "nākhu<u>dh</u>",
+          "en": "We take",
+          "audio_path": "assets/audio/conjugation/ākhudh_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تاخذوا",
+          "tr": "tākhu<u>dh</u>u",
+          "en": "You (all) take",
+          "audio_path": "assets/audio/conjugation/ākhudh_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "ياخذوا",
+          "tr": "yākhu<u>dh</u>u",
+          "en": "They take",
+          "audio_path": "assets/audio/conjugation/ākhudh_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حآخذ",
+          "tr": "ḥa-ākhu<u>dh</u>",
+          "en": "I will take",
+          "audio_path": "assets/audio/conjugation/ākhudh_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتاخذ",
+          "tr": "ḥa-tākhu<u>dh</u>",
+          "en": "You will take",
+          "audio_path": "assets/audio/conjugation/ākhudh_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتاخذي",
+          "tr": "ḥa-tākhu<u>dh</u>i",
+          "en": "You will take",
+          "audio_path": "assets/audio/conjugation/ākhudh_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حياخذ",
+          "tr": "ḥa-yākhu<u>dh</u>",
+          "en": "He will take",
+          "audio_path": "assets/audio/conjugation/ākhudh_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتاخذ",
+          "tr": "ḥa-tākhu<u>dh</u>",
+          "en": "She will take",
+          "audio_path": "assets/audio/conjugation/ākhudh_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حناخذ",
+          "tr": "ḥa-nākhu<u>dh</u>",
+          "en": "We will take",
+          "audio_path": "assets/audio/conjugation/ākhudh_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتاخذوا",
+          "tr": "ḥa-tākhu<u>dh</u>u",
+          "en": "You (all) will take",
+          "audio_path": "assets/audio/conjugation/ākhudh_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حياخذوا",
+          "tr": "ḥa-yākhu<u>dh</u>u",
+          "en": "They will take",
+          "audio_path": "assets/audio/conjugation/ākhudh_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أعطي",
+    "translit": "aʿṭī",
+    "meaning": "To Give",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "أعطيت",
+          "tr": "ʾaʿṭēt",
+          "en": "I gave",
+          "audio_path": "assets/audio/conjugation/aʿṭī_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "أعطيت",
+          "tr": "ʾaʿṭēt",
+          "en": "You gave",
+          "audio_path": "assets/audio/conjugation/aʿṭī_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "أعطيتي",
+          "tr": "ʾaʿṭēti",
+          "en": "You gave",
+          "audio_path": "assets/audio/conjugation/aʿṭī_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "أعطى",
+          "tr": "ʾaʿṭā",
+          "en": "He gave",
+          "audio_path": "assets/audio/conjugation/aʿṭī_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "أعطت",
+          "tr": "ʾaʿṭat",
+          "en": "She gave",
+          "audio_path": "assets/audio/conjugation/aʿṭī_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "أعطينا",
+          "tr": "ʾaʿṭēna",
+          "en": "We gave",
+          "audio_path": "assets/audio/conjugation/aʿṭī_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "أعطيتوا",
+          "tr": "ʾaʿṭētu",
+          "en": "You (all) gave",
+          "audio_path": "assets/audio/conjugation/aʿṭī_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "أعطوا",
+          "tr": "ʾaʿṭaw",
+          "en": "They gave",
+          "audio_path": "assets/audio/conjugation/aʿṭī_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أعطي",
+          "tr": "ʾaʿṭī",
+          "en": "I give",
+          "audio_path": "assets/audio/conjugation/aʿṭī_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تعطي",
+          "tr": "tiʿṭī",
+          "en": "You give",
+          "audio_path": "assets/audio/conjugation/aʿṭī_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تعطي",
+          "tr": "tiʿṭī",
+          "en": "You give",
+          "audio_path": "assets/audio/conjugation/aʿṭī_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يعطي",
+          "tr": "yiʿṭī",
+          "en": "He gives",
+          "audio_path": "assets/audio/conjugation/aʿṭī_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تعطي",
+          "tr": "tiʿṭī",
+          "en": "She gives",
+          "audio_path": "assets/audio/conjugation/aʿṭī_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نعطي",
+          "tr": "niʿṭī",
+          "en": "We give",
+          "audio_path": "assets/audio/conjugation/aʿṭī_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تعطوا",
+          "tr": "tiʿṭū",
+          "en": "You (all) give",
+          "audio_path": "assets/audio/conjugation/aʿṭī_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يعطوا",
+          "tr": "yiʿṭū",
+          "en": "They give",
+          "audio_path": "assets/audio/conjugation/aʿṭī_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأعطي",
+          "tr": "ḥa-ʾaʿṭī",
+          "en": "I will give",
+          "audio_path": "assets/audio/conjugation/aʿṭī_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتتعطي",
+          "tr": "ḥa-tiʿṭī",
+          "en": "You will give",
+          "audio_path": "assets/audio/conjugation/aʿṭī_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتعطي",
+          "tr": "ḥa-tiʿṭī",
+          "en": "You will give",
+          "audio_path": "assets/audio/conjugation/aʿṭī_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيعطي",
+          "tr": "ḥa-yiʿṭī",
+          "en": "He will give",
+          "audio_path": "assets/audio/conjugation/aʿṭī_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتتعطي",
+          "tr": "ḥa-tiʿṭī",
+          "en": "She will give",
+          "audio_path": "assets/audio/conjugation/aʿṭī_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنعطي",
+          "tr": "ḥa-niʿṭī",
+          "en": "We will give",
+          "audio_path": "assets/audio/conjugation/aʿṭī_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتعطوا",
+          "tr": "ḥa-tiʿṭū",
+          "en": "You (all) will give",
+          "audio_path": "assets/audio/conjugation/aʿṭī_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيعطوا",
+          "tr": "ḥa-yiʿṭū",
+          "en": "They will give",
+          "audio_path": "assets/audio/conjugation/aʿṭī_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أشوف",
+    "translit": "ashūf",
+    "meaning": "To See",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "شفت",
+          "tr": "shuft",
+          "en": "I saw",
+          "audio_path": "assets/audio/conjugation/ashūf_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "شفت",
+          "tr": "shuft",
+          "en": "You saw",
+          "audio_path": "assets/audio/conjugation/ashūf_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "شفتي",
+          "tr": "shufti",
+          "en": "You saw",
+          "audio_path": "assets/audio/conjugation/ashūf_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "شاف",
+          "tr": "shāf",
+          "en": "He saw",
+          "audio_path": "assets/audio/conjugation/ashūf_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "شافت",
+          "tr": "shāfat",
+          "en": "She saw",
+          "audio_path": "assets/audio/conjugation/ashūf_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "شفنا",
+          "tr": "shufna",
+          "en": "We saw",
+          "audio_path": "assets/audio/conjugation/ashūf_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "شفتوا",
+          "tr": "shuftu",
+          "en": "You (all) saw",
+          "audio_path": "assets/audio/conjugation/ashūf_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "شافوا",
+          "tr": "shāfu",
+          "en": "They saw",
+          "audio_path": "assets/audio/conjugation/ashūf_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أشوف",
+          "tr": "ashūf",
+          "en": "I see",
+          "audio_path": "assets/audio/conjugation/ashūf_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تشوف",
+          "tr": "tishūf",
+          "en": "You see",
+          "audio_path": "assets/audio/conjugation/ashūf_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تشوفي",
+          "tr": "tishūfi",
+          "en": "You see",
+          "audio_path": "assets/audio/conjugation/ashūf_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يشوف",
+          "tr": "yishūf",
+          "en": "He sees",
+          "audio_path": "assets/audio/conjugation/ashūf_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تشوف",
+          "tr": "tishūf",
+          "en": "She sees",
+          "audio_path": "assets/audio/conjugation/ashūf_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نشوف",
+          "tr": "nishūf",
+          "en": "We see",
+          "audio_path": "assets/audio/conjugation/ashūf_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تشوفوا",
+          "tr": "tishūfu",
+          "en": "You (all) see",
+          "audio_path": "assets/audio/conjugation/ashūf_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يشوفوا",
+          "tr": "yishūfu",
+          "en": "They see",
+          "audio_path": "assets/audio/conjugation/ashūf_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأشوف",
+          "tr": "ḥa-ashūf",
+          "en": "I will see",
+          "audio_path": "assets/audio/conjugation/ashūf_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتشوف",
+          "tr": "ḥa-tishūf",
+          "en": "You will see",
+          "audio_path": "assets/audio/conjugation/ashūf_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتشوفي",
+          "tr": "ḥa-tishūfi",
+          "en": "You will see",
+          "audio_path": "assets/audio/conjugation/ashūf_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيشوف",
+          "tr": "ḥa-yishūf",
+          "en": "He will see",
+          "audio_path": "assets/audio/conjugation/ashūf_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتشوف",
+          "tr": "ḥa-tishūf",
+          "en": "She will see",
+          "audio_path": "assets/audio/conjugation/ashūf_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنشوف",
+          "tr": "ḥa-nishūf",
+          "en": "We will see",
+          "audio_path": "assets/audio/conjugation/ashūf_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتشوفوا",
+          "tr": "ḥa-tishūfu",
+          "en": "You (all) will see",
+          "audio_path": "assets/audio/conjugation/ashūf_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيشوفوا",
+          "tr": "ḥa-yishūfu",
+          "en": "They will see",
+          "audio_path": "assets/audio/conjugation/ashūf_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أقول",
+    "translit": "agūl",
+    "meaning": "To Say / To Tell",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "قلت",
+          "tr": "gult",
+          "en": "I said/told",
+          "audio_path": "assets/audio/conjugation/agūl_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "قلت",
+          "tr": "gult",
+          "en": "You said/told",
+          "audio_path": "assets/audio/conjugation/agūl_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "قلتي",
+          "tr": "gulti",
+          "en": "You said/told",
+          "audio_path": "assets/audio/conjugation/agūl_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "قال",
+          "tr": "gāl",
+          "en": "He said/told",
+          "audio_path": "assets/audio/conjugation/agūl_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "قالت",
+          "tr": "gālat",
+          "en": "She said/told",
+          "audio_path": "assets/audio/conjugation/agūl_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "قلنا",
+          "tr": "gulna",
+          "en": "We said/told",
+          "audio_path": "assets/audio/conjugation/agūl_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "قلتوا",
+          "tr": "gultu",
+          "en": "You (all) said/told",
+          "audio_path": "assets/audio/conjugation/agūl_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "قالوا",
+          "tr": "gālu",
+          "en": "They said/told",
+          "audio_path": "assets/audio/conjugation/agūl_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أقول",
+          "tr": "agūl",
+          "en": "I say/tell",
+          "audio_path": "assets/audio/conjugation/agūl_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تقول",
+          "tr": "tigūl",
+          "en": "You say/tell",
+          "audio_path": "assets/audio/conjugation/agūl_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تقولي",
+          "tr": "tigūli",
+          "en": "You say/tell",
+          "audio_path": "assets/audio/conjugation/agūl_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يقول",
+          "tr": "yigūl",
+          "en": "He says/tells",
+          "audio_path": "assets/audio/conjugation/agūl_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تقول",
+          "tr": "tigūl",
+          "en": "She says/tells",
+          "audio_path": "assets/audio/conjugation/agūl_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نقول",
+          "tr": "nigūl",
+          "en": "We say/tell",
+          "audio_path": "assets/audio/conjugation/agūl_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تقولوا",
+          "tr": "tigūlu",
+          "en": "You (all) say/tell",
+          "audio_path": "assets/audio/conjugation/agūl_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يقولوا",
+          "tr": "yigūlu",
+          "en": "They say/tell",
+          "audio_path": "assets/audio/conjugation/agūl_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأقول",
+          "tr": "ḥa-agūl",
+          "en": "I will say/tell",
+          "audio_path": "assets/audio/conjugation/agūl_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتقول",
+          "tr": "ḥa-tigūl",
+          "en": "You will say/tell",
+          "audio_path": "assets/audio/conjugation/agūl_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتقولي",
+          "tr": "ḥa-tigūli",
+          "en": "You will say/tell",
+          "audio_path": "assets/audio/conjugation/agūl_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيقول",
+          "tr": "ḥa-yigūl",
+          "en": "He will say/tell",
+          "audio_path": "assets/audio/conjugation/agūl_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتقول",
+          "tr": "ḥa-tigūl",
+          "en": "She will say/tell",
+          "audio_path": "assets/audio/conjugation/agūl_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنقول",
+          "tr": "ḥa-nigūl",
+          "en": "We will say/tell",
+          "audio_path": "assets/audio/conjugation/agūl_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتقولوا",
+          "tr": "ḥa-tigūlu",
+          "en": "You (all) will say/tell",
+          "audio_path": "assets/audio/conjugation/agūl_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيقولوا",
+          "tr": "ḥa-yigūlu",
+          "en": "They will say/tell",
+          "audio_path": "assets/audio/conjugation/agūl_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أسمع",
+    "translit": "asmaʿ",
+    "meaning": "To Hear",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "سمعت",
+          "tr": "simiʿt",
+          "en": "I heard",
+          "audio_path": "assets/audio/conjugation/asmaʿ_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "سمعت",
+          "tr": "simiʿt",
+          "en": "You heard",
+          "audio_path": "assets/audio/conjugation/asmaʿ_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "سمعتي",
+          "tr": "simiʿti",
+          "en": "You heard",
+          "audio_path": "assets/audio/conjugation/asmaʿ_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "سمع",
+          "tr": "simiʿ",
+          "en": "He heard",
+          "audio_path": "assets/audio/conjugation/asmaʿ_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "سمعت",
+          "tr": "simiʿat",
+          "en": "She heard",
+          "audio_path": "assets/audio/conjugation/asmaʿ_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "سمعنا",
+          "tr": "simiʿna",
+          "en": "We heard",
+          "audio_path": "assets/audio/conjugation/asmaʿ_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "سمعتوا",
+          "tr": "simiʿtu",
+          "en": "You (all) heard",
+          "audio_path": "assets/audio/conjugation/asmaʿ_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "سمعوا",
+          "tr": "simiʿu",
+          "en": "They heard",
+          "audio_path": "assets/audio/conjugation/asmaʿ_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أسمع",
+          "tr": "asmaʿ",
+          "en": "I hear",
+          "audio_path": "assets/audio/conjugation/asmaʿ_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تسمع",
+          "tr": "tismaʿ",
+          "en": "You hear",
+          "audio_path": "assets/audio/conjugation/asmaʿ_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تسمعي",
+          "tr": "tismaʿi",
+          "en": "You hear",
+          "audio_path": "assets/audio/conjugation/asmaʿ_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يسمع",
+          "tr": "yismaʿ",
+          "en": "He hears",
+          "audio_path": "assets/audio/conjugation/asmaʿ_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تسمع",
+          "tr": "tismaʿ",
+          "en": "She hears",
+          "audio_path": "assets/audio/conjugation/asmaʿ_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نسمع",
+          "tr": "nismaʿ",
+          "en": "We hear",
+          "audio_path": "assets/audio/conjugation/asmaʿ_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تسمعوا",
+          "tr": "tismaʿu",
+          "en": "You (all) hear",
+          "audio_path": "assets/audio/conjugation/asmaʿ_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يسمعوا",
+          "tr": "yismaʿu",
+          "en": "They hear",
+          "audio_path": "assets/audio/conjugation/asmaʿ_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأسمع",
+          "tr": "ḥa-asmaʿ",
+          "en": "I will hear",
+          "audio_path": "assets/audio/conjugation/asmaʿ_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتسمع",
+          "tr": "ḥa-tismaʿ",
+          "en": "You will hear",
+          "audio_path": "assets/audio/conjugation/asmaʿ_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتسمعي",
+          "tr": "ḥa-tismaʿi",
+          "en": "You will hear",
+          "audio_path": "assets/audio/conjugation/asmaʿ_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيسمع",
+          "tr": "ḥa-yismaʿ",
+          "en": "He will hear",
+          "audio_path": "assets/audio/conjugation/asmaʿ_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتسمع",
+          "tr": "ḥa-tismaʿ",
+          "en": "She will hear",
+          "audio_path": "assets/audio/conjugation/asmaʿ_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنسمع",
+          "tr": "ḥa-nismaʿ",
+          "en": "We will hear",
+          "audio_path": "assets/audio/conjugation/asmaʿ_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتسمعوا",
+          "tr": "ḥa-tismaʿu",
+          "en": "You (all) will hear",
+          "audio_path": "assets/audio/conjugation/asmaʿ_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيسمعوا",
+          "tr": "ḥa-yismaʿu",
+          "en": "They will hear",
+          "audio_path": "assets/audio/conjugation/asmaʿ_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أتكلم",
+    "translit": "atakallam",
+    "meaning": "To Speak",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "تكلمت",
+          "tr": "takallamt",
+          "en": "I spoke",
+          "audio_path": "assets/audio/conjugation/atakallam_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تكلمت",
+          "tr": "takallamt",
+          "en": "You spoke",
+          "audio_path": "assets/audio/conjugation/atakallam_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تكلمتي",
+          "tr": "takallamti",
+          "en": "You spoke",
+          "audio_path": "assets/audio/conjugation/atakallam_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "تكلم",
+          "tr": "takallam",
+          "en": "He spoke",
+          "audio_path": "assets/audio/conjugation/atakallam_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تكلمت",
+          "tr": "takallamat",
+          "en": "She spoke",
+          "audio_path": "assets/audio/conjugation/atakallam_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "تكلمنا",
+          "tr": "takallamna",
+          "en": "We spoke",
+          "audio_path": "assets/audio/conjugation/atakallam_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "تكلمتوا",
+          "tr": "takallamtu",
+          "en": "You (all) spoke",
+          "audio_path": "assets/audio/conjugation/atakallam_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "تكلموا",
+          "tr": "takallamu",
+          "en": "They spoke",
+          "audio_path": "assets/audio/conjugation/atakallam_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أتكلم",
+          "tr": "atakallam",
+          "en": "I speak",
+          "audio_path": "assets/audio/conjugation/atakallam_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تتكلم",
+          "tr": "titkallam",
+          "en": "You speak",
+          "audio_path": "assets/audio/conjugation/atakallam_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تتكلمي",
+          "tr": "titkallami",
+          "en": "You speak",
+          "audio_path": "assets/audio/conjugation/atakallam_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يتكلم",
+          "tr": "yitkallam",
+          "en": "He speaks",
+          "audio_path": "assets/audio/conjugation/atakallam_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تتكلم",
+          "tr": "titkallam",
+          "en": "She speaks",
+          "audio_path": "assets/audio/conjugation/atakallam_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نتكلم",
+          "tr": "nitkallam",
+          "en": "We speak",
+          "audio_path": "assets/audio/conjugation/atakallam_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تتكلموا",
+          "tr": "titkallamu",
+          "en": "You (all) speak",
+          "audio_path": "assets/audio/conjugation/atakallam_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يتكلموا",
+          "tr": "yitkallamu",
+          "en": "They speak",
+          "audio_path": "assets/audio/conjugation/atakallam_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأتكلم",
+          "tr": "ḥa-atakallam",
+          "en": "I will speak",
+          "audio_path": "assets/audio/conjugation/atakallam_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتتكلم",
+          "tr": "ḥa-titkallam",
+          "en": "You will speak",
+          "audio_path": "assets/audio/conjugation/atakallam_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتتكلمي",
+          "tr": "ḥa-titkallami",
+          "en": "You will speak",
+          "audio_path": "assets/audio/conjugation/atakallam_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيتكلم",
+          "tr": "ḥa-yitkallam",
+          "en": "He will speak",
+          "audio_path": "assets/audio/conjugation/atakallam_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتتكلم",
+          "tr": "ḥa-titkallam",
+          "en": "She will speak",
+          "audio_path": "assets/audio/conjugation/atakallam_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنتكلم",
+          "tr": "ḥa-nitkallam",
+          "en": "We will speak",
+          "audio_path": "assets/audio/conjugation/atakallam_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتتكلموا",
+          "tr": "ḥa-titkallamu",
+          "en": "You (all) will speak",
+          "audio_path": "assets/audio/conjugation/atakallam_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيتكلموا",
+          "tr": "ḥa-yitkallamu",
+          "en": "They will speak",
+          "audio_path": "assets/audio/conjugation/atakallam_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أعرف",
+    "translit": "aʿrif",
+    "meaning": "To Know",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "عرفت",
+          "tr": "ʿarift",
+          "en": "I knew",
+          "audio_path": "assets/audio/conjugation/aʿrif_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "عرفت",
+          "tr": "ʿarift",
+          "en": "You knew",
+          "audio_path": "assets/audio/conjugation/aʿrif_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "عرفتي",
+          "tr": "ʿarifti",
+          "en": "You knew",
+          "audio_path": "assets/audio/conjugation/aʿrif_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "عرف",
+          "tr": "ʿaraf",
+          "en": "He knew",
+          "audio_path": "assets/audio/conjugation/aʿrif_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "عرفت",
+          "tr": "ʿarifat",
+          "en": "She knew",
+          "audio_path": "assets/audio/conjugation/aʿrif_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "عرفنا",
+          "tr": "ʿarifna",
+          "en": "We knew",
+          "audio_path": "assets/audio/conjugation/aʿrif_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "عرفتوا",
+          "tr": "ʿariftu",
+          "en": "You (all) knew",
+          "audio_path": "assets/audio/conjugation/aʿrif_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "عرفوا",
+          "tr": "ʿarifu",
+          "en": "They knew",
+          "audio_path": "assets/audio/conjugation/aʿrif_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أعرف",
+          "tr": "aʿrif",
+          "en": "I know",
+          "audio_path": "assets/audio/conjugation/aʿrif_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تعرف",
+          "tr": "tiʿrif",
+          "en": "You know",
+          "audio_path": "assets/audio/conjugation/aʿrif_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تعرفي",
+          "tr": "tiʿrifi",
+          "en": "You know",
+          "audio_path": "assets/audio/conjugation/aʿrif_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يعرف",
+          "tr": "yiʿrif",
+          "en": "He knows",
+          "audio_path": "assets/audio/conjugation/aʿrif_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تعرف",
+          "tr": "tiʿrif",
+          "en": "She knows",
+          "audio_path": "assets/audio/conjugation/aʿrif_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نعرف",
+          "tr": "niʿrif",
+          "en": "We know",
+          "audio_path": "assets/audio/conjugation/aʿrif_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تعرفوا",
+          "tr": "tiʿrifu",
+          "en": "You (all) know",
+          "audio_path": "assets/audio/conjugation/aʿrif_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يعرفوا",
+          "tr": "yiʿrifu",
+          "en": "They know",
+          "audio_path": "assets/audio/conjugation/aʿrif_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأعرف",
+          "tr": "ḥa-aʿrif",
+          "en": "I will know",
+          "audio_path": "assets/audio/conjugation/aʿrif_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتتعرف",
+          "tr": "ḥa-tiʿrif",
+          "en": "You will know",
+          "audio_path": "assets/audio/conjugation/aʿrif_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتعرفي",
+          "tr": "ḥa-tiʿrifi",
+          "en": "You will know",
+          "audio_path": "assets/audio/conjugation/aʿrif_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيعرف",
+          "tr": "ḥa-yiʿrif",
+          "en": "He will know",
+          "audio_path": "assets/audio/conjugation/aʿrif_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتتعرف",
+          "tr": "ḥa-tiʿrif",
+          "en": "She will know",
+          "audio_path": "assets/audio/conjugation/aʿrif_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنعرف",
+          "tr": "ḥa-niʿrif",
+          "en": "We will know",
+          "audio_path": "assets/audio/conjugation/aʿrif_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتعرفوا",
+          "tr": "ḥa-tiʿrifu",
+          "en": "You (all) will know",
+          "audio_path": "assets/audio/conjugation/aʿrif_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيعرفوا",
+          "tr": "ḥa-yiʿrifu",
+          "en": "They will know",
+          "audio_path": "assets/audio/conjugation/aʿrif_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أدرس",
+    "translit": "adris",
+    "meaning": "To Study",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "درست",
+          "tr": "darast",
+          "en": "I studied",
+          "audio_path": "assets/audio/conjugation/adris_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "درست",
+          "tr": "darast",
+          "en": "You studied",
+          "audio_path": "assets/audio/conjugation/adris_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "درستي",
+          "tr": "darasti",
+          "en": "You studied",
+          "audio_path": "assets/audio/conjugation/adris_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "درس",
+          "tr": "daras",
+          "en": "He studied",
+          "audio_path": "assets/audio/conjugation/adris_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "درست",
+          "tr": "darasat",
+          "en": "She studied",
+          "audio_path": "assets/audio/conjugation/adris_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "درسنا",
+          "tr": "darasna",
+          "en": "We studied",
+          "audio_path": "assets/audio/conjugation/adris_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "درستوا",
+          "tr": "darastu",
+          "en": "You (all) studied",
+          "audio_path": "assets/audio/conjugation/adris_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "درسوا",
+          "tr": "darasu",
+          "en": "They studied",
+          "audio_path": "assets/audio/conjugation/adris_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أدرس",
+          "tr": "adris",
+          "en": "I study",
+          "audio_path": "assets/audio/conjugation/adris_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تدرس",
+          "tr": "tidris",
+          "en": "You study",
+          "audio_path": "assets/audio/conjugation/adris_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تدرسي",
+          "tr": "tidrisi",
+          "en": "You study",
+          "audio_path": "assets/audio/conjugation/adris_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يدرس",
+          "tr": "yidris",
+          "en": "He studies",
+          "audio_path": "assets/audio/conjugation/adris_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تدرس",
+          "tr": "tidris",
+          "en": "She studies",
+          "audio_path": "assets/audio/conjugation/adris_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "ندرس",
+          "tr": "nidris",
+          "en": "We study",
+          "audio_path": "assets/audio/conjugation/adris_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تدرسوا",
+          "tr": "tidrisu",
+          "en": "You (all) study",
+          "audio_path": "assets/audio/conjugation/adris_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يدرسوا",
+          "tr": "yidrisu",
+          "en": "They study",
+          "audio_path": "assets/audio/conjugation/adris_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأدرس",
+          "tr": "ḥa-adris",
+          "en": "I will study",
+          "audio_path": "assets/audio/conjugation/adris_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتدرس",
+          "tr": "ḥa-tidris",
+          "en": "You will study",
+          "audio_path": "assets/audio/conjugation/adris_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتدرسي",
+          "tr": "ḥa-tidrisi",
+          "en": "You will study",
+          "audio_path": "assets/audio/conjugation/adris_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيدرس",
+          "tr": "ḥa-yidris",
+          "en": "He will study",
+          "audio_path": "assets/audio/conjugation/adris_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتدرس",
+          "tr": "ḥa-tidris",
+          "en": "She will study",
+          "audio_path": "assets/audio/conjugation/adris_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حندرس",
+          "tr": "ḥa-nidris",
+          "en": "We will study",
+          "audio_path": "assets/audio/conjugation/adris_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتدرسوا",
+          "tr": "ḥa-tidrisu",
+          "en": "You (all) will study",
+          "audio_path": "assets/audio/conjugation/adris_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيدرسوا",
+          "tr": "ḥa-yidrisu",
+          "en": "They will study",
+          "audio_path": "assets/audio/conjugation/adris_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أشتغل",
+    "translit": "ashtighil",
+    "meaning": "To Work",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "اشتغلت",
+          "tr": "ishtaghalt",
+          "en": "I worked",
+          "audio_path": "assets/audio/conjugation/ashtighil_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "اشتغلت",
+          "tr": "ishtaghalt",
+          "en": "You worked",
+          "audio_path": "assets/audio/conjugation/ashtighil_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "اشتغلتي",
+          "tr": "ishtaghalti",
+          "en": "You worked",
+          "audio_path": "assets/audio/conjugation/ashtighil_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "شتغل",
+          "tr": "ishtaghal",
+          "en": "He worked",
+          "audio_path": "assets/audio/conjugation/ashtighil_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "اشتغلت",
+          "tr": "ishtaghalat",
+          "en": "She worked",
+          "audio_path": "assets/audio/conjugation/ashtighil_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "شتغلنا",
+          "tr": "ishtaghalna",
+          "en": "We worked",
+          "audio_path": "assets/audio/conjugation/ashtighil_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "شتغلتوا",
+          "tr": "ishtaghaltu",
+          "en": "You (all) worked",
+          "audio_path": "assets/audio/conjugation/ashtighil_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "شتغلوا",
+          "tr": "ishtaghalu",
+          "en": "They worked",
+          "audio_path": "assets/audio/conjugation/ashtighil_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أشتغل",
+          "tr": "ashtighil",
+          "en": "I work",
+          "audio_path": "assets/audio/conjugation/ashtighil_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تشتغل",
+          "tr": "tishtighil",
+          "en": "You work",
+          "audio_path": "assets/audio/conjugation/ashtighil_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تشتغلي",
+          "tr": "tishtighili",
+          "en": "You work",
+          "audio_path": "assets/audio/conjugation/ashtighil_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يشتغل",
+          "tr": "yishtighil",
+          "en": "He works",
+          "audio_path": "assets/audio/conjugation/ashtighil_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تشتغل",
+          "tr": "tishtighil",
+          "en": "She works",
+          "audio_path": "assets/audio/conjugation/ashtighil_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نشتغل",
+          "tr": "nishtighil",
+          "en": "We work",
+          "audio_path": "assets/audio/conjugation/ashtighil_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تشتغلوا",
+          "tr": "tishtighilu",
+          "en": "You (all) work",
+          "audio_path": "assets/audio/conjugation/ashtighil_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يشتغلوا",
+          "tr": "yishtighilu",
+          "en": "They work",
+          "audio_path": "assets/audio/conjugation/ashtighil_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأشتغل",
+          "tr": "ḥa-ashtighil",
+          "en": "I will work",
+          "audio_path": "assets/audio/conjugation/ashtighil_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتشتغل",
+          "tr": "ḥa-tishtighil",
+          "en": "You will work",
+          "audio_path": "assets/audio/conjugation/ashtighil_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتشتغلي",
+          "tr": "ḥa-tishtighili",
+          "en": "You will work",
+          "audio_path": "assets/audio/conjugation/ashtighil_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيشتغل",
+          "tr": "ḥa-yishtighil",
+          "en": "He will work",
+          "audio_path": "assets/audio/conjugation/ashtighil_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتشتغل",
+          "tr": "ḥa-tishtighil",
+          "en": "She will work",
+          "audio_path": "assets/audio/conjugation/ashtighil_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنشتغل",
+          "tr": "ḥa-nishtighil",
+          "en": "We will work",
+          "audio_path": "assets/audio/conjugation/ashtighil_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتشتغلوا",
+          "tr": "ḥa-tishtighilu",
+          "en": "You (all) will work",
+          "audio_path": "assets/audio/conjugation/ashtighil_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيشتغلوا",
+          "tr": "ḥa-yishtighilu",
+          "en": "They will work",
+          "audio_path": "assets/audio/conjugation/ashtighil_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "آكل",
+    "translit": "ākil",
+    "meaning": "To Eat",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "أكلت",
+          "tr": "ʾakalt",
+          "en": "I ate",
+          "audio_path": "assets/audio/conjugation/ākil_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "أكلت",
+          "tr": "ʾakalt",
+          "en": "You ate",
+          "audio_path": "assets/audio/conjugation/ākil_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "أكلتي",
+          "tr": "ʾakalti",
+          "en": "You ate",
+          "audio_path": "assets/audio/conjugation/ākil_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "أكل",
+          "tr": "ʾakal",
+          "en": "He ate",
+          "audio_path": "assets/audio/conjugation/ākil_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "أكلت",
+          "tr": "ʾakalat",
+          "en": "She ate",
+          "audio_path": "assets/audio/conjugation/ākil_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "أكلنا",
+          "tr": "ʾakalna",
+          "en": "We ate",
+          "audio_path": "assets/audio/conjugation/ākil_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "أكلتوا",
+          "tr": "ʾakaltu",
+          "en": "You (all) ate",
+          "audio_path": "assets/audio/conjugation/ākil_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "أكلوا",
+          "tr": "ʾakalu",
+          "en": "They ate",
+          "audio_path": "assets/audio/conjugation/ākil_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "آكل",
+          "tr": "ākil",
+          "en": "I eat",
+          "audio_path": "assets/audio/conjugation/ākil_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تاكل",
+          "tr": "tākil",
+          "en": "You eat",
+          "audio_path": "assets/audio/conjugation/ākil_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تاكلي",
+          "tr": "tākli",
+          "en": "You eat",
+          "audio_path": "assets/audio/conjugation/ākil_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "ياكل",
+          "tr": "yākil",
+          "en": "He eats",
+          "audio_path": "assets/audio/conjugation/ākil_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تاكل",
+          "tr": "tākil",
+          "en": "She eats",
+          "audio_path": "assets/audio/conjugation/ākil_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "ناكل",
+          "tr": "nākil",
+          "en": "We eat",
+          "audio_path": "assets/audio/conjugation/ākil_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تاكلوا",
+          "tr": "tākulu",
+          "en": "You (all) eat",
+          "audio_path": "assets/audio/conjugation/ākil_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "ياكلوا",
+          "tr": "yākulu",
+          "en": "They eat",
+          "audio_path": "assets/audio/conjugation/ākil_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حآكل",
+          "tr": "ḥa-ākil",
+          "en": "I will eat",
+          "audio_path": "assets/audio/conjugation/ākil_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتاكل",
+          "tr": "ḥa-tākil",
+          "en": "You will eat",
+          "audio_path": "assets/audio/conjugation/ākil_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتاكلي",
+          "tr": "ḥa-tākli",
+          "en": "You will eat",
+          "audio_path": "assets/audio/conjugation/ākil_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حياكل",
+          "tr": "ḥa-yākil",
+          "en": "He will eat",
+          "audio_path": "assets/audio/conjugation/ākil_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتاكل",
+          "tr": "ḥa-tākil",
+          "en": "She will eat",
+          "audio_path": "assets/audio/conjugation/ākil_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حناكل",
+          "tr": "ḥa-nākil",
+          "en": "We will eat",
+          "audio_path": "assets/audio/conjugation/ākil_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتاكلوا",
+          "tr": "ḥa-tākulu",
+          "en": "You (all) will eat",
+          "audio_path": "assets/audio/conjugation/ākil_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حياكلوا",
+          "tr": "ḥa-yākulu",
+          "en": "They will eat",
+          "audio_path": "assets/audio/conjugation/ākil_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أشرب",
+    "translit": "ashrab",
+    "meaning": "To Drink",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "شربت",
+          "tr": "shiribt",
+          "en": "I drank",
+          "audio_path": "assets/audio/conjugation/ashrab_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "شربت",
+          "tr": "shiribt",
+          "en": "You drank",
+          "audio_path": "assets/audio/conjugation/ashrab_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "شربتي",
+          "tr": "shiribti",
+          "en": "You drank",
+          "audio_path": "assets/audio/conjugation/ashrab_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "شرب",
+          "tr": "shirib",
+          "en": "He drank",
+          "audio_path": "assets/audio/conjugation/ashrab_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "شربت",
+          "tr": "shirbat",
+          "en": "She drank",
+          "audio_path": "assets/audio/conjugation/ashrab_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "شربنا",
+          "tr": "shiribna",
+          "en": "We drank",
+          "audio_path": "assets/audio/conjugation/ashrab_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "شربتوا",
+          "tr": "shiribtu",
+          "en": "You (all) drank",
+          "audio_path": "assets/audio/conjugation/ashrab_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "شربوا",
+          "tr": "shiribu",
+          "en": "They drank",
+          "audio_path": "assets/audio/conjugation/ashrab_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أشرب",
+          "tr": "ashrab",
+          "en": "I drink",
+          "audio_path": "assets/audio/conjugation/ashrab_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تشرب",
+          "tr": "tishrab",
+          "en": "You drink",
+          "audio_path": "assets/audio/conjugation/ashrab_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تشربي",
+          "tr": "tishrabi",
+          "en": "You drink",
+          "audio_path": "assets/audio/conjugation/ashrab_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يشرب",
+          "tr": "yishrab",
+          "en": "He drinks",
+          "audio_path": "assets/audio/conjugation/ashrab_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تشرب",
+          "tr": "tishrab",
+          "en": "She drinks",
+          "audio_path": "assets/audio/conjugation/ashrab_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نشرب",
+          "tr": "nishrab",
+          "en": "We drink",
+          "audio_path": "assets/audio/conjugation/ashrab_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تشربوا",
+          "tr": "tishrabu",
+          "en": "You (all) drink",
+          "audio_path": "assets/audio/conjugation/ashrab_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يشربوا",
+          "tr": "yishrabu",
+          "en": "They drink",
+          "audio_path": "assets/audio/conjugation/ashrab_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأشرب",
+          "tr": "ḥa-ashrab",
+          "en": "I will drink",
+          "audio_path": "assets/audio/conjugation/ashrab_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتشرب",
+          "tr": "ḥa-tishrab",
+          "en": "You will drink",
+          "audio_path": "assets/audio/conjugation/ashrab_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتشربي",
+          "tr": "ḥa-tishrabi",
+          "en": "You will drink",
+          "audio_path": "assets/audio/conjugation/ashrab_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيشرب",
+          "tr": "ḥa-yishrab",
+          "en": "He will drink",
+          "audio_path": "assets/audio/conjugation/ashrab_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتشرب",
+          "tr": "ḥa-tishrab",
+          "en": "She will drink",
+          "audio_path": "assets/audio/conjugation/ashrab_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنشرب",
+          "tr": "ḥa-nishrab",
+          "en": "We will drink",
+          "audio_path": "assets/audio/conjugation/ashrab_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتشربوا",
+          "tr": "ḥa-tishrabu",
+          "en": "You (all) will drink",
+          "audio_path": "assets/audio/conjugation/ashrab_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيشربوا",
+          "tr": "ḥa-yishrabu",
+          "en": "They will drink",
+          "audio_path": "assets/audio/conjugation/ashrab_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أنام",
+    "translit": "anām",
+    "meaning": "To Sleep",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "نمت",
+          "tr": "nimt",
+          "en": "I slept",
+          "audio_path": "assets/audio/conjugation/anām_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "نمت",
+          "tr": "nimt",
+          "en": "You slept",
+          "audio_path": "assets/audio/conjugation/anām_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "نمتي",
+          "tr": "nimti",
+          "en": "You slept",
+          "audio_path": "assets/audio/conjugation/anām_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "نام",
+          "tr": "nām",
+          "en": "He slept",
+          "audio_path": "assets/audio/conjugation/anām_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "نامت",
+          "tr": "nāmat",
+          "en": "She slept",
+          "audio_path": "assets/audio/conjugation/anām_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نمنا",
+          "tr": "nimna",
+          "en": "We slept",
+          "audio_path": "assets/audio/conjugation/anām_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "نمتوا",
+          "tr": "nimtu",
+          "en": "You (all) slept",
+          "audio_path": "assets/audio/conjugation/anām_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "ناموا",
+          "tr": "nāmu",
+          "en": "They slept",
+          "audio_path": "assets/audio/conjugation/anām_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أنام",
+          "tr": "anām",
+          "en": "I sleep",
+          "audio_path": "assets/audio/conjugation/anām_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تنام",
+          "tr": "tinām",
+          "en": "You sleep",
+          "audio_path": "assets/audio/conjugation/anām_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تنامي",
+          "tr": "tināmi",
+          "en": "You sleep",
+          "audio_path": "assets/audio/conjugation/anām_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "ينام",
+          "tr": "yinām",
+          "en": "He sleeps",
+          "audio_path": "assets/audio/conjugation/anām_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تنام",
+          "tr": "tinām",
+          "en": "She sleeps",
+          "audio_path": "assets/audio/conjugation/anām_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "ننام",
+          "tr": "ninām",
+          "en": "We sleep",
+          "audio_path": "assets/audio/conjugation/anām_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تناموا",
+          "tr": "tināmu",
+          "en": "You (all) sleep",
+          "audio_path": "assets/audio/conjugation/anām_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يناموا",
+          "tr": "yināmu",
+          "en": "They sleep",
+          "audio_path": "assets/audio/conjugation/anām_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأنام",
+          "tr": "ḥa-anām",
+          "en": "I will sleep",
+          "audio_path": "assets/audio/conjugation/anām_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتنام",
+          "tr": "ḥa-tinām",
+          "en": "You will sleep",
+          "audio_path": "assets/audio/conjugation/anām_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتنامي",
+          "tr": "ḥa-tināmi",
+          "en": "You will sleep",
+          "audio_path": "assets/audio/conjugation/anām_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حينام",
+          "tr": "ḥa-yinām",
+          "en": "He will sleep",
+          "audio_path": "assets/audio/conjugation/anām_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتنام",
+          "tr": "ḥa-tinām",
+          "en": "She will sleep",
+          "audio_path": "assets/audio/conjugation/anām_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حننام",
+          "tr": "ḥa-ninām",
+          "en": "We will sleep",
+          "audio_path": "assets/audio/conjugation/anām_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتناموا",
+          "tr": "ḥa-tināmu",
+          "en": "You (all) will sleep",
+          "audio_path": "assets/audio/conjugation/anām_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيناموا",
+          "tr": "ḥa-yināmu",
+          "en": "They will sleep",
+          "audio_path": "assets/audio/conjugation/anām_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أكتب",
+    "translit": "aktib",
+    "meaning": "To Write",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "كتبت",
+          "tr": "katabt",
+          "en": "I wrote",
+          "audio_path": "assets/audio/conjugation/aktib_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "كتبت",
+          "tr": "katabt",
+          "en": "You wrote",
+          "audio_path": "assets/audio/conjugation/aktib_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "كتبتي",
+          "tr": "katabti",
+          "en": "You wrote",
+          "audio_path": "assets/audio/conjugation/aktib_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "كتب",
+          "tr": "katab",
+          "en": "He wrote",
+          "audio_path": "assets/audio/conjugation/aktib_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "كتبت",
+          "tr": "katabat",
+          "en": "She wrote",
+          "audio_path": "assets/audio/conjugation/aktib_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "كتبنا",
+          "tr": "katabna",
+          "en": "We wrote",
+          "audio_path": "assets/audio/conjugation/aktib_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "كتبتوا",
+          "tr": "katabtu",
+          "en": "You (all) wrote",
+          "audio_path": "assets/audio/conjugation/aktib_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "كتبوا",
+          "tr": "katabu",
+          "en": "They wrote",
+          "audio_path": "assets/audio/conjugation/aktib_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أكتب",
+          "tr": "aktib",
+          "en": "I write",
+          "audio_path": "assets/audio/conjugation/aktib_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تكتب",
+          "tr": "tiktib",
+          "en": "You write",
+          "audio_path": "assets/audio/conjugation/aktib_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تكتبي",
+          "tr": "tiktibi",
+          "en": "You write",
+          "audio_path": "assets/audio/conjugation/aktib_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يكتب",
+          "tr": "yiktib",
+          "en": "He writes",
+          "audio_path": "assets/audio/conjugation/aktib_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تكتب",
+          "tr": "tiktib",
+          "en": "She writes",
+          "audio_path": "assets/audio/conjugation/aktib_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نكتب",
+          "tr": "niktib",
+          "en": "We write",
+          "audio_path": "assets/audio/conjugation/aktib_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تكتبوا",
+          "tr": "tiktibu",
+          "en": "You (all) write",
+          "audio_path": "assets/audio/conjugation/aktib_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يكتبوا",
+          "tr": "yiktibu",
+          "en": "They write",
+          "audio_path": "assets/audio/conjugation/aktib_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأكتب",
+          "tr": "ḥa-aktib",
+          "en": "I will write",
+          "audio_path": "assets/audio/conjugation/aktib_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتكتب",
+          "tr": "ḥa-tiktib",
+          "en": "You will write",
+          "audio_path": "assets/audio/conjugation/aktib_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتكتبي",
+          "tr": "ḥa-tiktibi",
+          "en": "You will write",
+          "audio_path": "assets/audio/conjugation/aktib_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيكتب",
+          "tr": "ḥa-yiktib",
+          "en": "He will write",
+          "audio_path": "assets/audio/conjugation/aktib_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتكتب",
+          "tr": "ḥa-tiktib",
+          "en": "She will write",
+          "audio_path": "assets/audio/conjugation/aktib_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنكتب",
+          "tr": "ḥa-niktib",
+          "en": "We will write",
+          "audio_path": "assets/audio/conjugation/aktib_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتكتبوا",
+          "tr": "ḥa-tiktibu",
+          "en": "You (all) will write",
+          "audio_path": "assets/audio/conjugation/aktib_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيكتبوا",
+          "tr": "ḥa-yiktibu",
+          "en": "They will write",
+          "audio_path": "assets/audio/conjugation/aktib_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أفتح",
+    "translit": "aftaḥ",
+    "meaning": "To Open",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "فتحت",
+          "tr": "fataḥt",
+          "en": "I opened",
+          "audio_path": "assets/audio/conjugation/aftaḥ_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "فتحت",
+          "tr": "fataḥt",
+          "en": "You opened",
+          "audio_path": "assets/audio/conjugation/aftaḥ_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "فتحتي",
+          "tr": "fataḥti",
+          "en": "You opened",
+          "audio_path": "assets/audio/conjugation/aftaḥ_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "فتح",
+          "tr": "fataḥ",
+          "en": "He opened",
+          "audio_path": "assets/audio/conjugation/aftaḥ_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "فتحت",
+          "tr": "fataḥat",
+          "en": "She opened",
+          "audio_path": "assets/audio/conjugation/aftaḥ_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "فتحنا",
+          "tr": "fataḥna",
+          "en": "We opened",
+          "audio_path": "assets/audio/conjugation/aftaḥ_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "فتحتوا",
+          "tr": "fataḥtu",
+          "en": "You (all) opened",
+          "audio_path": "assets/audio/conjugation/aftaḥ_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "فتحوا",
+          "tr": "fataḥu",
+          "en": "They opened",
+          "audio_path": "assets/audio/conjugation/aftaḥ_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أفتح",
+          "tr": "aftaḥ",
+          "en": "I open",
+          "audio_path": "assets/audio/conjugation/aftaḥ_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تفتح",
+          "tr": "tiftaḥ",
+          "en": "You open",
+          "audio_path": "assets/audio/conjugation/aftaḥ_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تفتحي",
+          "tr": "tiftaḥi",
+          "en": "You open",
+          "audio_path": "assets/audio/conjugation/aftaḥ_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يفتح",
+          "tr": "yiftaḥ",
+          "en": "He opens",
+          "audio_path": "assets/audio/conjugation/aftaḥ_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تفتح",
+          "tr": "tiftaḥ",
+          "en": "She opens",
+          "audio_path": "assets/audio/conjugation/aftaḥ_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نفتح",
+          "tr": "niftaḥ",
+          "en": "We open",
+          "audio_path": "assets/audio/conjugation/aftaḥ_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تفتحوا",
+          "tr": "tiftaḥu",
+          "en": "You (all) open",
+          "audio_path": "assets/audio/conjugation/aftaḥ_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يفتحوا",
+          "tr": "yiftaḥu",
+          "en": "They open",
+          "audio_path": "assets/audio/conjugation/aftaḥ_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأفتح",
+          "tr": "ḥa-aftaḥ",
+          "en": "I will open",
+          "audio_path": "assets/audio/conjugation/aftaḥ_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتفتح",
+          "tr": "ḥa-tiftaḥ",
+          "en": "You will open",
+          "audio_path": "assets/audio/conjugation/aftaḥ_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتفتحي",
+          "tr": "ḥa-tiftaḥi",
+          "en": "You will open",
+          "audio_path": "assets/audio/conjugation/aftaḥ_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيفتح",
+          "tr": "ḥa-yiftaḥ",
+          "en": "He will open",
+          "audio_path": "assets/audio/conjugation/aftaḥ_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتفتح",
+          "tr": "ḥa-tiftaḥ",
+          "en": "She will open",
+          "audio_path": "assets/audio/conjugation/aftaḥ_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنفتح",
+          "tr": "ḥa-niftaḥ",
+          "en": "We will open",
+          "audio_path": "assets/audio/conjugation/aftaḥ_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتفتحوا",
+          "tr": "ḥa-tiftaḥu",
+          "en": "You (all) will open",
+          "audio_path": "assets/audio/conjugation/aftaḥ_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيفتحوا",
+          "tr": "ḥa-yiftaḥu",
+          "en": "They will open",
+          "audio_path": "assets/audio/conjugation/aftaḥ_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أسكر",
+    "translit": "askir / asakkir",
+    "meaning": "To Close",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "سكرت",
+          "tr": "sakkart",
+          "en": "I closed",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "سكرت",
+          "tr": "sakkart",
+          "en": "You closed",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "سكرتي",
+          "tr": "sakkarti",
+          "en": "You closed",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "سكر",
+          "tr": "sakkar",
+          "en": "He closed",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "سكرت",
+          "tr": "sakkarat",
+          "en": "She closed",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "سكرنا",
+          "tr": "sakkarna",
+          "en": "We closed",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "سكرتوا",
+          "tr": "sakkartu",
+          "en": "You (all) closed",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "سكروا",
+          "tr": "sakkaru",
+          "en": "They closed",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أسكر",
+          "tr": "asakkir",
+          "en": "I close",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تسكر",
+          "tr": "tisakkir",
+          "en": "You close",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تسكري",
+          "tr": "tisakkiri",
+          "en": "You close",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يسكر",
+          "tr": "yisakkir",
+          "en": "He closes",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تسكر",
+          "tr": "tisakkir",
+          "en": "She closes",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نسكر",
+          "tr": "nisakkir",
+          "en": "We close",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تسكروا",
+          "tr": "tisakkiru",
+          "en": "You (all) close",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يسكروا",
+          "tr": "yisakkiru",
+          "en": "They close",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأسكر",
+          "tr": "ḥa-asakkir",
+          "en": "I will close",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتسكر",
+          "tr": "ḥa-tisakkir",
+          "en": "You will close",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتسكري",
+          "tr": "ḥa-tisakkiri",
+          "en": "You will close",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيسكر",
+          "tr": "ḥa-yisakkir",
+          "en": "He will close",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتسكر",
+          "tr": "ḥa-tisakkir",
+          "en": "She will close",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنسكر",
+          "tr": "ḥa-nisakkir",
+          "en": "We will close",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتسكروا",
+          "tr": "ḥa-tisakkiru",
+          "en": "You (all) will close",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيسكروا",
+          "tr": "ḥa-yisakkiru",
+          "en": "They will close",
+          "audio_path": "assets/audio/conjugation/askir___asakkir_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "ألبس",
+    "translit": "albis",
+    "meaning": "To Wear / To Get Dressed",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "لبست",
+          "tr": "libist",
+          "en": "I wore/got dressed",
+          "audio_path": "assets/audio/conjugation/albis_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "لبست",
+          "tr": "libist",
+          "en": "You wore/got dressed",
+          "audio_path": "assets/audio/conjugation/albis_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "لبستي",
+          "tr": "libisti",
+          "en": "You wore/got dressed",
+          "audio_path": "assets/audio/conjugation/albis_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "لبس",
+          "tr": "libis",
+          "en": "He wore/got dressed",
+          "audio_path": "assets/audio/conjugation/albis_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "لبست",
+          "tr": "libsat",
+          "en": "She wore/got dressed",
+          "audio_path": "assets/audio/conjugation/albis_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "لبسنا",
+          "tr": "libisna",
+          "en": "We wore/got dressed",
+          "audio_path": "assets/audio/conjugation/albis_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "لبستوا",
+          "tr": "libistu",
+          "en": "You (all) wore/got dressed",
+          "audio_path": "assets/audio/conjugation/albis_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "لبسوا",
+          "tr": "libsu",
+          "en": "They wore/got dressed",
+          "audio_path": "assets/audio/conjugation/albis_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "ألبس",
+          "tr": "albis",
+          "en": "I wear/get dressed",
+          "audio_path": "assets/audio/conjugation/albis_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تلبس",
+          "tr": "tilbis",
+          "en": "You wear/get dressed",
+          "audio_path": "assets/audio/conjugation/albis_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تلبسي",
+          "tr": "tilbisi",
+          "en": "You wear/get dressed",
+          "audio_path": "assets/audio/conjugation/albis_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يلبس",
+          "tr": "yilbis",
+          "en": "He wears/gets dressed",
+          "audio_path": "assets/audio/conjugation/albis_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تلبس",
+          "tr": "tilbis",
+          "en": "She wears/gets dressed",
+          "audio_path": "assets/audio/conjugation/albis_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نلبس",
+          "tr": "nilbis",
+          "en": "We wear/get dressed",
+          "audio_path": "assets/audio/conjugation/albis_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تلبسوا",
+          "tr": "tilbisu",
+          "en": "You (all) wear/get dressed",
+          "audio_path": "assets/audio/conjugation/albis_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يلبسوا",
+          "tr": "yilbisu",
+          "en": "They wear/get dressed",
+          "audio_path": "assets/audio/conjugation/albis_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حألبس",
+          "tr": "ḥa-albis",
+          "en": "I will wear/get dressed",
+          "audio_path": "assets/audio/conjugation/albis_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتلبس",
+          "tr": "ḥa-tilbis",
+          "en": "You will wear/get dressed",
+          "audio_path": "assets/audio/conjugation/albis_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتلبسي",
+          "tr": "ḥa-tilbisi",
+          "en": "You will wear/get dressed",
+          "audio_path": "assets/audio/conjugation/albis_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيلبس",
+          "tr": "ḥa-yilbis",
+          "en": "He will wear/get dressed",
+          "audio_path": "assets/audio/conjugation/albis_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتلبس",
+          "tr": "ḥa-tilbis",
+          "en": "She will wear/get dressed",
+          "audio_path": "assets/audio/conjugation/albis_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنلبس",
+          "tr": "ḥa-nilbis",
+          "en": "We will wear/get dressed",
+          "audio_path": "assets/audio/conjugation/albis_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتلبسوا",
+          "tr": "ḥa-tilbisu",
+          "en": "You (all) will wear/get dressed",
+          "audio_path": "assets/audio/conjugation/albis_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيلبسوا",
+          "tr": "ḥa-yilbisu",
+          "en": "They will wear/get dressed",
+          "audio_path": "assets/audio/conjugation/albis_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أشتري",
+    "translit": "ashtirī",
+    "meaning": "To Buy",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "اشتريت",
+          "tr": "ishtarēt",
+          "en": "I bought",
+          "audio_path": "assets/audio/conjugation/ashtirī_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "اشتريت",
+          "tr": "ishtarēt",
+          "en": "You bought",
+          "audio_path": "assets/audio/conjugation/ashtirī_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "اشتريتي",
+          "tr": "ishtarēti",
+          "en": "You bought",
+          "audio_path": "assets/audio/conjugation/ashtirī_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "شترى",
+          "tr": "ishtarā",
+          "en": "He bought",
+          "audio_path": "assets/audio/conjugation/ashtirī_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "شترت",
+          "tr": "ishtarat",
+          "en": "She bought",
+          "audio_path": "assets/audio/conjugation/ashtirī_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "شترينا",
+          "tr": "ishtarēna",
+          "en": "We bought",
+          "audio_path": "assets/audio/conjugation/ashtirī_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "شتريتوا",
+          "tr": "ishtarētu",
+          "en": "You (all) bought",
+          "audio_path": "assets/audio/conjugation/ashtirī_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "شتروا",
+          "tr": "ishtaraw",
+          "en": "They bought",
+          "audio_path": "assets/audio/conjugation/ashtirī_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أشتري",
+          "tr": "ashtirī",
+          "en": "I buy",
+          "audio_path": "assets/audio/conjugation/ashtirī_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تشتري",
+          "tr": "tishtirī",
+          "en": "You buy",
+          "audio_path": "assets/audio/conjugation/ashtirī_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تشتري",
+          "tr": "tishtirī",
+          "en": "You buy",
+          "audio_path": "assets/audio/conjugation/ashtirī_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يشتري",
+          "tr": "yishtirī",
+          "en": "He buys",
+          "audio_path": "assets/audio/conjugation/ashtirī_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تشتري",
+          "tr": "tishtirī",
+          "en": "She buys",
+          "audio_path": "assets/audio/conjugation/ashtirī_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نشتري",
+          "tr": "nishtirī",
+          "en": "We buy",
+          "audio_path": "assets/audio/conjugation/ashtirī_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تشتروا",
+          "tr": "tishtirū",
+          "en": "You (all) buy",
+          "audio_path": "assets/audio/conjugation/ashtirī_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يشتروا",
+          "tr": "yishtirū",
+          "en": "They buy",
+          "audio_path": "assets/audio/conjugation/ashtirī_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأشتري",
+          "tr": "ḥa-ashtirī",
+          "en": "I will buy",
+          "audio_path": "assets/audio/conjugation/ashtirī_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتشتري",
+          "tr": "ḥa-tishtirī",
+          "en": "You will buy",
+          "audio_path": "assets/audio/conjugation/ashtirī_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتشتري",
+          "tr": "ḥa-tishtirī",
+          "en": "You will buy",
+          "audio_path": "assets/audio/conjugation/ashtirī_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيشتري",
+          "tr": "ḥa-yishtirī",
+          "en": "He will buy",
+          "audio_path": "assets/audio/conjugation/ashtirī_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتشتري",
+          "tr": "ḥa-tishtirī",
+          "en": "She will buy",
+          "audio_path": "assets/audio/conjugation/ashtirī_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنشتري",
+          "tr": "ḥa-nishtirī",
+          "en": "We will buy",
+          "audio_path": "assets/audio/conjugation/ashtirī_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتشتروا",
+          "tr": "ḥa-tishtirū",
+          "en": "You (all) will buy",
+          "audio_path": "assets/audio/conjugation/ashtirī_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيشتروا",
+          "tr": "ḥa-yishtirū",
+          "en": "They will buy",
+          "audio_path": "assets/audio/conjugation/ashtirī_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أحب",
+    "translit": "aḥibb",
+    "meaning": "To Like / To Love",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "حبيت",
+          "tr": "ḥabbēt",
+          "en": "I liked/loved",
+          "audio_path": "assets/audio/conjugation/aḥibb_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حبيت",
+          "tr": "ḥabbēt",
+          "en": "You liked/loved",
+          "audio_path": "assets/audio/conjugation/aḥibb_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حبيتي",
+          "tr": "ḥabbēti",
+          "en": "You liked/loved",
+          "audio_path": "assets/audio/conjugation/aḥibb_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حب",
+          "tr": "ḥabb",
+          "en": "He liked/loved",
+          "audio_path": "assets/audio/conjugation/aḥibb_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حبت",
+          "tr": "ḥabbat",
+          "en": "She liked/loved",
+          "audio_path": "assets/audio/conjugation/aḥibb_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حبينا",
+          "tr": "ḥabbēna",
+          "en": "We liked/loved",
+          "audio_path": "assets/audio/conjugation/aḥibb_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "حبيتوا",
+          "tr": "ḥabbētu",
+          "en": "You (all) liked/loved",
+          "audio_path": "assets/audio/conjugation/aḥibb_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "حبوا",
+          "tr": "ḥabbu",
+          "en": "They liked/loved",
+          "audio_path": "assets/audio/conjugation/aḥibb_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أحب",
+          "tr": "aḥibb",
+          "en": "I like/love",
+          "audio_path": "assets/audio/conjugation/aḥibb_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تحب",
+          "tr": "tiḥibb",
+          "en": "You like/love",
+          "audio_path": "assets/audio/conjugation/aḥibb_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تحبي",
+          "tr": "tiḥibbi",
+          "en": "You like/love",
+          "audio_path": "assets/audio/conjugation/aḥibb_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يحب",
+          "tr": "yiḥibb",
+          "en": "He likes/loves",
+          "audio_path": "assets/audio/conjugation/aḥibb_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تحب",
+          "tr": "tiḥibb",
+          "en": "She likes/loves",
+          "audio_path": "assets/audio/conjugation/aḥibb_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نحب",
+          "tr": "niḥibb",
+          "en": "We like/love",
+          "audio_path": "assets/audio/conjugation/aḥibb_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تحبوا",
+          "tr": "tiḥibbu",
+          "en": "You (all) like/love",
+          "audio_path": "assets/audio/conjugation/aḥibb_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يحبوا",
+          "tr": "yiḥibbu",
+          "en": "They like/love",
+          "audio_path": "assets/audio/conjugation/aḥibb_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأحب",
+          "tr": "ḥa-aḥibb",
+          "en": "I will like/love",
+          "audio_path": "assets/audio/conjugation/aḥibb_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتتحب",
+          "tr": "ḥa-tiḥibb",
+          "en": "You will like/love",
+          "audio_path": "assets/audio/conjugation/aḥibb_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتحبي",
+          "tr": "ḥa-tiḥibbi",
+          "en": "You will like/love",
+          "audio_path": "assets/audio/conjugation/aḥibb_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيحب",
+          "tr": "ḥa-yiḥibb",
+          "en": "He will like/love",
+          "audio_path": "assets/audio/conjugation/aḥibb_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتتحب",
+          "tr": "ḥa-tiḥibb",
+          "en": "She will like/love",
+          "audio_path": "assets/audio/conjugation/aḥibb_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنحب",
+          "tr": "ḥa-niḥibb",
+          "en": "We will like/love",
+          "audio_path": "assets/audio/conjugation/aḥibb_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتحبوا",
+          "tr": "ḥa-tiḥibbu",
+          "en": "You (all) will like/love",
+          "audio_path": "assets/audio/conjugation/aḥibb_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيحبوا",
+          "tr": "ḥa-yiḥibbu",
+          "en": "They will like/love",
+          "audio_path": "assets/audio/conjugation/aḥibb_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أفهم",
+    "translit": "afham",
+    "meaning": "To Understand",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "فهمت",
+          "tr": "fihimt",
+          "en": "I understood",
+          "audio_path": "assets/audio/conjugation/afham_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "فهمت",
+          "tr": "fihimt",
+          "en": "You understood",
+          "audio_path": "assets/audio/conjugation/afham_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "فهمتي",
+          "tr": "fihimti",
+          "en": "You understood",
+          "audio_path": "assets/audio/conjugation/afham_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "فهم",
+          "tr": "fihim",
+          "en": "He understood",
+          "audio_path": "assets/audio/conjugation/afham_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "فهمت",
+          "tr": "fihmat",
+          "en": "She understood",
+          "audio_path": "assets/audio/conjugation/afham_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "فهمنا",
+          "tr": "fihimna",
+          "en": "We understood",
+          "audio_path": "assets/audio/conjugation/afham_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "فهمتوا",
+          "tr": "fihimtu",
+          "en": "You (all) understood",
+          "audio_path": "assets/audio/conjugation/afham_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "فهموا",
+          "tr": "fihimu",
+          "en": "They understood",
+          "audio_path": "assets/audio/conjugation/afham_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أفهم",
+          "tr": "afham",
+          "en": "I understand",
+          "audio_path": "assets/audio/conjugation/afham_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تفهم",
+          "tr": "tifham",
+          "en": "You understand",
+          "audio_path": "assets/audio/conjugation/afham_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تفهمي",
+          "tr": "tifhami",
+          "en": "You understand",
+          "audio_path": "assets/audio/conjugation/afham_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يفهم",
+          "tr": "yifham",
+          "en": "He understands",
+          "audio_path": "assets/audio/conjugation/afham_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تفهم",
+          "tr": "tifham",
+          "en": "She understands",
+          "audio_path": "assets/audio/conjugation/afham_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نفهم",
+          "tr": "nifham",
+          "en": "We understand",
+          "audio_path": "assets/audio/conjugation/afham_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تفهموا",
+          "tr": "tifhamu",
+          "en": "You (all) understand",
+          "audio_path": "assets/audio/conjugation/afham_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يفهموا",
+          "tr": "yifhamu",
+          "en": "They understand",
+          "audio_path": "assets/audio/conjugation/afham_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأفهم",
+          "tr": "ḥa-afham",
+          "en": "I will understand",
+          "audio_path": "assets/audio/conjugation/afham_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتفهم",
+          "tr": "ḥa-tifham",
+          "en": "You will understand",
+          "audio_path": "assets/audio/conjugation/afham_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتفهمي",
+          "tr": "ḥa-tifhami",
+          "en": "You will understand",
+          "audio_path": "assets/audio/conjugation/afham_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيفهم",
+          "tr": "ḥa-yifham",
+          "en": "He will understand",
+          "audio_path": "assets/audio/conjugation/afham_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتفهم",
+          "tr": "ḥa-tifham",
+          "en": "She will understand",
+          "audio_path": "assets/audio/conjugation/afham_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنفهم",
+          "tr": "ḥa-nifham",
+          "en": "We will understand",
+          "audio_path": "assets/audio/conjugation/afham_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتفهموا",
+          "tr": "ḥa-tifhamu",
+          "en": "You (all) will understand",
+          "audio_path": "assets/audio/conjugation/afham_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيفهموا",
+          "tr": "ḥa-yifhamu",
+          "en": "They will understand",
+          "audio_path": "assets/audio/conjugation/afham_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أركب",
+    "translit": "arkab",
+    "meaning": "To Ride / To Get On",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "ركبت",
+          "tr": "rikibt",
+          "en": "I rode/got on",
+          "audio_path": "assets/audio/conjugation/arkab_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "ركبت",
+          "tr": "rikibt",
+          "en": "You rode/got on",
+          "audio_path": "assets/audio/conjugation/arkab_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "ركبتي",
+          "tr": "rikibti",
+          "en": "You rode/got on",
+          "audio_path": "assets/audio/conjugation/arkab_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "ركب",
+          "tr": "rikib",
+          "en": "He rode/got on",
+          "audio_path": "assets/audio/conjugation/arkab_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "ركبت",
+          "tr": "rikbat",
+          "en": "She rode/got on",
+          "audio_path": "assets/audio/conjugation/arkab_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "ركبنا",
+          "tr": "rikibna",
+          "en": "We rode/got on",
+          "audio_path": "assets/audio/conjugation/arkab_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "ركبتوا",
+          "tr": "rikibtu",
+          "en": "You (all) rode/got on",
+          "audio_path": "assets/audio/conjugation/arkab_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "ركبوا",
+          "tr": "rikibu",
+          "en": "They rode/got on",
+          "audio_path": "assets/audio/conjugation/arkab_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أركب",
+          "tr": "arkab",
+          "en": "I ride/get on",
+          "audio_path": "assets/audio/conjugation/arkab_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تركب",
+          "tr": "tirkab",
+          "en": "You ride/get on",
+          "audio_path": "assets/audio/conjugation/arkab_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تركبي",
+          "tr": "tirkabi",
+          "en": "You ride/get on",
+          "audio_path": "assets/audio/conjugation/arkab_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يركب",
+          "tr": "yirkab",
+          "en": "He rides/gets on",
+          "audio_path": "assets/audio/conjugation/arkab_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تركب",
+          "tr": "tirkab",
+          "en": "She rides/gets on",
+          "audio_path": "assets/audio/conjugation/arkab_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نركب",
+          "tr": "nirkab",
+          "en": "We ride/get on",
+          "audio_path": "assets/audio/conjugation/arkab_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تركبوا",
+          "tr": "tirkabu",
+          "en": "You (all) ride/get on",
+          "audio_path": "assets/audio/conjugation/arkab_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يركبوا",
+          "tr": "yirkabu",
+          "en": "They ride/get on",
+          "audio_path": "assets/audio/conjugation/arkab_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأركب",
+          "tr": "ḥa-arkab",
+          "en": "I will ride/get on",
+          "audio_path": "assets/audio/conjugation/arkab_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتركب",
+          "tr": "ḥa-tirkab",
+          "en": "You will ride/get on",
+          "audio_path": "assets/audio/conjugation/arkab_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتركبي",
+          "tr": "ḥa-tirkabi",
+          "en": "You will ride/get on",
+          "audio_path": "assets/audio/conjugation/arkab_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيركب",
+          "tr": "ḥa-yirkab",
+          "en": "He will ride/get on",
+          "audio_path": "assets/audio/conjugation/arkab_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتركب",
+          "tr": "ḥa-tirkab",
+          "en": "She will ride/get on",
+          "audio_path": "assets/audio/conjugation/arkab_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنركب",
+          "tr": "ḥa-nirkab",
+          "en": "We will ride/get on",
+          "audio_path": "assets/audio/conjugation/arkab_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتركبوا",
+          "tr": "ḥa-tirkabu",
+          "en": "You (all) will ride/get on",
+          "audio_path": "assets/audio/conjugation/arkab_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيركبوا",
+          "tr": "ḥa-yirkabu",
+          "en": "They will ride/get on",
+          "audio_path": "assets/audio/conjugation/arkab_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أدخل",
+    "translit": "adkhul",
+    "meaning": "To Enter",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "دخلت",
+          "tr": "dakhalt",
+          "en": "I entered",
+          "audio_path": "assets/audio/conjugation/adkhul_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "دخلت",
+          "tr": "dakhalt",
+          "en": "You entered",
+          "audio_path": "assets/audio/conjugation/adkhul_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "دخلتي",
+          "tr": "dakhalti",
+          "en": "You entered",
+          "audio_path": "assets/audio/conjugation/adkhul_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "دخل",
+          "tr": "dakhal",
+          "en": "He entered",
+          "audio_path": "assets/audio/conjugation/adkhul_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "دخلت",
+          "tr": "dakhalat",
+          "en": "She entered",
+          "audio_path": "assets/audio/conjugation/adkhul_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "دخلنا",
+          "tr": "dakhalna",
+          "en": "We entered",
+          "audio_path": "assets/audio/conjugation/adkhul_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "دخلتوا",
+          "tr": "dakhaltu",
+          "en": "You (all) entered",
+          "audio_path": "assets/audio/conjugation/adkhul_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "دخلوا",
+          "tr": "dakhalu",
+          "en": "They entered",
+          "audio_path": "assets/audio/conjugation/adkhul_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أدخل",
+          "tr": "adkhul",
+          "en": "I enter",
+          "audio_path": "assets/audio/conjugation/adkhul_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تدخل",
+          "tr": "tidkhul",
+          "en": "You enter",
+          "audio_path": "assets/audio/conjugation/adkhul_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تدخلي",
+          "tr": "tidkhuli",
+          "en": "You enter",
+          "audio_path": "assets/audio/conjugation/adkhul_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يدخل",
+          "tr": "yidkhul",
+          "en": "He enters",
+          "audio_path": "assets/audio/conjugation/adkhul_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تدخل",
+          "tr": "tidkhul",
+          "en": "She enters",
+          "audio_path": "assets/audio/conjugation/adkhul_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "ندخل",
+          "tr": "nidkhul",
+          "en": "We enter",
+          "audio_path": "assets/audio/conjugation/adkhul_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تدخلوا",
+          "tr": "tidkhulu",
+          "en": "You (all) enter",
+          "audio_path": "assets/audio/conjugation/adkhul_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يدخلوا",
+          "tr": "yidkhulu",
+          "en": "They enter",
+          "audio_path": "assets/audio/conjugation/adkhul_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأدخل",
+          "tr": "ḥa-adkhul",
+          "en": "I will enter",
+          "audio_path": "assets/audio/conjugation/adkhul_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتدخل",
+          "tr": "ḥa-tidkhul",
+          "en": "You will enter",
+          "audio_path": "assets/audio/conjugation/adkhul_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتدخلي",
+          "tr": "ḥa-tidkhuli",
+          "en": "You will enter",
+          "audio_path": "assets/audio/conjugation/adkhul_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيدخل",
+          "tr": "ḥa-yidkhul",
+          "en": "He will enter",
+          "audio_path": "assets/audio/conjugation/adkhul_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتدخل",
+          "tr": "ḥa-tidkhul",
+          "en": "She will enter",
+          "audio_path": "assets/audio/conjugation/adkhul_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حندخل",
+          "tr": "ḥa-nidkhul",
+          "en": "We will enter",
+          "audio_path": "assets/audio/conjugation/adkhul_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتدخلوا",
+          "tr": "ḥa-tidkhulu",
+          "en": "You (all) will enter",
+          "audio_path": "assets/audio/conjugation/adkhul_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيدخلوا",
+          "tr": "ḥa-yidkhulu",
+          "en": "They will enter",
+          "audio_path": "assets/audio/conjugation/adkhul_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أطلع",
+    "translit": "aṭlaʿ",
+    "meaning": "To Go Out / To Leave",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "طلعت",
+          "tr": "ṭiliʿt",
+          "en": "I went out/left",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "طلعت",
+          "tr": "ṭiliʿt",
+          "en": "You went out/left",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "طلعتي",
+          "tr": "ṭiliʿti",
+          "en": "You went out/left",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "طلع",
+          "tr": "ṭiliʿ",
+          "en": "He went out/left",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "طلعت",
+          "tr": "ṭilʿat",
+          "en": "She went out/left",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "طلعنا",
+          "tr": "ṭiliʿna",
+          "en": "We went out/left",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "طلعتوا",
+          "tr": "ṭiliʿtu",
+          "en": "You (all) went out/left",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "طلعوا",
+          "tr": "ṭilʿu",
+          "en": "They went out/left",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أطلع",
+          "tr": "aṭlaʿ",
+          "en": "I go out/leave",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تطلع",
+          "tr": "tiṭlaʿ",
+          "en": "You go out/leave",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تطلعي",
+          "tr": "tiṭlaʿi",
+          "en": "You go out/leave",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يطلع",
+          "tr": "yiṭlaʿ",
+          "en": "He goes out/leaves",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تطلع",
+          "tr": "tiṭlaʿ",
+          "en": "She goes out/leaves",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نطلع",
+          "tr": "niṭlaʿ",
+          "en": "We go out/leave",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تطلعوا",
+          "tr": "tiṭlaʿu",
+          "en": "You (all) go out/leave",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يطلعوا",
+          "tr": "yiṭlaʿu",
+          "en": "They go out/leave",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأطلع",
+          "tr": "ḥa-aṭlaʿ",
+          "en": "I will go out/leave",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتطلع",
+          "tr": "ḥa-tiṭlaʿ",
+          "en": "You will go out/leave",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتطلعي",
+          "tr": "ḥa-tiṭlaʿi",
+          "en": "You will go out/leave",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيطلع",
+          "tr": "ḥa-yiṭlaʿ",
+          "en": "He will go out/leave",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتطلع",
+          "tr": "ḥa-tiṭlaʿ",
+          "en": "She will go out/leave",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنطلع",
+          "tr": "ḥa-niṭlaʿ",
+          "en": "We will go out/leave",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتطلعوا",
+          "tr": "ḥa-tiṭlaʿu",
+          "en": "You (all) will go out/leave",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيطلعوا",
+          "tr": "ḥa-yiṭlaʿu",
+          "en": "They will go out/leave",
+          "audio_path": "assets/audio/conjugation/aṭlaʿ_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أرجع",
+    "translit": "arjaʿ",
+    "meaning": "To Return",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "رجعت",
+          "tr": "rijiʿt",
+          "en": "I returned",
+          "audio_path": "assets/audio/conjugation/arjaʿ_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "رجعت",
+          "tr": "rijiʿt",
+          "en": "You returned",
+          "audio_path": "assets/audio/conjugation/arjaʿ_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "رجعتي",
+          "tr": "rijiʿti",
+          "en": "You returned",
+          "audio_path": "assets/audio/conjugation/arjaʿ_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "رجع",
+          "tr": "rijiʿ",
+          "en": "He returned",
+          "audio_path": "assets/audio/conjugation/arjaʿ_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "رجعت",
+          "tr": "rijʿat",
+          "en": "She returned",
+          "audio_path": "assets/audio/conjugation/arjaʿ_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "رجعنا",
+          "tr": "rijiʿna",
+          "en": "We returned",
+          "audio_path": "assets/audio/conjugation/arjaʿ_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "رجعتوا",
+          "tr": "rijiʿtu",
+          "en": "You (all) returned",
+          "audio_path": "assets/audio/conjugation/arjaʿ_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "رجعوا",
+          "tr": "rijʿu",
+          "en": "They returned",
+          "audio_path": "assets/audio/conjugation/arjaʿ_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أرجع",
+          "tr": "arjaʿ",
+          "en": "I return",
+          "audio_path": "assets/audio/conjugation/arjaʿ_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "ترجع",
+          "tr": "tirjaʿ",
+          "en": "You return",
+          "audio_path": "assets/audio/conjugation/arjaʿ_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "ترجعي",
+          "tr": "tirjaʿi",
+          "en": "You return",
+          "audio_path": "assets/audio/conjugation/arjaʿ_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يرجع",
+          "tr": "yirjaʿ",
+          "en": "He returns",
+          "audio_path": "assets/audio/conjugation/arjaʿ_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "ترجع",
+          "tr": "tirjaʿ",
+          "en": "She returns",
+          "audio_path": "assets/audio/conjugation/arjaʿ_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نرجع",
+          "tr": "nirjaʿ",
+          "en": "We return",
+          "audio_path": "assets/audio/conjugation/arjaʿ_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "ترجعوا",
+          "tr": "tirjaʿu",
+          "en": "You (all) return",
+          "audio_path": "assets/audio/conjugation/arjaʿ_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يرجعوا",
+          "tr": "yirjaʿu",
+          "en": "They return",
+          "audio_path": "assets/audio/conjugation/arjaʿ_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأرجع",
+          "tr": "ḥa-arjaʿ",
+          "en": "I will return",
+          "audio_path": "assets/audio/conjugation/arjaʿ_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حترجع",
+          "tr": "ḥa-tirjaʿ",
+          "en": "You will return",
+          "audio_path": "assets/audio/conjugation/arjaʿ_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتترجعي",
+          "tr": "ḥa-tirjaʿi",
+          "en": "You will return",
+          "audio_path": "assets/audio/conjugation/arjaʿ_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيرجع",
+          "tr": "ḥa-yirjaʿ",
+          "en": "He will return",
+          "audio_path": "assets/audio/conjugation/arjaʿ_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حترجع",
+          "tr": "ḥa-tirjaʿ",
+          "en": "She will return",
+          "audio_path": "assets/audio/conjugation/arjaʿ_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنرجع",
+          "tr": "ḥa-nirjaʿ",
+          "en": "We will return",
+          "audio_path": "assets/audio/conjugation/arjaʿ_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتترجعوا",
+          "tr": "ḥa-tirjaʿu",
+          "en": "You (all) will return",
+          "audio_path": "assets/audio/conjugation/arjaʿ_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيرجعوا",
+          "tr": "ḥa-yirjaʿu",
+          "en": "They will return",
+          "audio_path": "assets/audio/conjugation/arjaʿ_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أوقف",
+    "translit": "awaggif",
+    "meaning": "To Stop / To Park",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "وقفت",
+          "tr": "waggaft",
+          "en": "I stopped/parked",
+          "audio_path": "assets/audio/conjugation/awaggif_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "وقفت",
+          "tr": "waggaft",
+          "en": "You stopped/parked",
+          "audio_path": "assets/audio/conjugation/awaggif_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "وقفتي",
+          "tr": "waggafti",
+          "en": "You stopped/parked",
+          "audio_path": "assets/audio/conjugation/awaggif_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "وقف",
+          "tr": "waggaf",
+          "en": "He stopped/parked",
+          "audio_path": "assets/audio/conjugation/awaggif_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "وقفت",
+          "tr": "waggafat",
+          "en": "She stopped/parked",
+          "audio_path": "assets/audio/conjugation/awaggif_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "وقفنا",
+          "tr": "waggafna",
+          "en": "We stopped/parked",
+          "audio_path": "assets/audio/conjugation/awaggif_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "وقفتوا",
+          "tr": "waggaftu",
+          "en": "You (all) stopped/parked",
+          "audio_path": "assets/audio/conjugation/awaggif_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "وقفوا",
+          "tr": "waggafu",
+          "en": "They stopped/parked",
+          "audio_path": "assets/audio/conjugation/awaggif_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أوقف",
+          "tr": "awaggif",
+          "en": "I stop/park",
+          "audio_path": "assets/audio/conjugation/awaggif_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "توقف",
+          "tr": "tiwaggif",
+          "en": "You stop/park",
+          "audio_path": "assets/audio/conjugation/awaggif_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "توقفي",
+          "tr": "tiwaggifi",
+          "en": "You stop/park",
+          "audio_path": "assets/audio/conjugation/awaggif_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يوقف",
+          "tr": "yiwaggif",
+          "en": "He stops/parks",
+          "audio_path": "assets/audio/conjugation/awaggif_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "توقف",
+          "tr": "tiwaggif",
+          "en": "She stops/parks",
+          "audio_path": "assets/audio/conjugation/awaggif_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نوقف",
+          "tr": "niwaggif",
+          "en": "We stop/park",
+          "audio_path": "assets/audio/conjugation/awaggif_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "توقفوا",
+          "tr": "tiwaggifu",
+          "en": "You (all) stop/park",
+          "audio_path": "assets/audio/conjugation/awaggif_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يوقفوا",
+          "tr": "yiwaggifu",
+          "en": "They stop/park",
+          "audio_path": "assets/audio/conjugation/awaggif_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأوقف",
+          "tr": "ḥa-awaggif",
+          "en": "I will stop/park",
+          "audio_path": "assets/audio/conjugation/awaggif_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتوقف",
+          "tr": "ḥa-tiwaggif",
+          "en": "You will stop/park",
+          "audio_path": "assets/audio/conjugation/awaggif_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتوقفي",
+          "tr": "ḥa-tiwaggifi",
+          "en": "You will stop/park",
+          "audio_path": "assets/audio/conjugation/awaggif_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيوقف",
+          "tr": "ḥa-yiwaggif",
+          "en": "He will stop/park",
+          "audio_path": "assets/audio/conjugation/awaggif_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتوقف",
+          "tr": "ḥa-tiwaggif",
+          "en": "She will stop/park",
+          "audio_path": "assets/audio/conjugation/awaggif_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنوقف",
+          "tr": "ḥa-niwaggif",
+          "en": "We will stop/park",
+          "audio_path": "assets/audio/conjugation/awaggif_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتوقفوا",
+          "tr": "ḥa-tiwaggifu",
+          "en": "You (all) will stop/park",
+          "audio_path": "assets/audio/conjugation/awaggif_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيوقفوا",
+          "tr": "ḥa-yiwaggifu",
+          "en": "They will stop/park",
+          "audio_path": "assets/audio/conjugation/awaggif_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أشتاق",
+    "translit": "ashtāg",
+    "meaning": "To Miss (someone)",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "شتقت",
+          "tr": "ishtagt",
+          "en": "I missed",
+          "audio_path": "assets/audio/conjugation/ashtāg_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "شتقت",
+          "tr": "ishtagt",
+          "en": "You missed",
+          "audio_path": "assets/audio/conjugation/ashtāg_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "شتقتي",
+          "tr": "ishtagti",
+          "en": "You missed",
+          "audio_path": "assets/audio/conjugation/ashtāg_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "شتاق",
+          "tr": "ishtāg",
+          "en": "He missed",
+          "audio_path": "assets/audio/conjugation/ashtāg_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "شتاقت",
+          "tr": "ishtāgat",
+          "en": "She missed",
+          "audio_path": "assets/audio/conjugation/ashtāg_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "شتقنا",
+          "tr": "ishtagna",
+          "en": "We missed",
+          "audio_path": "assets/audio/conjugation/ashtāg_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "شتقتوا",
+          "tr": "ishtagtu",
+          "en": "You (all) missed",
+          "audio_path": "assets/audio/conjugation/ashtāg_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "شتاقوا",
+          "tr": "ishtāgu",
+          "en": "They missed",
+          "audio_path": "assets/audio/conjugation/ashtāg_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أشتاق",
+          "tr": "ashtāg",
+          "en": "I miss",
+          "audio_path": "assets/audio/conjugation/ashtāg_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تشتاق",
+          "tr": "tishtāg",
+          "en": "You miss",
+          "audio_path": "assets/audio/conjugation/ashtāg_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تشتاقي",
+          "tr": "tishtāgi",
+          "en": "You miss",
+          "audio_path": "assets/audio/conjugation/ashtāg_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يشتاق",
+          "tr": "yishtāg",
+          "en": "He misses",
+          "audio_path": "assets/audio/conjugation/ashtāg_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تشتاق",
+          "tr": "tishtāg",
+          "en": "She misses",
+          "audio_path": "assets/audio/conjugation/ashtāg_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نشتاق",
+          "tr": "nishtāg",
+          "en": "We miss",
+          "audio_path": "assets/audio/conjugation/ashtāg_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تشتاقوا",
+          "tr": "tishtāgu",
+          "en": "You (all) miss",
+          "audio_path": "assets/audio/conjugation/ashtāg_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يشتاقوا",
+          "tr": "yishtāgu",
+          "en": "They miss",
+          "audio_path": "assets/audio/conjugation/ashtāg_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأشتاق",
+          "tr": "ḥa-ashtāg",
+          "en": "I will miss",
+          "audio_path": "assets/audio/conjugation/ashtāg_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتشتاق",
+          "tr": "ḥa-tishtāg",
+          "en": "You will miss",
+          "audio_path": "assets/audio/conjugation/ashtāg_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتشتاقي",
+          "tr": "ḥa-tishtāgi",
+          "en": "You will miss",
+          "audio_path": "assets/audio/conjugation/ashtāg_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيشتاق",
+          "tr": "ḥa-yishtāg",
+          "en": "He will miss",
+          "audio_path": "assets/audio/conjugation/ashtāg_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتشتاق",
+          "tr": "ḥa-tishtāg",
+          "en": "She will miss",
+          "audio_path": "assets/audio/conjugation/ashtāg_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنشتاق",
+          "tr": "ḥa-nishtāg",
+          "en": "We will miss",
+          "audio_path": "assets/audio/conjugation/ashtāg_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتشتاقوا",
+          "tr": "ḥa-tishtāgu",
+          "en": "You (all) will miss",
+          "audio_path": "assets/audio/conjugation/ashtāg_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيشتاقوا",
+          "tr": "ḥa-yishtāgu",
+          "en": "They will miss",
+          "audio_path": "assets/audio/conjugation/ashtāg_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أقدر",
+    "translit": "agdar",
+    "meaning": "To Be Able To / Can",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "قدرت",
+          "tr": "gidirt",
+          "en": "I was able to/could",
+          "audio_path": "assets/audio/conjugation/agdar_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "قدرت",
+          "tr": "gidirt",
+          "en": "You were able to/could",
+          "audio_path": "assets/audio/conjugation/agdar_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "قدرتي",
+          "tr": "gidirti",
+          "en": "You were able to/could",
+          "audio_path": "assets/audio/conjugation/agdar_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "قدر",
+          "tr": "gidir",
+          "en": "He was able to/could",
+          "audio_path": "assets/audio/conjugation/agdar_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "قدرت",
+          "tr": "gidrat",
+          "en": "She was able to/could",
+          "audio_path": "assets/audio/conjugation/agdar_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "قدرنا",
+          "tr": "gidimna",
+          "en": "We were able to/could",
+          "audio_path": "assets/audio/conjugation/agdar_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "قدرتوا",
+          "tr": "gidirtu",
+          "en": "You (all) were able to/could",
+          "audio_path": "assets/audio/conjugation/agdar_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "قدروا",
+          "tr": "gidru",
+          "en": "They were able to/could",
+          "audio_path": "assets/audio/conjugation/agdar_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أقدر",
+          "tr": "agdar",
+          "en": "I am able to/can",
+          "audio_path": "assets/audio/conjugation/agdar_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تقدر",
+          "tr": "tigdar",
+          "en": "You are able to/can",
+          "audio_path": "assets/audio/conjugation/agdar_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تقدري",
+          "tr": "tigdari",
+          "en": "You are able to/can",
+          "audio_path": "assets/audio/conjugation/agdar_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يقدر",
+          "tr": "yigdar",
+          "en": "He is able to/can",
+          "audio_path": "assets/audio/conjugation/agdar_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تقدر",
+          "tr": "tigdar",
+          "en": "She is able to/can",
+          "audio_path": "assets/audio/conjugation/agdar_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نقدر",
+          "tr": "nigdar",
+          "en": "We are able to/can",
+          "audio_path": "assets/audio/conjugation/agdar_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تقدروا",
+          "tr": "tigdaru",
+          "en": "You (all) are able to/can",
+          "audio_path": "assets/audio/conjugation/agdar_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يقدروا",
+          "tr": "yigdaru",
+          "en": "They are able to/can",
+          "audio_path": "assets/audio/conjugation/agdar_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأقدر",
+          "tr": "ḥa-agdar",
+          "en": "I will be able to/can",
+          "audio_path": "assets/audio/conjugation/agdar_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتقدر",
+          "tr": "ḥa-tigdar",
+          "en": "You will be able to/can",
+          "audio_path": "assets/audio/conjugation/agdar_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتقدري",
+          "tr": "ḥa-tigdari",
+          "en": "You will be able to/can",
+          "audio_path": "assets/audio/conjugation/agdar_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيفدر",
+          "tr": "ḥa-yigdar",
+          "en": "He will be able to/can",
+          "audio_path": "assets/audio/conjugation/agdar_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتقدر",
+          "tr": "ḥa-tigdar",
+          "en": "She will be able to/can",
+          "audio_path": "assets/audio/conjugation/agdar_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنقدر",
+          "tr": "ḥa-nigdar",
+          "en": "We will be able to/can",
+          "audio_path": "assets/audio/conjugation/agdar_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتقدروا",
+          "tr": "ḥa-tigdaru",
+          "en": "You (all) will be able to/can",
+          "audio_path": "assets/audio/conjugation/agdar_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيقدروا",
+          "tr": "ḥa-yigdaru",
+          "en": "They will be able to/can",
+          "audio_path": "assets/audio/conjugation/agdar_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أضيع",
+    "translit": "aḍīʿ",
+    "meaning": "To Lose (something)",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "ضيعت",
+          "tr": "ḍayyaʿt",
+          "en": "I lost",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "ضيعت",
+          "tr": "ḍayyaʿt",
+          "en": "You lost",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "ضيعتي",
+          "tr": "ḍayyaʿti",
+          "en": "You lost",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "ضيع",
+          "tr": "ḍayyaʿ",
+          "en": "He lost",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "ضيعت",
+          "tr": "ḍayyaʿat",
+          "en": "She lost",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "ضيعنا",
+          "tr": "ḍayyaʿna",
+          "en": "We lost",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "ضيعتوا",
+          "tr": "ḍayyaʿtu",
+          "en": "You (all) lost",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "ضيعوا",
+          "tr": "ḍayyaʿu",
+          "en": "They lost",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أضيع",
+          "tr": "aḍayyiʿ",
+          "en": "I lose",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تضيع",
+          "tr": "tiḍayyiʿ",
+          "en": "You lose",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تضيعي",
+          "tr": "tiḍayyiʿi",
+          "en": "You lose",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يضيع",
+          "tr": "yiḍayyiʿ",
+          "en": "He loses",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تضيع",
+          "tr": "tiḍayyiʿ",
+          "en": "She loses",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نضيع",
+          "tr": "niḍayyiʿ",
+          "en": "We lose",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تضيعوا",
+          "tr": "tiḍayyiʿu",
+          "en": "You (all) lose",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يضيعوا",
+          "tr": "yiḍayyiʿu",
+          "en": "They lose",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأضيع",
+          "tr": "ḥa-aḍayyiʿ",
+          "en": "I will lose",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتضيع",
+          "tr": "ḥa-tiḍayyiʿ",
+          "en": "You will lose",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتضيعي",
+          "tr": "ḥa-tiḍayyiʿi",
+          "en": "You will lose",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيضيع",
+          "tr": "ḥa-yiḍayyiʿ",
+          "en": "He will lose",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتضيع",
+          "tr": "ḥa-tiḍayyiʿ",
+          "en": "She will lose",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنضيع",
+          "tr": "ḥa-niḍayyiʿ",
+          "en": "We will lose",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتضيعوا",
+          "tr": "ḥa-tiḍayyiʿu",
+          "en": "You (all) will lose",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيضيعوا",
+          "tr": "ḥa-yiḍayyiʿu",
+          "en": "They will lose",
+          "audio_path": "assets/audio/conjugation/aḍīʿ_future_3p.mp3"
+        }
+      }
+    }
+  },
+  {
+    "verb": "أضحك",
+    "translit": "aḍḥak",
+    "meaning": "To Laugh",
+    "forms": {
+      "past": {
+        "1s": {
+          "ar": "ضحكت",
+          "tr": "ḍiḥikt",
+          "en": "I laughed",
+          "audio_path": "assets/audio/conjugation/aḍḥak_past_1s.mp3"
+        },
+        "2sm": {
+          "ar": "ضحكت",
+          "tr": "ḍiḥikt",
+          "en": "You laughed",
+          "audio_path": "assets/audio/conjugation/aḍḥak_past_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "ضحكتي",
+          "tr": "ḍiḥikti",
+          "en": "You laughed",
+          "audio_path": "assets/audio/conjugation/aḍḥak_past_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "ضحك",
+          "tr": "ḍiḥik",
+          "en": "He laughed",
+          "audio_path": "assets/audio/conjugation/aḍḥak_past_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "ضحكت",
+          "tr": "ḍiḥkat",
+          "en": "She laughed",
+          "audio_path": "assets/audio/conjugation/aḍḥak_past_3sf.mp3"
+        },
+        "1p": {
+          "ar": "ضحكنا",
+          "tr": "ḍiḥikna",
+          "en": "We laughed",
+          "audio_path": "assets/audio/conjugation/aḍḥak_past_1p.mp3"
+        },
+        "2p": {
+          "ar": "ضحكتوا",
+          "tr": "ḍiḥiktu",
+          "en": "You (all) laughed",
+          "audio_path": "assets/audio/conjugation/aḍḥak_past_2p.mp3"
+        },
+        "3p": {
+          "ar": "ضحكوا",
+          "tr": "ḍiḥiku",
+          "en": "They laughed",
+          "audio_path": "assets/audio/conjugation/aḍḥak_past_3p.mp3"
+        }
+      },
+      "present": {
+        "1s": {
+          "ar": "أضحك",
+          "tr": "aḍḥak",
+          "en": "I laugh",
+          "audio_path": "assets/audio/conjugation/aḍḥak_present_1s.mp3"
+        },
+        "2sm": {
+          "ar": "تضحك",
+          "tr": "tiḍḥak",
+          "en": "You laugh",
+          "audio_path": "assets/audio/conjugation/aḍḥak_present_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "تضحكي",
+          "tr": "tiḍḥaki",
+          "en": "You laugh",
+          "audio_path": "assets/audio/conjugation/aḍḥak_present_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "يضحك",
+          "tr": "yiḍḥak",
+          "en": "He laughs",
+          "audio_path": "assets/audio/conjugation/aḍḥak_present_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "تضحك",
+          "tr": "tiḍḥak",
+          "en": "She laughs",
+          "audio_path": "assets/audio/conjugation/aḍḥak_present_3sf.mp3"
+        },
+        "1p": {
+          "ar": "نضحك",
+          "tr": "niḍḥak",
+          "en": "We laugh",
+          "audio_path": "assets/audio/conjugation/aḍḥak_present_1p.mp3"
+        },
+        "2p": {
+          "ar": "تضحكوا",
+          "tr": "tiḍḥaku",
+          "en": "You (all) laugh",
+          "audio_path": "assets/audio/conjugation/aḍḥak_present_2p.mp3"
+        },
+        "3p": {
+          "ar": "يضحكوا",
+          "tr": "yiḍḥaku",
+          "en": "They laugh",
+          "audio_path": "assets/audio/conjugation/aḍḥak_present_3p.mp3"
+        }
+      },
+      "future": {
+        "1s": {
+          "ar": "حأضحك",
+          "tr": "ḥa-aḍḥak",
+          "en": "I will laugh",
+          "audio_path": "assets/audio/conjugation/aḍḥak_future_1s.mp3"
+        },
+        "2sm": {
+          "ar": "حتضحك",
+          "tr": "ḥa-tiḍḥak",
+          "en": "You will laugh",
+          "audio_path": "assets/audio/conjugation/aḍḥak_future_2sm.mp3"
+        },
+        "2sf": {
+          "ar": "حتتضحكي",
+          "tr": "ḥa-tiḍḥaki",
+          "en": "You will laugh",
+          "audio_path": "assets/audio/conjugation/aḍḥak_future_2sf.mp3"
+        },
+        "3sm": {
+          "ar": "حيضحك",
+          "tr": "ḥa-yiḍḥak",
+          "en": "He will laugh",
+          "audio_path": "assets/audio/conjugation/aḍḥak_future_3sm.mp3"
+        },
+        "3sf": {
+          "ar": "حتضحك",
+          "tr": "ḥa-tiḍḥak",
+          "en": "She will laugh",
+          "audio_path": "assets/audio/conjugation/aḍḥak_future_3sf.mp3"
+        },
+        "1p": {
+          "ar": "حنضحك",
+          "tr": "ḥa-niḍḥak",
+          "en": "We will laugh",
+          "audio_path": "assets/audio/conjugation/aḍḥak_future_1p.mp3"
+        },
+        "2p": {
+          "ar": "حتتضحكوا",
+          "tr": "ḥa-tiḍḥaku",
+          "en": "You (all) will laugh",
+          "audio_path": "assets/audio/conjugation/aḍḥak_future_2p.mp3"
+        },
+        "3p": {
+          "ar": "حيضحكوا",
+          "tr": "ḥa-yiḍḥaku",
+          "en": "They will laugh",
+          "audio_path": "assets/audio/conjugation/aḍḥak_future_3p.mp3"
+        }
+      }
+    }
+  }
+]

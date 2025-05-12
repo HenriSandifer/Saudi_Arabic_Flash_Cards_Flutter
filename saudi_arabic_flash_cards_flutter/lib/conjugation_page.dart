@@ -1,0 +1,182 @@
+import 'dart:convert';
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart' show rootBundle;
+import 'package:audioplayers/audioplayers.dart';
+
+class ConjugationPage extends StatefulWidget {
+  @override
+  _ConjugationPageState createState() => _ConjugationPageState();
+}
+
+class _ConjugationPageState extends State<ConjugationPage> {
+  List<dynamic> conjugationList = [];
+  dynamic selectedVerb;
+  String selectedTense = "present";
+  final player = AudioPlayer();
+
+  final Map<String, Map<String, String>> tenseLabels = {
+    "past": {"ar": "الماضي", "tr": "al-māḍī", "en": "Past"},
+    "present": {"ar": "المضارع", "tr": "al-muḍāriʿ", "en": "Present"},
+    "future": {"ar": "المستقبل", "tr": "al-mustaqbal", "en": "Future"},
+  };
+
+  @override
+  void initState() {
+    super.initState();
+    loadConjugationData();
+  }
+
+  Future<void> loadConjugationData() async {
+    final jsonString = await rootBundle.loadString("assets/data/conjugation/conjugation.json");
+    final List<dynamic> data = json.decode(jsonString);
+    setState(() {
+      conjugationList = data;
+    });
+  }
+
+  void playAudio(String path) async {
+    await player.stop();
+    await player.play(AssetSource(path.replaceFirst("assets/", "")));
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final tableStyle = TextStyle(fontSize: 14, color: Colors.grey[700]);
+
+    return Scaffold(
+      appBar: AppBar(title: Text("Conjugation")),
+      body: SingleChildScrollView(
+        padding: const EdgeInsets.all(12.0),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+
+            // === Dropdown and Search
+            DropdownButton<dynamic>(
+              hint: Text("Select a verb"),
+              value: selectedVerb,
+              isExpanded: true,
+              items: conjugationList.map((verb) {
+                final display = "${verb['verb']} | ${verb['translit']} | ${verb['meaning']}";
+                return DropdownMenuItem(
+                  value: verb,
+                  child: Text(display),
+                );
+              }).toList(),
+              onChanged: (value) {
+                setState(() {
+                  selectedVerb = value;
+                });
+              },
+            ),
+            SizedBox(height: 10),
+
+            // === Tense Selector
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              children: ["past", "present", "future"].map((tense) {
+                final label = tenseLabels[tense]!;
+                final selected = tense == selectedTense;
+                return ElevatedButton(
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: selected ? Colors.teal : Colors.grey[300],
+                    foregroundColor: selected ? Colors.white : Colors.black,
+                  ),
+                  onPressed: () => setState(() => selectedTense = tense),
+                  child: Column(
+                    children: [
+                      Text(label["ar"]!, style: TextStyle(fontSize: 20)),
+                      Text(label["tr"]!, style: TextStyle(fontSize: 12)),
+                      Text(label["en"]!, style: TextStyle(fontSize: 12)),
+                    ],
+                  ),
+                );
+              }).toList(),
+            ),
+            SizedBox(height: 20),
+
+            if (selectedVerb != null)
+              Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  // === Verb Header
+                  Center(
+                    child: Column(
+                      children: [
+                        Text(
+                          selectedVerb['verb'],
+                          style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+                        ),
+                        Text(
+                          "${selectedVerb['translit']} — ${selectedVerb['meaning']}",
+                          style: TextStyle(fontSize: 14, color: Colors.grey[700]),
+                        ),
+                      ],
+                    ),
+                  ),
+            
+                  SizedBox(height: 16),
+
+                  // === Table of forms
+                  ...selectedVerb["forms"][selectedTense].entries.map((entry) {
+                    final person = entry.key;
+                    final data = entry.value;
+
+                    return Padding(
+                      padding: const EdgeInsets.symmetric(vertical: 6.0),
+                      child: Row(
+                        children: [
+                          // Person cell
+                          Expanded(
+                            flex: 1,
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Text(data["pronoun_ar"] ?? "", style: TextStyle(fontSize: 16)),
+                                Text("${data["pronoun_translit"] ?? ""} | $person", style: tableStyle),
+                              ],
+                            ),
+                          ),
+                          // Verb cell
+                          Expanded(
+                            flex: 5,
+                            child: GestureDetector(
+                              onTap: () => playAudio(data["audio_path"]),
+                              child: Container(
+                                padding: EdgeInsets.all(8),
+                                decoration: BoxDecoration(
+                                  color: Colors.teal[50],
+                                  borderRadius: BorderRadius.circular(8),
+                                  boxShadow: [BoxShadow(color: Colors.black12, blurRadius: 3)],
+                                ),
+                                child: Column(
+                                  crossAxisAlignment: CrossAxisAlignment.center,
+                                  children: [
+                                    Text(data["ar"], style: TextStyle(fontSize: 20)),
+                                    SizedBox(height: 4),
+                                    Text(data["tr"], style: tableStyle),
+                                    Text(data["en"], style: tableStyle),
+                                  ],
+                                ),
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                    );
+                  }).toList(),
+                ],
+              ),
+            
+            // === Menu button
+            ElevatedButton(
+              onPressed: () => Navigator.pushNamed(context, '/'),
+              child: Text("Menu"),
+              style: ElevatedButton.styleFrom(minimumSize: Size(double.infinity, 48)),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
