@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'flashcard_page.dart';
+import 'new_new_flashcard_page.dart';
 import 'conjugation_page.dart';
 
 void main() {
