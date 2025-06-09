@@ -3,6 +3,15 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:audioplayers/audioplayers.dart';
 
+const Color kColor1 = Color(0xFF44562f);
+const Color kColor2 = Color(0xFFb3000c);
+const Color kColor3 = Color(0xFFb7c88d);
+const Color kColor4 = Color(0xFFe9dfb4);
+const Color kColor5 = Color(0xFFefbfb3);
+const Color kColor6 = Color(0xFF9f9fd0);
+const Color kColor7 = Color(0xFF4b7c9b);
+const Color kColor8 = Color(0xFFb1d8e7);
+
 class ConjugationPage extends StatefulWidget {
   @override
   _ConjugationPageState createState() => _ConjugationPageState();
@@ -41,7 +50,7 @@ class _ConjugationPageState extends State<ConjugationPage> {
 
   @override
   Widget build(BuildContext context) {
-    final tableStyle = TextStyle(fontSize: 14, color: Colors.grey[700]);
+    final tableStyle = TextStyle(fontSize: 14, color: kColor1);
 
     return Scaffold(
       appBar: AppBar(title: Text("Conjugation")),
@@ -79,8 +88,8 @@ class _ConjugationPageState extends State<ConjugationPage> {
                 final selected = tense == selectedTense;
                 return ElevatedButton(
                   style: ElevatedButton.styleFrom(
-                    backgroundColor: selected ? Colors.teal : Colors.grey[300],
-                    foregroundColor: selected ? Colors.white : Colors.black,
+                    backgroundColor: selected ? kColor1 : Colors.grey[300],
+                    foregroundColor: selected ? Colors.white : kColor2,
                   ),
                   onPressed: () => setState(() => selectedTense = tense),
                   child: Column(
@@ -145,14 +154,14 @@ class _ConjugationPageState extends State<ConjugationPage> {
                               child: Container(
                                 padding: EdgeInsets.all(8),
                                 decoration: BoxDecoration(
-                                  color: Colors.teal[50],
+                                  color: kColor4,
                                   borderRadius: BorderRadius.circular(8),
                                   boxShadow: [BoxShadow(color: Colors.black12, blurRadius: 3)],
                                 ),
                                 child: Column(
                                   crossAxisAlignment: CrossAxisAlignment.center,
                                   children: [
-                                    Text(data["ar"], style: TextStyle(fontSize: 20)),
+                                    Text(data["ar"], style: TextStyle(fontSize: 20, color: kColor2)),
                                     SizedBox(height: 4),
                                     Text(data["tr"], style: tableStyle),
                                     Text(data["en"], style: tableStyle),
