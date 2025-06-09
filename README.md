@@ -89,13 +89,20 @@ The app uses a robust relational schema to support complex filters and personali
 ![Flashcard Screen Before Reveal](assets/before_reveal.png)
 ![Flashcard Screen After Reveal](assets/after_reveal.png)
 
-- 🧮 Conjugation Reference
+- <span style="font-size: 20px;">🧮 **Conjugation Reference**</span>
+&nbsp;
+
 ![Conjugation](assets/conjugation.png)
 ![Verb Selection](assets/verb_selection.png)
 ![Verb Table](assets/verb_table.png)
 
-- 🧠 Sentence Generator *(coming soon)*
-- 📂 Filter Selection Panel *(coming soon)*
+- <span style="font-size: 20px;">🧠 **Sentence Generator** *(coming soon)*</span>
+&nbsp;
+
+
+- <span style="font-size: 20px;">📂 **Filter Selection Panel** *(coming soon)*</span>
+&nbsp;
+
 
 > 👇 All screenshots available in the `/assets/` folder.
 
