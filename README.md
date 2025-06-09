@@ -1,5 +1,7 @@
 # 🗣️ Saudi Arabic Flashcard App
 
+[🇫🇷 Lire en français](README.fr.md)
+
 **A lightweight mobile app to build practical fluency in Saudi Arabic, through spaced repetition, smart filters, and AI-powered sentence generation.**
 
 ---

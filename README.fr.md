@@ -1,5 +1,7 @@
 # 🗣️ Saudi Arabic Flashcard App
 
+[🇫🇷 Read in English](README.md)
+
 **Une application mobile légère pour acquérir une maîtrise pratique de l’arabe saoudien, grâce à la répétition espacée, des filtres intelligents et une génération de phrases assistée par IA.**
 
 ---
