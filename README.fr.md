@@ -109,7 +109,7 @@ Tables principales :
 - (Optionnel) Android Studio pour compiler depuis le code source
 
 ### 📦 Installation via APK
-1. Téléchargez le fichier `.apk` le plus récent depuis l’onglet [Releases](https://github.com/yourusername/saudi-arabic-flashcards/releases)
+1. Téléchargez le fichier `.apk` le plus récent depuis l’onglet [Releases](https://github.com/HenriSandifer/Saudi_Arabic_Flash_Cards_Flutter/releases/latest)
 2. Autorisez l’installation d’applications issues de sources inconnues
 3. Ouvrez le fichier APK pour installer l’application
 
@@ -133,7 +133,7 @@ L’application cible actuellement le dialecte **saoudien**, basé sur l’usage
 
 ## 👨‍💻 À propos du Développeur
 
-Créée par **Henri Sandifer**, data scientist et linguiste polyglotte, passionné par l’apprentissage intuitif des langues, les filtres cognitifs et la maîtrise pratique des dialectes rares ou sous-représentés.
+Créée par **Henri Sandifer**, data scientist et linguiste polyglotte, passionné par l’apprentissage intuitif des langues et la maîtrise pratique des dialectes rares ou sous-représentés.
 
 > 🌍 Parle couramment anglais, français, italien — niveau intermédiaire en arabe, espagnol, japonais, allemand
 

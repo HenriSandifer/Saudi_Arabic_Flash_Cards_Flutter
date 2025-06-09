@@ -115,7 +115,7 @@ The app uses a robust relational schema to support complex filters and personali
 - (Optional) Android Studio if building locally from source
 
 ### 📦 To install from APK
-1. Download the latest `.apk` file from the [Releases](https://github.com/yourusername/saudi-arabic-flashcards/releases)
+1. Download the latest `.apk` file from the [Releases](https://github.com/HenriSandifer/Saudi_Arabic_Flash_Cards_Flutter/releases/latest)
 2. Allow app installation from unknown sources on your device
 3. Open the APK and install
 
@@ -139,7 +139,7 @@ The app currently supports **Saudi dialect only**, based on usage in and around 
 
 ## 👨‍💻 About the Developer
 
-Created by **Henri Sandifer**, a multilingual data scientist and linguist passionate about intuitive language learning, cognitive filtering, and practical fluency in underrepresented dialects.
+Created by **Henri Sandifer**, a multilingual data scientist and linguist passionate about intuitive language learning and practical fluency in underrepresented dialects.
 
 > 🌍 Fluent in English, French, Italian — Intermediate in Arabic, Spanish, Japanese, German
 
