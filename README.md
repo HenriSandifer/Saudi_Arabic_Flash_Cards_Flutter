@@ -19,11 +19,11 @@ Its goal is to help learners **acquire spoken Saudi Arabic more effectively**, b
 
 ## 🧠 Current Features
 
-- 🎴 **Flashcard system** (with filters and smart logging)
-- 📘 **Conjugation tables** for essential verbs
-- 🎧 **Audio playback** for every word or sentence
-- 📁 **Local SQLite database** of vocabulary and metadata
-- ⚙️ **Filter flashcards by:**
+- **Flashcard system** (with filters and smart logging)
+- **Conjugation tables** for essential verbs
+- **Audio playback** for every word or sentence
+- **Local SQLite database** of vocabulary and metadata
+- ⚙**Filter flashcards by:**
   - Vocab type: *word*, *phrase*, or *both*
   - Word filters: *category*, *theme* (if noun)
   - Phrase filters: *structure*, *function*, *utility*, *theme*, *tone*
@@ -34,10 +34,10 @@ Its goal is to help learners **acquire spoken Saudi Arabic more effectively**, b
 
 ## 🔮 Upcoming Features
 
-- ✍️ **Daily sentence generation**, powered by LLMs
-- 🎯 Smart targeting of grammar points, tones, and themes
-- 🗂️ Enhanced flashcard personalization via learning history
-- 📊 Performance metrics and review streaks
+- **Daily sentence generation**, powered by LLMs
+- Smart targeting of grammar points, tones, and themes
+- 🗂Enhanced flashcard personalization via learning history
+- Performance metrics and review streaks
 
 ---
 
