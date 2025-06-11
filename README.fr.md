@@ -19,11 +19,11 @@ Elle a pour objectif d’aider les apprenants à **maîtriser l’arabe saoudien
 
 ## 🧠 Fonctionnalités Actuelles
 
-- 🎴 **Système de flashcards** (avec filtres et journalisation intelligente)
-- 📘 **Tableaux de conjugaison** pour les verbes essentiels
-- 🎧 **Lecture audio** pour chaque mot ou phrase
-- 📁 **Base de données locale SQLite** avec vocabulaire enrichi de métadonnées
-- ⚙️ **Filtres disponibles :**
+- **Système de flashcards** (avec filtres et journalisation intelligente)
+- **Tableaux de conjugaison** pour les verbes essentiels
+- **Lecture audio** pour chaque mot ou phrase
+- **Base de données locale SQLite** avec vocabulaire enrichi de métadonnées
+- ⚙**Filtres disponibles :**
   - Type : *mot*, *phrase*, ou *les deux*
   - Pour les mots : *catégorie*, *thème* (si nom)
   - Pour les phrases : *structure*, *fonction*, *utilité*, *thème*, *ton*
@@ -34,10 +34,10 @@ Elle a pour objectif d’aider les apprenants à **maîtriser l’arabe saoudien
 
 ## 🔮 Fonctionnalités à Venir
 
-- ✍️ **Génération de phrases quotidiennes** assistée par LLM
-- 🎯 Ciblage intelligent des structures grammaticales, tons et thématiques
-- 🗂️ Personnalisation avancée via historique d’apprentissage
-- 📊 Statistiques de progression et suivi des sessions
+- **Génération de phrases quotidiennes** assistée par LLM
+- Ciblage intelligent des structures grammaticales, tons et thématiques
+- Personnalisation avancée via historique d’apprentissage
+- Statistiques de progression et suivi des sessions
 
 ---
 
@@ -95,10 +95,10 @@ Tables principales :
 ![Verb Selection](assets/verb_selection.png)  
 ![Verb Table](assets/verb_table.png)
 
-- 🧠 Générateur de phrases *(bientôt disponible)*
-- 📂 Interface de sélection des filtres *(bientôt disponible)*
+- Générateur de phrases *(bientôt disponible)*
+- Interface de sélection des filtres *(bientôt disponible)*
 
-> 👇 Toutes les captures d’écran sont disponibles dans le dossier `/assets/`.
+> Toutes les captures d’écran sont disponibles dans le dossier `/assets/`.
 
 ---
 
