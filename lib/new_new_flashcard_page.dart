@@ -120,7 +120,11 @@ class _FlashcardPageState extends State<FlashcardPage> {
                 ),
                 child: Text(
                   revealed ? currentWord!["arabic_word"] : currentWord!["english"],
-                  style: TextStyle(color: revealed ? kColor2 : kColor1, fontWeight: FontWeight.bold, fontSize : 32),
+                  style: TextStyle(
+                    color: revealed ? kColor2 : kColor1,
+                    fontWeight: FontWeight.bold,
+                    fontSize : 32,
+                    fontFamily: "Lora"),
                   textAlign: TextAlign.center,
                 ),
               ),
@@ -139,13 +143,28 @@ class _FlashcardPageState extends State<FlashcardPage> {
             ),*/
             if (revealed) ...[
               SizedBox(height: 12),
-              Text(currentWord!["transliteration"], style: TextStyle(color: kColor1, fontSize: 20)),
+              Text(currentWord!["transliteration"], style: TextStyle(
+                color: kColor1,
+                fontSize: 20,
+                fontFamily: "Lora")),
               SizedBox(height: 4),
-              Text(currentWord!["english"], style: TextStyle(color: kColor1, fontSize: 20), textAlign: TextAlign.center,),
+              Text(currentWord!["english"], style: TextStyle(
+                color: kColor1,
+                fontSize: 20,
+                fontFamily: "Lora"), textAlign: TextAlign.center,),
               SizedBox(height: 12),
-              Text(currentWord!["category"], style: TextStyle(color: kColor1, fontSize: 20)),
-              Text(currentWord!["type"], style: TextStyle(color: kColor1, fontSize: 20)),
-              Text(currentWord!["notes"], style: TextStyle(color: kColor1, fontSize: 20)),
+              Text(currentWord!["category"], style: TextStyle(
+                color: kColor1,
+                fontSize: 20,
+                fontFamily: "Lora")),
+              Text(currentWord!["type"], style: TextStyle(
+                color: kColor1,
+                fontSize: 20,
+                fontFamily: "Lora")),
+              Text(currentWord!["notes"], style: TextStyle(
+                color: kColor1,
+                fontSize: 20,
+                fontFamily: "Lora")),
               //Text(currentWord!["dialect"], style: TextStyle(color: kColor1, fontSize: 20)),
               // ElevatedButton(
                // onPressed: () => playAudio(currentWord!["audio_path"]),
@@ -164,7 +183,10 @@ class _FlashcardPageState extends State<FlashcardPage> {
                     style: ElevatedButton.styleFrom(
                       backgroundColor: feedbackColor == kColor8 ? kColor8 : null,
                     ),
-                    child: Text("Right"),
+                    child: Text("Right",
+                    style: TextStyle(
+                      fontFamily: "Norwester"
+                    )),
                   ),
                   ElevatedButton(
                     onPressed: () async {
@@ -175,7 +197,10 @@ class _FlashcardPageState extends State<FlashcardPage> {
                     style: ElevatedButton.styleFrom(
                       backgroundColor: feedbackColor == kColor5 ? kColor5 : null,
                     ),
-                    child: Text("Practice"),
+                    child: Text("Practice",
+                    style: TextStyle(
+                      fontFamily: "Norwester"
+                    )),
                   ),
                 ],
               ),

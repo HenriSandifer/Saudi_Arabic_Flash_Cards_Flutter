@@ -50,23 +50,19 @@ class _ConjugationPageState extends State<ConjugationPage> {
 
   @override
   Widget build(BuildContext context) {
-    final tableStyle = TextStyle(fontSize: 14, color: kColor1);
+    final tableStyle = TextStyle(fontSize: 14, color: kColor1, fontFamily: "Lora");
 
     return Scaffold(
-      appBar: AppBar(title: Text("Conjugation")),
-      body:
-      Stack(
-        children: 
-          [ 
+        appBar: AppBar(title: Text("Conjugation")),
+        body: Stack(
+          children: [
             // === Scrollable main content
-          Padding(
-            padding : const EdgeInsets.only(bottom:70.0),
-            child: SingleChildScrollView(
-              padding: const EdgeInsets.all(12.0),
+            // Added bottom padding to ensure content doesn't hide behind the button
+            SingleChildScrollView(
+              padding: const EdgeInsets.fromLTRB(12.0, 12.0, 12.0, 80.0), // Added bottom padding
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-
                   // === Dropdown and Search
                   DropdownButton<dynamic>(
                     hint: Text("Select a verb"),
@@ -102,7 +98,7 @@ class _ConjugationPageState extends State<ConjugationPage> {
                         child: Column(
                           children: [
                             Text(label["ar"]!, style: TextStyle(fontSize: 20)),
-                            Text(label["tr"]!, style: TextStyle(fontSize: 12, fontFamily: "Lora")),
+                            Text(label["tr"]!, style: TextStyle(fontSize: 14, fontFamily: "Lora")),
                             Text(label["en"]!, style: TextStyle(fontSize: 12)),
                           ],
                         ),
@@ -130,7 +126,7 @@ class _ConjugationPageState extends State<ConjugationPage> {
                             ],
                           ),
                         ),
-                  
+
                         SizedBox(height: 16),
 
                         // === Table of forms
@@ -183,26 +179,24 @@ class _ConjugationPageState extends State<ConjugationPage> {
                         }).toList(),
                       ],
                     ),
-                  
-                  // === Menu button
-                   Positioned(
-                    left: 16,
-                    right: 16,
-                    bottom: 90,
-                    child: ElevatedButton(
-                      onPressed: () => Navigator.pushNamed(context, '/'),
-                      child: Text("Menu"),
-                      style: ElevatedButton.styleFrom(
-                        minimumSize: Size(double.infinity, 48),
-                      ),
-                    ),
-                  ),
                 ],
               ),
             ),
-          ),
-        ],
-      )
-    );
+
+            // === Floating Menu Button
+            Positioned(
+              left: 16,
+              right: 16,
+              bottom: 20, // Adjust vertical position from bottom
+              child: ElevatedButton(
+                onPressed: () => Navigator.pushNamed(context, '/'),
+                child: Text("Menu"),
+                style: ElevatedButton.styleFrom(
+                  minimumSize: Size(double.infinity, 48),
+                ),
+              ),
+            ),
+          ],
+        ));
   }
 }
