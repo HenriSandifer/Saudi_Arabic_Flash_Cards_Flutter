@@ -1,4 +1,6 @@
-# 🗣️ Saudi Arabic Flashcard App
+# 🗣️ RAWA
+
+![rawa_logo](assets/visuals/rawa_logo.png)
 
 [🇫🇷 Lire en français](README.fr.md)
 
@@ -65,17 +67,17 @@ The app uses a robust relational schema to support complex filters and personali
 - <span style="font-size: 20px;">**MCD (Conceptual Data Model)**</span>
 &nbsp;
 
-![Flashcard Screen Before Reveal](assets/MCD.png)
+![Flashcard Screen Before Reveal](assets/visuals/MCD.png)
 
 - <span style="font-size: 20px;">**MLD (Logical Data Model)**</span>
 &nbsp;
 
-![Flashcard Screen Before Reveal](assets/MLD.png)
+![Flashcard Screen Before Reveal](assets/visuals/MLD.png)
 
 - <span style="font-size: 20px;">**MPD (Physical SQL Tables)**</span>
 &nbsp;
 
-![Flashcard Screen Before Reveal](assets/MPD.png) 
+![Flashcard Screen Before Reveal](assets/visuals/MPD.png) 
 
 > ☑️ See `/assets/` for full-resolution diagrams.
 
@@ -86,15 +88,15 @@ The app uses a robust relational schema to support complex filters and personali
 - <span style="font-size: 20px;">📲 **Flashcard Screen**</span>
 &nbsp;
 
-![Flashcard Screen Before Reveal](assets/before_reveal.png)
-![Flashcard Screen After Reveal](assets/after_reveal.png)
+![Flashcard Screen Before Reveal](assets/visuals/before_reveal.png)
+![Flashcard Screen After Reveal](assets/visuals/after_reveal.png)
 
 - <span style="font-size: 20px;">🧮 **Conjugation Reference**</span>
 &nbsp;
 
-![Conjugation](assets/conjugation.png)
-![Verb Selection](assets/verb_selection.png)
-![Verb Table](assets/verb_table.png)
+![Conjugation](assets/visuals/conjugation.png)
+![Verb Selection](assets/visuals/verb_selection.png)
+![Verb Table](assets/visuals/verb_table.png)
 
 - <span style="font-size: 20px;">🧠 **Sentence Generator** *(coming soon)*</span>
 &nbsp;
