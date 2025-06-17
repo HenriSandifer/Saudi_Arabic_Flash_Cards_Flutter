@@ -1,4 +1,6 @@
-# 🗣️ Saudi Arabic Flashcard App
+# 🗣️ RAWA
+
+![Logo](assets/visuals/rawa_logo.png)
 
 [🇫🇷 Read in English](README.md)
 
@@ -87,13 +89,14 @@ Tables principales :
 - <span style="font-size: 20px;">📲 **Écran Flashcard**</span>  
 &nbsp;
 
-![Flashcard Screen Before Reveal](assets/before_reveal.png)  
-![Flashcard Screen After Reveal](assets/after_reveal.png)
+![Main_Menu](assets/visuals/main_menu.png)
+![Flashcard Screen Before Reveal](assets/visuals/before_reveal.png)  
+![Flashcard Screen After Reveal](assets/visuals/after_reveal.png)
 
 - 🧮 Référence de conjugaison  
-![Conjugation](assets/conjugation.png)  
-![Verb Selection](assets/verb_selection.png)  
-![Verb Table](assets/verb_table.png)
+![Conjugation](assets/visuals/conjugation.png)  
+![Verb Selection](assets/visuals/verb_selection.png)  
+![Verb Table](assets/visuals/verb_table.png)
 
 - Générateur de phrases *(bientôt disponible)*
 - Interface de sélection des filtres *(bientôt disponible)*
