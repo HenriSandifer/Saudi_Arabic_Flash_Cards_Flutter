@@ -68,8 +68,8 @@ class MenuScreen extends StatelessWidget {
           Center(
             child: Image.asset(
               'assets/visuals/rawa_logo.png',
-              width: 150,
-              height: 150,
+              width: 300,
+              height: 300,
             ),
           ),
           const Spacer(flex: 3), // Creates vertical space between logo and buttons
