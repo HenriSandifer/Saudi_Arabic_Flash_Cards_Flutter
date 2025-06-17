@@ -67,17 +67,17 @@ The app uses a robust relational schema to support complex filters and personali
 - <span style="font-size: 20px;">**MCD (Conceptual Data Model)**</span>
 &nbsp;
 
-![Flashcard Screen Before Reveal](assets/visuals/MCD.png)
+![MCD](assets/visuals/MCD.png)
 
 - <span style="font-size: 20px;">**MLD (Logical Data Model)**</span>
 &nbsp;
 
-![Flashcard Screen Before Reveal](assets/visuals/MLD.png)
+![MLD](assets/visuals/MLD.png)
 
 - <span style="font-size: 20px;">**MPD (Physical SQL Tables)**</span>
 &nbsp;
 
-![Flashcard Screen Before Reveal](assets/visuals/MPD.png) 
+![MPD](assets/visuals/MPD.png) 
 
 > ☑️ See `/assets/` for full-resolution diagrams.
 
@@ -88,6 +88,7 @@ The app uses a robust relational schema to support complex filters and personali
 - <span style="font-size: 20px;">📲 **Flashcard Screen**</span>
 &nbsp;
 
+![Main_Menu](assets/visuals/main_menu.png)
 ![Flashcard Screen Before Reveal](assets/visuals/before_reveal.png)
 ![Flashcard Screen After Reveal](assets/visuals/after_reveal.png)
 
