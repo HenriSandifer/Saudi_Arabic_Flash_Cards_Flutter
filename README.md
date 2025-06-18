@@ -63,24 +63,6 @@ The app uses a robust relational schema to support complex filters and personali
 - `grammar`, `conjugation`, `user_logs`
 - Linking tables: `vocab_theme`, `vocab_type`, `phrase_structure`, etc.
 
-### 📊 Merise Diagrams:
-- <span style="font-size: 20px;">**MCD (Conceptual Data Model)**</span>
-&nbsp;
-
-![MCD](assets/visuals/MCD.png)
-
-- <span style="font-size: 20px;">**MLD (Logical Data Model)**</span>
-&nbsp;
-
-![MLD](assets/visuals/MLD.png)
-
-- <span style="font-size: 20px;">**MPD (Physical SQL Tables)**</span>
-&nbsp;
-
-![MPD](assets/visuals/MPD.png) 
-
-> ☑️ See `/assets/` for full-resolution diagrams.
-
 ---
 
 ## 🖼️ Screenshots
