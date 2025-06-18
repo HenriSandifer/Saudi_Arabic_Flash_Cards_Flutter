@@ -55,35 +55,6 @@ Elle a pour objectif d’aider les apprenants à **maîtriser l’arabe saoudien
 
 ---
 
-## 🗃️ Modèle de Données & Architecture
-
-L’application s’appuie sur un schéma relationnel solide permettant des filtres complexes et une personnalisation par utilisateur.
-
-Tables principales :
-- `vocab`, `daily_sentences`
-- `grammar`, `conjugation`, `user_logs`
-- Tables de liaison : `vocab_theme`, `vocab_type`, `phrase_structure`, etc.
-
-### 📊 Diagrammes Merise :
-- <span style="font-size: 20px;">**MCD (Modèle Conceptuel de Données)**</span>  
-&nbsp;
-
-![Flashcard Screen Before Reveal](assets/MCD.png)
-
-- <span style="font-size: 20px;">**MLD (Modèle Logique de Données)**</span>  
-&nbsp;
-
-![Flashcard Screen Before Reveal](assets/MLD.png)
-
-- <span style="font-size: 20px;">**MPD (Modèle Physique des Données)**</span>  
-&nbsp;
-
-![Flashcard Screen Before Reveal](assets/MPD.png)
-
-> ☑️ Voir `/assets/` pour les diagrammes en haute résolution.
-
----
-
 ## 🖼️ Captures d'Écran
 
 - <span style="font-size: 20px;">📲 **Écran Flashcard**</span>  
